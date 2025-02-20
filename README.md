@@ -154,7 +154,8 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[Crawl4AI](https://github.com/unclecode/crawl4ai)** – A web crawler for AI data collection and content extraction  
 - **[Inngest](https://github.com/inngest/inngest)** – Serverless workflows and event-driven automation  
 - **[Dribbble - Dashboard](https://dribbble.com/search/dashboard)** – A creative platform for discovering UI/UX design inspiration
-- **[Crawlee](https://crawlee.dev/)** – Web scraping and automation framework for Node.js  
+- **[Crawlee](https://crawlee.dev/)** – Web scraping and automation framework for Node.js
+- **[Gitmoji](https://gitmoji.dev/)** – A guide to using Gitmoji to add emojis to your Git commits  
 
 ### 🧑‍💻 Productivity Tools  
 - **[ClickUp](https://clickup.com/)** – Project management platform for organizing tasks, collaborating, and tracking productivity  
@@ -193,7 +194,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[Apollo Client](https://www.apollographql.com/docs/react/)** – GraphQL data management for React  
 - **[Restify](https://restify.com/)** – Framework for building RESTful APIs with Node.js  
 - **[API Platform](https://api-platform.com/)** – Framework for building modern and scalable APIs with Symfony, GraphQL, and REST
-- 
+ 
 ---
 
 ## 🔧 No-code/Low-code  
