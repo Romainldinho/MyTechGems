@@ -152,7 +152,8 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[The Net Ninja](https://www.youtube.com/c/TheNetNinja)** – Amazing YouTube tutorials  
 - **[Crawl4AI](https://github.com/unclecode/crawl4ai)** – A web crawler for AI data collection and content extraction  
 - **[Inngest](https://github.com/inngest/inngest)** – Serverless workflows and event-driven automation  
-- **[Dribbble - Dashboard](https://dribbble.com/search/dashboard)** – A creative platform for discovering UI/UX design inspiration  
+- **[Dribbble - Dashboard](https://dribbble.com/search/dashboard)** – A creative platform for discovering UI/UX design inspiration
+- **[Crawlee](https://crawlee.dev/)** – Web scraping and automation framework for Node.js  
 
 ### 🧑‍💻 Productivity Tools  
 - **[ClickUp](https://clickup.com/)** – Project management platform for organizing tasks, collaborating, and tracking productivity  
@@ -168,37 +169,36 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 ---
 
 ## 🔒 Security  
-- **[OWASP](https://owasp.org/)** – Organisation qui fournit des ressources et des guides sur la sécurité des applications web  
-- **[Helmet](https://helmetjs.github.io/)** – Middleware de sécurité pour Express.js  
-- **[Auth0](https://auth0.com/)** – Service d'authentification pour les applications web et mobiles  
-
+- **[OWASP](https://owasp.org/)** – Organization providing resources and guides on web application security  
+- **[Helmet](https://helmetjs.github.io/)** – Security middleware for Express.js  
+- **[Auth0](https://auth0.com/)** – Authentication service for web and mobile applications
+  
 ---
 
 ## 🌍 Cloud & Infrastructure  
-- **[AWS Lambda](https://aws.amazon.com/lambda/)** – Exécution de code sans serveur sur AWS  
-- **[Terraform](https://www.terraform.io/)** – Infrastructure as code pour la gestion de l'infrastructure cloud  
-- **[Kubernetes](https://kubernetes.io/)** – Orchestration de conteneurs pour déployer des applications à grande échelle  
-- **[Vercel](https://vercel.com/)** – Plateforme serverless pour déployer des applications modernes
-- **[MinIO](https://min.io/)** – Stockage d'objets haute performance, compatible avec AWS S3, pour des applications cloud natives
-- **[Elasticsearch](https://www.elastic.co/elasticsearch/)** – Moteur de recherche et d'analyse pour des volumes de données massifs en temps réel  
-- **[Logstash](https://www.elastic.co/logstash/)** – Outil pour collecter, transformer et envoyer les logs à Elasticsearch  
-- **[Kibana](https://www.elastic.co/kibana/)** – Interface pour visualiser les données stockées dans Elasticsearch  
-  
-
+- **[AWS Lambda](https://aws.amazon.com/lambda/)** – Serverless code execution on AWS  
+- **[Terraform](https://www.terraform.io/)** – Infrastructure as code for managing cloud infrastructure  
+- **[Kubernetes](https://kubernetes.io/)** – Container orchestration for deploying applications at scale  
+- **[Vercel](https://vercel.com/)** – Serverless platform for deploying modern applications  
+- **[MinIO](https://min.io/)** – High-performance object storage, compatible with AWS S3, for cloud-native applications  
+- **[Elasticsearch](https://www.elastic.co/elasticsearch/)** – Search and analytics engine for massive real-time data volumes  
+- **[Logstash](https://www.elastic.co/logstash/)** – Tool for collecting, transforming, and sending logs to Elasticsearch  
+- **[Kibana](https://www.elastic.co/kibana/)** – Interface for visualizing data stored in Elasticsearch
+   
 ---
 
 ## 🛠️ APIs  
-- **[GraphQL](https://graphql.org/)** – Langage de requête pour API, offrant plus de flexibilité par rapport aux APIs REST  
-- **[Apollo Client](https://www.apollographql.com/docs/react/)** – Gestion des données GraphQL pour React  
-- **[Restify](https://restify.com/)** – Framework pour créer des APIs RESTful avec Node.js
-- **[API Platform](https://api-platform.com/)** – Framework pour créer des APIs modernes et évolutives avec Symfony, GraphQL et REST  
-
+- **[GraphQL](https://graphql.org/)** – Query language for APIs, offering more flexibility compared to REST APIs  
+- **[Apollo Client](https://www.apollographql.com/docs/react/)** – GraphQL data management for React  
+- **[Restify](https://restify.com/)** – Framework for building RESTful APIs with Node.js  
+- **[API Platform](https://api-platform.com/)** – Framework for building modern and scalable APIs with Symfony, GraphQL, and REST
+- 
 ---
 
 ## 🔧 No-code/Low-code  
-- **[Bubble](https://bubble.io/)** – Plateforme de développement sans code pour créer des applications web interactives  
-- **[Webflow](https://webflow.com/)** – Outil de design sans code pour créer des sites web professionnels  
-
+- **[Bubble](https://bubble.io/)** – No-code development platform for building interactive web applications  
+- **[Webflow](https://webflow.com/)** – No-code design tool for creating professional websites
+  
 ## 🧑‍💻 Development Tools
 
 ### **[Visual Studio Code](https://code.visualstudio.com/)** – A powerful and versatile code editor for web and software development
