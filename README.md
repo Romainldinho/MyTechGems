@@ -40,6 +40,13 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[ShadCN UI](https://ui.shadcn.com/)** – Prebuilt components for Next.js & Tailwind  
 - **[T3 Stack](https://create.t3.gg/)** – TypeScript + Next.js + Prisma + TRPC + Tailwind  
 - **[Astro](https://astro.build/)** – Ultra-fast framework for content-driven websites  
+- **[React Hook Form](https://react-hook-form.com/)** – A library for managing forms in React with easy-to-use validation and minimal re-renders  
+
+### 🟡 State Management  
+- **[Redux Toolkit](https://redux-toolkit.js.org/)** – Official Redux library for efficient and standardized Redux development
+- **[Zustand](https://github.com/pmndrs/zustand)** – A small, fast, and scalable state management solution for React
+  
+
 
 #### 🧪 Testing Tools for React  
 - **[Jest](https://jestjs.io/)** – JavaScript testing framework for unit tests  
