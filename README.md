@@ -12,6 +12,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 4. [🛠️ Backend Development](#-backend-development)  
    - [🐘 PHP Ecosystem](#-php-ecosystem)  
    - [🟡 Node.js & JavaScript](#-nodejs--javascript)  
+   - [📝 CMS](#-cms)  
 5. [🗄️ Databases & ORM](#-databases--orm)  
 6. [🌐 Full-Stack & DevOps](#-full-stack--devops)  
 7. [📚 Useful Resources](#-useful-resources)  
@@ -101,6 +102,14 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[Chai](https://www.chaijs.com/)** – Assertion library for Mocha  
 - **[Jest](https://jestjs.io/)** – JavaScript testing framework  
 - **[Supertest](https://www.npmjs.com/package/supertest)** – HTTP assertions for testing REST APIs  
+
+### 📝 CMS  
+- **[Strapi](https://strapi.io/)** – Open-source headless CMS built with Node.js  
+- **[Directus](https://directus.io/)** – Headless CMS for managing your content with an intuitive interface  
+- **[Contentful](https://www.contentful.com/)** – Headless CMS for delivering content via APIs  
+- **[Sanity](https://www.sanity.io/)** – Real-time headless CMS and structured content platform  
+- **[Ghost](https://ghost.org/)** – A powerful publishing platform for blogs and online publications  
+- **[KeystoneJS](https://keystonejs.com/)** – Headless CMS and web application platform built with Node.js  
 
 ---
 
