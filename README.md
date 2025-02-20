@@ -263,7 +263,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 ## 🧑‍💻 Development Tools
 
 - **[Visual Studio Code](https://code.visualstudio.com/)** – A powerful and versatile code editor for web and software development.
-- **[Extentions Visual Studio Code](/vscode-extensions.md)
+- **[Extentions Visual Studio Code](vscode-extensions.md)** List of extensions
 
 ---
 
