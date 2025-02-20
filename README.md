@@ -32,7 +32,9 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 ### ⚛️ React Ecosystem  
 - **[React](https://react.dev/)** – The most popular frontend library  
 - **[Next.js](https://nextjs.org/)** – The React framework for production  
-- **[ShadCN UI](https://ui.shadcn.com/)** – Prebuilt components for Next.js & Tailwind  
+- **[ShadCN UI](https://ui.shadcn.com/)** – Prebuilt components for Next.js & Tailwind
+- **[T3 Stack](https://create.t3.gg/)** – TypeScript + Next.js + Prisma + TRPC + Tailwind  
+- **[Astro](https://astro.build/)** – Ultra-fast framework for content-driven websites  
 
 #### 🧪 Testing Tools for React  
 - **[Jest](https://jestjs.io/)** – JavaScript testing framework for unit tests  
@@ -122,9 +124,9 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 ---
 
 ## 🌐 Full-Stack & DevOps  
-- **[T3 Stack](https://create.t3.gg/)** – TypeScript + Next.js + Prisma + TRPC + Tailwind  
-- **[Astro](https://astro.build/)** – Ultra-fast framework for content-driven websites  
-- **[Docker](https://www.docker.com/)** – Containerization for scalable applications  
+
+- **[Docker](https://www.docker.com/)** – Containerization for scalable applications
+- **[Dokploy](https://github.com/Dokploy/dokploy)** – Deployment automation and cloud management with Docker  
 - **[Bun](https://bun.sh/)** – Fast JavaScript runtime & package manager  
 
 ---
@@ -133,6 +135,9 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[MDN Web Docs](https://developer.mozilla.org/)** – The ultimate web reference  
 - **[FreeCodeCamp](https://www.freecodecamp.org/)** – Learn coding interactively  
 - **[The Net Ninja](https://www.youtube.com/c/TheNetNinja)** – Amazing YouTube tutorials  
+- **[Crawl4AI](https://github.com/unclecode/crawl4ai)** – A web crawler for AI data collection and content extraction  
+- **[Inngest](https://github.com/inngest/inngest)** – Serverless workflows and event-driven automation  
+- **[Dribbble - Dashboard](https://dribbble.com/search/dashboard)** – A creative platform for discovering UI/UX design inspiration  
 
 ---
 
@@ -147,4 +152,4 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 
 ---
 
-🛠️ *This list is always evolving! If you have any recommendations, feel free to contribute or reach out.* 😊  
+🛠️ *This list is always evolving! If you have any recommendations, feel free to contribute or reach out.* 😊
