@@ -146,6 +146,10 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[Inngest](https://github.com/inngest/inngest)** – Serverless workflows and event-driven automation  
 - **[Dribbble - Dashboard](https://dribbble.com/search/dashboard)** – A creative platform for discovering UI/UX design inspiration  
 
+### 🧑‍💻 Productivity Tools  
+- **[ClickUp](https://clickup.com/)** – Project management platform for organizing tasks, collaborating, and tracking productivity  
+- **[Notion](https://www.notion.so/)** – Flexible and customizable project management and note-taking tool
+
 ---
 
 ## ⚙️ Automation & CI/CD  
