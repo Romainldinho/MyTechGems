@@ -14,8 +14,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
    - [🟡 Node.js & JavaScript](#-nodejs--javascript)  
 5. [🗄️ Databases & ORM](#-databases--orm)  
 6. [🌐 Full-Stack & DevOps](#-full-stack--devops)  
-7. [⚡ Testing & Performance](#-testing--performance)  
-8. [📚 Useful Resources](#-useful-resources)  
+7. [📚 Useful Resources](#-useful-resources)  
 
 ---
 
@@ -34,9 +33,22 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[Next.js](https://nextjs.org/)** – The React framework for production  
 - **[ShadCN UI](https://ui.shadcn.com/)** – Prebuilt components for Next.js & Tailwind  
 
+#### 🧪 Testing Tools for React  
+- **[Jest](https://jestjs.io/)** – JavaScript testing framework for unit tests  
+- **[React Testing Library](https://testing-library.com/docs/react-testing-library/)** – Utility for testing React components  
+- **[Cypress](https://www.cypress.io/)** – End-to-end testing for web applications  
+- **[Playwright](https://playwright.dev/)** – End-to-end testing framework for web apps  
+- **[Enzyme](https://enzymejs.github.io/enzyme/)** – JavaScript testing utility for React  
+
 ### 🟢 Vue Ecosystem  
 - **[Vue.js](https://vuejs.org/)** – The progressive JavaScript framework  
 - **[Nuxt.js](https://nuxt.com/)** – Vue framework for server-side rendering  
+
+#### 🧪 Testing Tools for Vue  
+- **[Jest](https://jestjs.io/)** – JavaScript testing framework for unit tests  
+- **[Vue Test Utils](https://vue-test-utils.vuejs.org/)** – Vue.js test utility for unit tests  
+- **[Cypress](https://www.cypress.io/)** – End-to-end testing for web applications  
+- **[Playwright](https://playwright.dev/)** – End-to-end testing framework for web apps  
 
 ### 🎨 UI & Styling  
 - **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework  
@@ -56,6 +68,11 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[React Native Paper](https://reactnativepaper.com/)** – Material Design UI components  
 - **[Reanimated](https://docs.swmansion.com/react-native-reanimated/)** – Advanced animations for React Native  
 
+#### 🧪 Testing Tools for React Native  
+- **[Jest](https://jestjs.io/)** – JavaScript testing framework for unit tests  
+- **[React Native Testing Library](https://testing-library.com/docs/react-native-testing-library/)** – Testing React Native components  
+- **[Detox](https://wix.github.io/Detox/)** – End-to-end testing for React Native apps  
+
 ---
 
 ## 🛠️ Backend Development  
@@ -67,10 +84,23 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[Doctrine](https://www.doctrine-project.org/)** – ORM for Symfony  
 - **[Composer](https://getcomposer.org/)** – Dependency manager for PHP  
 
+#### 🧪 Testing Tools for PHP  
+- **[PHPUnit](https://phpunit.de/)** – The testing framework for PHP  
+- **[Pest](https://pestphp.com/)** – A simpler testing framework for PHP  
+- **[Mockery](https://mockery.github.io/)** – Mock objects framework for PHP  
+- **[PHPStan](https://phpstan.org/)** – Static analysis tool for PHP  
+
 ### 🟡 Node.js & JavaScript  
 - **[Node.js](https://nodejs.org/)** – JavaScript runtime for backend development  
 - **[Express.js](https://expressjs.com/)** – Fast and minimalist web framework  
 - **[NestJS](https://nestjs.com/)** – Scalable TypeScript framework for Node.js  
+- **[Prisma](https://www.prisma.io/)** – Modern ORM for Node.js and TypeScript  
+
+#### 🧪 Testing Tools for Node.js & JavaScript  
+- **[Mocha](https://mochajs.org/)** – Flexible and simple testing framework for Node.js  
+- **[Chai](https://www.chaijs.com/)** – Assertion library for Mocha  
+- **[Jest](https://jestjs.io/)** – JavaScript testing framework  
+- **[Supertest](https://www.npmjs.com/package/supertest)** – HTTP assertions for testing REST APIs  
 
 ---
 
@@ -78,7 +108,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[PostgreSQL](https://www.postgresql.org/)** – Powerful open-source relational database  
 - **[MySQL](https://www.mysql.com/)** – One of the most popular relational databases  
 - **[MongoDB](https://www.mongodb.com/)** – NoSQL document-based database  
-- **[Prisma](https://www.prisma.io/)** – Modern ORM for Node.js and TypeScript  
 - **[Supabase](https://supabase.com/)** – Open-source Firebase alternative  
 
 ---
@@ -91,19 +120,21 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 
 ---
 
-## ⚡ Testing & Performance  
-- **[Jest](https://jestjs.io/)** – JavaScript testing framework  
-- **[Cypress](https://www.cypress.io/)** – End-to-end testing for web applications  
-- **[React Testing Library](https://testing-library.com/)** – Utility for testing React components  
-- **[Zod](https://zod.dev/)** – TypeScript schema validation  
-- **[ESBuild](https://esbuild.github.io/)** – Lightning-fast JavaScript bundler  
-
----
-
 ## 📚 Useful Resources  
 - **[MDN Web Docs](https://developer.mozilla.org/)** – The ultimate web reference  
 - **[FreeCodeCamp](https://www.freecodecamp.org/)** – Learn coding interactively  
 - **[The Net Ninja](https://www.youtube.com/c/TheNetNinja)** – Amazing YouTube tutorials  
+
+---
+
+## 🟡 JavaScript Linter & Code Quality Tools  
+
+### 🔧 Linting & Code Formatting  
+- **[ESLint](https://eslint.org/)** – Linter for identifying and reporting on patterns in JavaScript  
+- **[Prettier](https://prettier.io/)** – Code formatter for maintaining consistent code style  
+- **[Husky](https://typicode.github.io/husky/#/)** – Git hooks to enforce coding standards during commits  
+- **[Lint-staged](https://github.com/okonet/lint-staged)** – Run linters on pre-commit hooks for staged files only  
+- **[Commitlint](https://commitlint.js.org/)** – Lint commit messages to follow a standard convention (e.g., Conventional Commits)
 
 ---
 
