@@ -34,7 +34,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[PHP](https://www.php.net/)** – Server-side scripting language for web development.
 -   **[Python](https://www.python.org/)** – Great for scripting, AI, and web development.
 
----
 
 ## 🎨 Frontend Development
 
@@ -81,7 +80,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Figma](https://www.figma.com/)** – Collaborative UI/UX design tool.
 -   **[canvas-confetti](https://github.com/catdad/canvas-confetti)** - Easily create highly customizable confetti, particles and fireworks animations
 
----
 
 ## 📱 Mobile Development
 
@@ -102,7 +100,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[React Native Testing Library](https://testing-library.com/docs/react-native-testing-library/)** – Testing React Native components.
 -   **[Detox](https://wix.github.io/Detox/)** – End-to-end testing for React Native apps.
 
----
 
 ## 🛠️ Backend Development
 
@@ -144,7 +141,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Ghost](https://ghost.org/)** – Publishing platform for blogs and online publications.
 -   **[KeystoneJS](https://keystonejs.com/)** – Headless CMS and web application platform built with Node.js.
 
----
 
 ## 🗄️ Databases & ORM
 
@@ -154,7 +150,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Supabase](https://supabase.com/)** – Open-source Firebase alternative.
 -   **[DBeaver](https://dbeaver.io/)** – Universal database management tool for SQL and NoSQL databases.
 
----
 
 ## 🌐 DevOps
 
@@ -162,7 +157,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Dokploy](https://github.com/Dokploy/dokploy)** – Deployment automation and cloud management with Docker.
 -   **[Ansible](https://www.ansible.com/)** – Open-source automation tool for configuration management, application deployment, and task automation.
 
----
 
 ## 📚 Useful Resources
 
@@ -180,7 +174,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[ClickUp](https://clickup.com/)** – Project management platform for organizing tasks, collaborating, and tracking productivity.
 -   **[Notion](https://www.notion.so/)** – Flexible and customizable project management and note-taking tool.
 
----
 
 ## ⚙️ Automation & CI/CD
 
@@ -188,7 +181,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[CircleCI](https://circleci.com/)** – Continuous integration and continuous deployment tool.
 -   **[Jenkins](https://www.jenkins.io/)** – Open-source automation server for building, deploying, and automating projects.
 
----
 
 ## 🔐 Security
 
@@ -198,7 +190,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Firebase Authentication](https://firebase.google.com/products/auth/)** – Authentication for mobile and web apps.
 -   **[Keycloak](https://www.keycloak.org/)** – Open-source identity and access management.
 
----
 
 ## 🌍 Cloud & Infrastructure
 
@@ -210,7 +201,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Netlify](https://www.netlify.com/)** – Cloud hosting and automation for web projects.
 -   **[MinIO](https://min.io/)** – High-performance object storage.
 
----
 
 ## 🔄 ELT/ETL
 
@@ -225,7 +215,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 - **[Apache Airflow](https://airflow.apache.org/)** – Orchestration et automatisation des workflows de données  
 - **[Prefect](https://www.prefect.io/)** – Alternative moderne et flexible à Airflow  
 
----
 
 ## 📊 Monitoring & Observability
 
@@ -236,7 +225,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Logstash](https://www.elastic.co/logstash/)** – Data processing pipeline.
 -   **[Kibana](https://www.elastic.co/kibana/)** – Data visualization for Elasticsearch.
 
----
 
 ## 📜 Documentation & Git
 
@@ -246,7 +234,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Gitmoji](https://gitmoji.dev/)** – Emoji guide for commit messages.
 -   **[Docusaurus](https://docusaurus.io/)** – Documentation framework for websites.
 
----
 
 ## 🛠️ APIs
 
@@ -257,7 +244,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[tRPC](https://trpc.io/)** – TypeScript-first API framework for RPC.
 -   **[OpenAPI (Swagger)](https://swagger.io/)** – API documentation and design tool.
 
----
 
 ## 🤖 Web Scraping & Automation
 
@@ -265,7 +251,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Puppeteer](https://pptr.dev/)** – Headless browser automation for Chrome.
 -   **[Playwright](https://playwright.dev/)** – End-to-end testing and automation.
 
----
 
 ## 🔧 No-code/Low-code
 
@@ -274,7 +259,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Zapier](https://zapier.com/)** – Workflow automation for apps.
 -   **[Retool](https://retool.com/)** – Low-code tool for internal business apps.
 
----
 
 ## 🧑‍💻 Development Tools
 
