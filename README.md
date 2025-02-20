@@ -74,7 +74,8 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[React Navigation](https://reactnavigation.org/)** – Powerful navigation for React Native apps  
 - **[NativeWind](https://www.nativewind.dev/)** – Tailwind CSS for React Native  
 - **[React Native Paper](https://reactnativepaper.com/)** – Material Design UI components  
-- **[Reanimated](https://docs.swmansion.com/react-native-reanimated/)** – Advanced animations for React Native  
+- **[Reanimated](https://docs.swmansion.com/react-native-reanimated/)** – Advanced animations for React Native
+- **[scrcpy](https://github.com/Genymobile/scrcpy)** – Display and control Android devices from your computer    
 
 #### 🧪 Testing Tools for React Native  
 - **[Jest](https://jestjs.io/)** – JavaScript testing framework for unit tests  
@@ -165,7 +166,11 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[Terraform](https://www.terraform.io/)** – Infrastructure as code pour la gestion de l'infrastructure cloud  
 - **[Kubernetes](https://kubernetes.io/)** – Orchestration de conteneurs pour déployer des applications à grande échelle  
 - **[Vercel](https://vercel.com/)** – Plateforme serverless pour déployer des applications modernes
-- **[MinIO](https://min.io/)** – Stockage d'objets haute performance, compatible avec AWS S3, pour des applications cloud natives  
+- **[MinIO](https://min.io/)** – Stockage d'objets haute performance, compatible avec AWS S3, pour des applications cloud natives
+- **[Elasticsearch](https://www.elastic.co/elasticsearch/)** – Moteur de recherche et d'analyse pour des volumes de données massifs en temps réel  
+- **[Logstash](https://www.elastic.co/logstash/)** – Outil pour collecter, transformer et envoyer les logs à Elasticsearch  
+- **[Kibana](https://www.elastic.co/kibana/)** – Interface pour visualiser les données stockées dans Elasticsearch  
+  
 
 ---
 
