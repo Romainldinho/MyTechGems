@@ -191,6 +191,41 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[Bubble](https://bubble.io/)** – Plateforme de développement sans code pour créer des applications web interactives  
 - **[Webflow](https://webflow.com/)** – Outil de design sans code pour créer des sites web professionnels  
 
+## 🧑‍💻 Development Tools
+
+### **[Visual Studio Code](https://code.visualstudio.com/)** – A powerful and versatile code editor for web and software development
+
+#### Extensions for Visual Studio Code:
+- **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)** – Improve your code comments with color and style
+- **[SQL Formatter](https://marketplace.visualstudio.com/items?itemName=adpyke.vscode-sql-formatter)** – Format SQL code with ease
+- **[Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)** – PHP Intelephense for enhanced code navigation and completion
+- **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)** – IntelliSense for Tailwind CSS
+- **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** – Linting tool for identifying and fixing JavaScript/TypeScript code quality issues
+- **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)** – Supercharge the built-in Git capabilities of VS Code
+- **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** – Code formatter that supports multiple languages
+- **[Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass)** – Compile Sass/SCSS files to CSS
+- **[Bootstrap IntelliSense](https://marketplace.visualstudio.com/items?itemName=hossaini.bootstrap-intellisense)** – Provides IntelliSense for Bootstrap classes
+- **[VSCode Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)** – Color your workspace with different colors
+- **[Babel JavaScript Syntax](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)** – JavaScript and React syntax and highlighting support
+- **[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)** – View and manage Git repositories with ease
+- **[Dotenv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)** – Syntax highlighting for `.env` files
+- **[GraphQL](https://marketplace.visualstudio.com/items?itemName=mquandalle.graphql)** – Syntax highlighting and IntelliSense for GraphQL
+- **[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)** – Docker support for VS Code
+- **[Remote Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)** – Develop inside a container
+- **[TypeScript Next](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)** – Preview the latest TypeScript features
+- **[React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)** – Debug and develop React Native apps
+- **[Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)** – Laravel Blade templating language support
+- **[Prettier ESLint](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint)** – Combines Prettier and ESLint for formatting
+- **[Jinja HTML](https://marketplace.visualstudio.com/items?itemName=samuelcolvin.jinjahtml)** – Syntax highlighting for Jinja templates
+- **[Blade Formatter](https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter)** – Formatting for Blade templates in Laravel
+- **[Supermaven](https://marketplace.visualstudio.com/items?itemName=supermaven.supermaven)** – A JavaScript/TypeScript project manager extension
+- **[Tabnine](https://marketplace.visualstudio.com/items?itemName=tabnine.tabnine-vscode)** – AI-powered autocompletion for code
+- **[Bootstrap 4 VSCode](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)** – Bootstrap 4 code snippets and snippets
+- **[VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)** – Icon set for files and folders in VS Code
+- **[ENO](https://marketplace.visualstudio.com/items?itemName=wscats.eno)** – Simple syntax for structured data files
+- **[React Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.reactsnippets)** – React code snippets for VS Code
+- **[Pretty TS Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)** – Beautiful TypeScript error messages
+
 ---
 
 🛠️ *This list is always evolving! If you have any recommendations, feel free to contribute or reach out.* 😊
