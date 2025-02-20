@@ -66,7 +66,8 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[Playwright](https://playwright.dev/)** – End-to-end testing framework for web apps  
 
 ### 🎨 UI & Styling  
-- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework  
+- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework
+- **[Bootstrap](https://getbootstrap.com/)** – Popular CSS framework for building responsive, mobile-first websites  
 - **[Material UI](https://mui.com/)** – Beautiful React components  
 - **[Framer Motion](https://www.framer.com/motion/)** – Smooth animations for React  
 - **[Figma](https://www.figma.com/)** – Collaborative UI/UX design tool  
