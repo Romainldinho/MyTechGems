@@ -134,7 +134,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 
 - **[Docker](https://www.docker.com/)** – Containerization for scalable applications  
 - **[Dokploy](https://github.com/Dokploy/dokploy)** – Deployment automation and cloud management with Docker  
-- **[Bun](https://bun.sh/)** – Fast JavaScript runtime & package manager  
+- **[Ansible](https://www.ansible.com/)** – Open-source automation tool for configuration management, application deployment, and task automation
 
 ---
 
