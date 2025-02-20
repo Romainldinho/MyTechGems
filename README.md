@@ -16,6 +16,11 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 5. [🗄️ Databases & ORM](#-databases--orm)  
 6. [🌐 Full-Stack & DevOps](#-full-stack--devops)  
 7. [📚 Useful Resources](#-useful-resources)  
+8. [⚙️ Automation & CI/CD](#-automation--cicd)  
+9. [🔒 Security](#-security)  
+10. [🌍 Cloud & Infrastructure](#-cloud--infrastructure)  
+11. [🛠️ APIs](#-apis)  
+12. [🔧 No-code/Low-code](#-no-codelow-code)  
 
 ---
 
@@ -32,7 +37,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 ### ⚛️ React Ecosystem  
 - **[React](https://react.dev/)** – The most popular frontend library  
 - **[Next.js](https://nextjs.org/)** – The React framework for production  
-- **[ShadCN UI](https://ui.shadcn.com/)** – Prebuilt components for Next.js & Tailwind
+- **[ShadCN UI](https://ui.shadcn.com/)** – Prebuilt components for Next.js & Tailwind  
 - **[T3 Stack](https://create.t3.gg/)** – TypeScript + Next.js + Prisma + TRPC + Tailwind  
 - **[Astro](https://astro.build/)** – Ultra-fast framework for content-driven websites  
 
@@ -125,7 +130,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 
 ## 🌐 Full-Stack & DevOps  
 
-- **[Docker](https://www.docker.com/)** – Containerization for scalable applications
+- **[Docker](https://www.docker.com/)** – Containerization for scalable applications  
 - **[Dokploy](https://github.com/Dokploy/dokploy)** – Deployment automation and cloud management with Docker  
 - **[Bun](https://bun.sh/)** – Fast JavaScript runtime & package manager  
 
@@ -141,14 +146,39 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 
 ---
 
-## 🟡 JavaScript Linter & Code Quality Tools  
+## ⚙️ Automation & CI/CD  
+- **[GitHub Actions](https://github.com/features/actions)** – Outil CI/CD pour l'automatisation des workflows GitHub  
+- **[CircleCI](https://circleci.com/)** – Outil d'intégration continue et de déploiement continu  
+- **[Jenkins](https://www.jenkins.io/)** – Open-source automation server for building, deploying, and automating projects  
 
-### 🔧 Linting & Code Formatting  
-- **[ESLint](https://eslint.org/)** – Linter for identifying and reporting on patterns in JavaScript  
-- **[Prettier](https://prettier.io/)** – Code formatter for maintaining consistent code style  
-- **[Husky](https://typicode.github.io/husky/#/)** – Git hooks to enforce coding standards during commits  
-- **[Lint-staged](https://github.com/okonet/lint-staged)** – Run linters on pre-commit hooks for staged files only  
-- **[Commitlint](https://commitlint.js.org/)** – Lint commit messages to follow a standard convention (e.g., Conventional Commits)
+---
+
+## 🔒 Security  
+- **[OWASP](https://owasp.org/)** – Organisation qui fournit des ressources et des guides sur la sécurité des applications web  
+- **[Helmet](https://helmetjs.github.io/)** – Middleware de sécurité pour Express.js  
+- **[Auth0](https://auth0.com/)** – Service d'authentification pour les applications web et mobiles  
+
+---
+
+## 🌍 Cloud & Infrastructure  
+- **[AWS Lambda](https://aws.amazon.com/lambda/)** – Exécution de code sans serveur sur AWS  
+- **[Terraform](https://www.terraform.io/)** – Infrastructure as code pour la gestion de l'infrastructure cloud  
+- **[Kubernetes](https://kubernetes.io/)** – Orchestration de conteneurs pour déployer des applications à grande échelle  
+- **[Vercel](https://vercel.com/)** – Plateforme serverless pour déployer des applications modernes  
+
+---
+
+## 🛠️ APIs  
+- **[GraphQL](https://graphql.org/)** – Langage de requête pour API, offrant plus de flexibilité par rapport aux APIs REST  
+- **[Apollo Client](https://www.apollographql.com/docs/react/)** – Gestion des données GraphQL pour React  
+- **[Restify](https://restify.com/)** – Framework pour créer des APIs RESTful avec Node.js
+- **[API Platform](https://api-platform.com/)** – Framework pour créer des APIs modernes et évolutives avec Symfony, GraphQL et REST  
+
+---
+
+## 🔧 No-code/Low-code  
+- **[Bubble](https://bubble.io/)** – Plateforme de développement sans code pour créer des applications web interactives  
+- **[Webflow](https://webflow.com/)** – Outil de design sans code pour créer des sites web professionnels  
 
 ---
 
