@@ -126,7 +126,8 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[PostgreSQL](https://www.postgresql.org/)** – Powerful open-source relational database  
 - **[MySQL](https://www.mysql.com/)** – One of the most popular relational databases  
 - **[MongoDB](https://www.mongodb.com/)** – NoSQL document-based database  
-- **[Supabase](https://supabase.com/)** – Open-source Firebase alternative  
+- **[Supabase](https://supabase.com/)** – Open-source Firebase alternative
+- **[DBeaver](https://dbeaver.io/)** – Universal database management tool for SQL and NoSQL databases  
 
 ---
 
