@@ -79,6 +79,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Material UI](https://mui.com/)** – Beautiful React components.
 -   **[Framer Motion](https://www.framer.com/motion/)** – Smooth animations for React.
 -   **[Figma](https://www.figma.com/)** – Collaborative UI/UX design tool.
+-   **[canvas-confetti](https://github.com/catdad/canvas-confetti)** - Easily create highly customizable confetti, particles and fireworks animations
 
 ---
 
