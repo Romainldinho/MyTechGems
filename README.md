@@ -75,7 +75,8 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[NativeWind](https://www.nativewind.dev/)** – Tailwind CSS for React Native  
 - **[React Native Paper](https://reactnativepaper.com/)** – Material Design UI components  
 - **[Reanimated](https://docs.swmansion.com/react-native-reanimated/)** – Advanced animations for React Native
-- **[scrcpy](https://github.com/Genymobile/scrcpy)** – Display and control Android devices from your computer    
+- **[scrcpy](https://github.com/Genymobile/scrcpy)** – Display and control Android devices from your computer
+- **[Material Community Icons](https://static.enapter.com/rn/icons/material-community.html)** – A collection of customizable Material Design icons for React Native  
 
 #### 🧪 Testing Tools for React Native  
 - **[Jest](https://jestjs.io/)** – JavaScript testing framework for unit tests  
