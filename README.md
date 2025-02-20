@@ -164,7 +164,8 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 - **[AWS Lambda](https://aws.amazon.com/lambda/)** – Exécution de code sans serveur sur AWS  
 - **[Terraform](https://www.terraform.io/)** – Infrastructure as code pour la gestion de l'infrastructure cloud  
 - **[Kubernetes](https://kubernetes.io/)** – Orchestration de conteneurs pour déployer des applications à grande échelle  
-- **[Vercel](https://vercel.com/)** – Plateforme serverless pour déployer des applications modernes  
+- **[Vercel](https://vercel.com/)** – Plateforme serverless pour déployer des applications modernes
+- **[MinIO](https://min.io/)** – Stockage d'objets haute performance, compatible avec AWS S3, pour des applications cloud natives  
 
 ---
 
