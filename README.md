@@ -170,37 +170,67 @@ Welcome to **My Tech Gems**! 🚀 This repository is a collection of my favorite
 
 ---
 
-## 🔒 Security  
-- **[OWASP](https://owasp.org/)** – Organization providing resources and guides on web application security  
+## 🔐 Security & Authentication  
+- **[OWASP](https://owasp.org/)** – Security best practices and guides  
 - **[Helmet](https://helmetjs.github.io/)** – Security middleware for Express.js  
-- **[Auth0](https://auth0.com/)** – Authentication service for web and mobile applications
-  
+- **[Auth0](https://auth0.com/)** – Authentication and authorization platform  
+- **[Firebase Authentication](https://firebase.google.com/products/auth/)** – Auth for mobile and web apps  
+- **[Keycloak](https://www.keycloak.org/)** – Open-source identity and access management  
+
 ---
 
-## 🌍 Cloud & Infrastructure  
-- **[AWS Lambda](https://aws.amazon.com/lambda/)** – Serverless code execution on AWS  
-- **[Terraform](https://www.terraform.io/)** – Infrastructure as code for managing cloud infrastructure  
-- **[Kubernetes](https://kubernetes.io/)** – Container orchestration for deploying applications at scale  
-- **[Vercel](https://vercel.com/)** – Serverless platform for deploying modern applications  
-- **[MinIO](https://min.io/)** – High-performance object storage, compatible with AWS S3, for cloud-native applications  
-- **[Elasticsearch](https://www.elastic.co/elasticsearch/)** – Search and analytics engine for massive real-time data volumes  
-- **[Logstash](https://www.elastic.co/logstash/)** – Tool for collecting, transforming, and sending logs to Elasticsearch  
-- **[Kibana](https://www.elastic.co/kibana/)** – Interface for visualizing data stored in Elasticsearch
-   
+## 🚀 DevOps & Cloud  
+- **[Docker](https://www.docker.com/)** – Containerization platform  
+- **[Kubernetes](https://kubernetes.io/)** – Container orchestration system  
+- **[Terraform](https://www.terraform.io/)** – Infrastructure as Code (IaC)  
+- **[AWS Lambda](https://aws.amazon.com/lambda/)** – Serverless computing service  
+- **[Vercel](https://vercel.com/)** – Serverless deployment for frontend projects  
+- **[Netlify](https://www.netlify.com/)** – Cloud hosting and automation for web projects  
+- **[MinIO](https://min.io/)** – High-performance object storage  
+
+---
+
+## 📊 Monitoring & Observability  
+- **[Grafana](https://grafana.com/)** – Visualization tool for monitoring data  
+- **[Prometheus](https://prometheus.io/)** – Time-series monitoring and alerting  
+- **[New Relic](https://newrelic.com/)** – Performance monitoring for applications  
+- **[Sentry](https://sentry.io/)** – Error tracking and monitoring for apps  
+- **[Logstash](https://www.elastic.co/logstash/)** – Data processing pipeline  
+- **[Kibana](https://www.elastic.co/kibana/)** – Data visualization for Elasticsearch  
+
+---
+
+## 📜 Documentation & Git  
+- **[GitHub](https://github.com/)** – Version control platform  
+- **[GitLab](https://gitlab.com/)** – DevOps and CI/CD platform  
+- **[Bitbucket](https://bitbucket.org/)** – Git repository hosting  
+- **[Gitmoji](https://gitmoji.dev/)** – Emoji guide for commit messages  
+- **[Docusaurus](https://docusaurus.io/)** – Documentation framework for websites  
+
 ---
 
 ## 🛠️ APIs  
-- **[GraphQL](https://graphql.org/)** – Query language for APIs, offering more flexibility compared to REST APIs  
-- **[Apollo Client](https://www.apollographql.com/docs/react/)** – GraphQL data management for React  
-- **[Restify](https://restify.com/)** – Framework for building RESTful APIs with Node.js  
-- **[API Platform](https://api-platform.com/)** – Framework for building modern and scalable APIs with Symfony, GraphQL, and REST
- 
+- **[GraphQL](https://graphql.org/)** – API query language  
+- **[Apollo Client](https://www.apollographql.com/docs/react/)** – GraphQL state management for React  
+- **[Restify](https://restify.com/)** – Node.js framework for REST APIs  
+- **[API Platform](https://api-platform.com/)** – Full-stack API framework  
+- **[tRPC](https://trpc.io/)** – TypeScript-first API framework for RPC  
+- **[OpenAPI (Swagger)](https://swagger.io/)** – API documentation and design tool 
+---
+
+## 🤖 Web Scraping & Automation  
+- **[Crawlee](https://crawlee.dev/)** – Web scraping and automation framework  
+- **[Puppeteer](https://pptr.dev/)** – Headless browser automation for Chrome  
+- **[Playwright](https://playwright.dev/)** – End-to-end testing and automation  
+
 ---
 
 ## 🔧 No-code/Low-code  
-- **[Bubble](https://bubble.io/)** – No-code development platform for building interactive web applications  
-- **[Webflow](https://webflow.com/)** – No-code design tool for creating professional websites
-  
+- **[Bubble](https://bubble.io/)** – No-code platform for web applications  
+- **[Webflow](https://webflow.com/)** – No-code tool for website design  
+- **[Zapier](https://zapier.com/)** – Workflow automation for apps  
+- **[Retool](https://retool.com/)** – Low-code tool for internal business apps  
+
 ## 🧑‍💻 Development Tools
 
 ### **[Visual Studio Code](https://code.visualstudio.com/)** – A powerful and versatile code editor for web and software development
