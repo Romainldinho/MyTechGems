@@ -156,7 +156,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 
 ---
 
-## 🌐 Full-Stack & DevOps
+## 🌐 DevOps
 
 -   **[Docker](https://www.docker.com/)** – Containerization for scalable applications.
 -   **[Dokploy](https://github.com/Dokploy/dokploy)** – Deployment automation and cloud management with Docker.
@@ -209,6 +209,21 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Vercel](https://vercel.com/)** – Serverless deployment for frontend projects.
 -   **[Netlify](https://www.netlify.com/)** – Cloud hosting and automation for web projects.
 -   **[MinIO](https://min.io/)** – High-performance object storage.
+
+---
+
+## 🔄 ELT/ETL
+
+- **[dbt (Data Build Tool)](https://www.getdbt.com/)** – Transformation des données en SQL pour les entrepôts de données modernes  
+- **[Airbyte](https://airbyte.com/)** – Plateforme open-source pour l’intégration de données (alternative à Fivetran)  
+- **[Fivetran](https://www.fivetran.com/)** – Solution automatisée d’ELT pour synchroniser les données  
+- **[Talend](https://www.talend.com/)** – Suite d’outils pour la transformation et l’intégration des données  
+- **[Apache NiFi](https://nifi.apache.org/)** – Outil puissant pour le flux de données en temps réel  
+- **[Meltano](https://meltano.com/)** – Alternative open-source à Airbyte et Fivetran, basé sur Singer  
+- **[Kettle (Pentaho)](https://community.hitachivantara.com/)** – Outil ETL open-source de Hitachi Vantara  
+- **[Dagster](https://dagster.io/)** – Orchestration de pipelines de données moderne (alternative à Airflow)  
+- **[Apache Airflow](https://airflow.apache.org/)** – Orchestration et automatisation des workflows de données  
+- **[Prefect](https://www.prefect.io/)** – Alternative moderne et flexible à Airflow  
 
 ---
 
