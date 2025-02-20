@@ -15,7 +15,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
     -   [🟡 Node.js & JavaScript](#-nodejs--javascript)
     -   [📝 CMS](#-cms)
 5.  [🗄️ Databases & ORM](#-databases--orm)
-6.  [🌐 Full-Stack & DevOps](#-full-stack--devops)
+6.  [🌐 DevOps](#-devops)
 7.  [📚 Useful Resources](#-useful-resources)
 8.  [⚙️ Automation & CI/CD](#-automation--cicd)
 9.  [🔒 Security](#-security)
