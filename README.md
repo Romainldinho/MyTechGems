@@ -4,36 +4,27 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 
 ## 📌 Table of Contents
 
-1.  [💻 Programming Languages](#-programming-languages)
-2.  [🎨 Frontend Development](#-frontend-development)
+1.  [🎨 Frontend Development](#-frontend-development)
     -   [⚛️ React Ecosystem](#️-react-ecosystem)
     -   [🟢 Vue Ecosystem](#-vue-ecosystem)
     -   [🎨 UI & Styling](#-ui--styling)
-3.  [📱 Mobile Development](#-mobile-development)
-4.  [🛠️ Backend Development](#-backend-development)
+2.  [📱 Mobile Development](#-mobile-development)
+3.  [🛠️ Backend Development](#-backend-development)
     -   [🐘 PHP Ecosystem](#-php-ecosystem)
     -   [🟡 Node.js & JavaScript](#-nodejs--javascript)
     -   [📝 CMS](#-cms)
-5.  [🗄️ Databases & ORM](#-databases--orm)
-6.  [🌐 DevOps](#-devops)
-7.  [📚 Useful Resources](#-useful-resources)
-8.  [⚙️ Automation & CI/CD](#-automation--cicd)
-9.  [🔒 Security](#-security)
-10. [🌍 Cloud & Infrastructure](#-cloud--infrastructure)
-11. [🛠️ APIs](#-apis)
-12. [🤖 Web Scraping & Automation](#-web-scraping--automation)
-13. [🔧 No-code/Low-code](#-no-codelow-code)
-14. [🧑‍💻 Development Tools](#-development-tools)
+4.  [🗄️ Databases & ORM](#-databases--orm)
+5.  [🌐 DevOps](#-devops)
+6.  [📚 Useful Resources](#-useful-resources)
+7.  [⚙️ Automation & CI/CD](#-automation--cicd)
+8.  [🔒 Security](#-security)
+9. [🌍 Cloud & Infrastructure](#-cloud--infrastructure)
+10. [🛠️ APIs](#-apis)
+11. [🤖 Web Scraping & Automation](#-web-scraping--automation)
+12. [🔧 No-code/Low-code](#-no-codelow-code)
+13. [🧑‍💻 Development Tools](#-development-tools)
 
 ---
-
-## 💻 Programming Languages
-
--   **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** – The backbone of web development.
--   **[TypeScript](https://www.typescriptlang.org/)** – Strongly typed JavaScript.
--   **[PHP](https://www.php.net/)** – Server-side scripting language for web development.
--   **[Python](https://www.python.org/)** – Great for scripting, AI, and web development.
-
 
 ## 🎨 Frontend Development
 
@@ -46,7 +37,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Astro](https://astro.build/)** – Ultra-fast framework for content-driven websites.
 -   **[React Hook Form](https://react-hook-form.com/)** – Simplified form management for React with easy validation.
 
-### 🟡 State Management
+#### 🟡 State Management
 
 -   **[Redux Toolkit](https://redux-toolkit.js.org/)** – Official Redux library for efficient and standardized development.
 -   **[Zustand](https://github.com/pmndrs/zustand)** – A small, fast, and scalable state management solution for React.
@@ -58,18 +49,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Cypress](https://www.cypress.io/)** – End-to-end testing for web applications.
 -   **[Playwright](https://playwright.dev/)** – End-to-end testing framework for web apps.
 -   **[Enzyme](https://enzymejs.github.io/enzyme/)** – JavaScript testing utilities for React.
-
-### 🟢 Vue Ecosystem
-
--   **[Vue.js](https://vuejs.org/)** – The progressive JavaScript framework.
--   **[Nuxt.js](https://nuxt.com/)** – Vue framework for server-side rendering.
-
-#### 🧪 Testing Tools for Vue
-
--   **[Jest](https://jestjs.io/)** – JavaScript testing framework for unit tests.
--   **[Vue Test Utils](https://vue-test-utils.vuejs.org/)** – Vue.js test utility for unit tests.
--   **[Cypress](https://www.cypress.io/)** – End-to-end testing for web applications.
--   **[Playwright](https://playwright.dev/)** – End-to-end testing framework for web apps.
 
 ### 🎨 UI & Styling
 
@@ -124,6 +103,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Express.js](https://expressjs.com/)** – Fast and minimalist web framework.
 -   **[NestJS](https://nestjs.com/)** – Scalable TypeScript framework for Node.js.
 -   **[Prisma](https://www.prisma.io/)** – Modern ORM for Node.js and TypeScript.
+-   **[Drizzle](https://orm.drizzle.team/)** - Modern ORM for Node.js and TypeScript.
 
 #### 🧪 Testing Tools for Node.js & JavaScript
 
