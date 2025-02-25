@@ -54,6 +54,13 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[T3 Stack](https://create.t3.gg/)** – TypeScript + Next.js + Prisma + TRPC + Tailwind.
 -   **[Astro](https://astro.build/)** – Ultra-fast framework for content-driven websites.
 -   **[React Hook Form](https://react-hook-form.com/)** – Simplified form management for React with easy validation.
+-   **[Remix](https://remix.run/)** – Full-stack framework with a focus on performance.  
+-   **[TanStack Query](https://tanstack.com/query/latest)** – Advanced data fetching and caching management.  
+-   **[Radix UI](https://www.radix-ui.com/)** – Accessible, unstyled UI components for React.  
+-   **[Headless UI](https://headlessui.com/)** – UI components tailored for Tailwind CSS.  
+-   **[Gatsby](https://www.gatsbyjs.com/)** – A React-based open-source framework for building static websites with a focus on performance and scalability.
+-   **[React Scan](https://github.com/aidenybai/react-scan)** – React Scan automatically detects performance issues in your React app.
+
 
 #### 🟡 State Management
 
@@ -226,6 +233,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Sentry](https://sentry.io/)** – Error tracking and monitoring for apps.
 -   **[Logstash](https://www.elastic.co/logstash/)** – Data processing pipeline.
 -   **[Kibana](https://www.elastic.co/kibana/)** – Data visualization for Elasticsearch.
+-   **[OpenTelemetry](https://opentelemetry.io/)** – Framework for metrics, logs, and traces.  
 
 
 ## 📜 Documentation & Git
