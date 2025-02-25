@@ -253,6 +253,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[API Platform](https://api-platform.com/)** – Full-stack API framework.
 -   **[tRPC](https://trpc.io/)** – TypeScript-first API framework for RPC.
 -   **[OpenAPI (Swagger)](https://swagger.io/)** – API documentation and design tool.
+-   **[Swagger (OpenAPI)](https://swagger.io/)** – A powerful framework for API documentation and design. It enables you to easily define and document your APIs with OpenAPI specifications, and generates interactive API documentation for seamless testing and collaboration.
 
 
 ## 📬 Emailing
