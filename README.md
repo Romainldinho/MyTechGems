@@ -6,10 +6,10 @@ This repository is a curated collection of my favorite technologies, frameworks,
 
 🎯 Why This List?
 
-💡 Quick Reference – A centralized hub for my go-to technologies.
-🔎 Discover New Tools – Stay up to date with the latest trends and best practices.
-🛠 Make Informed Choices – Compare different solutions at a glance.
-🤝 Knowledge Sharing – An open resource for the community to explore and contribute.
+- 💡 Quick Reference – A centralized hub for my go-to technologies.
+- 🔎 Discover New Tools – Stay up to date with the latest trends and best practices.
+- 🛠 Make Informed Choices – Compare different solutions at a glance.
+- 🤝 Knowledge Sharing – An open resource for the community to explore and contribute.
 
 Feel free to browse through the sections and suggest your favorite tools! 😊
 
@@ -31,6 +31,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 8.  [🔒 Security](#-security)
 9. [🌍 Cloud & Infrastructure](#-cloud--infrastructure)
 10. [🛠️ APIs](#-apis)
+11. [📬 Emailing](#-emailing)
 11. [🤖 Web Scraping & Automation](#-web-scraping--automation)
 12. [🔧 No-code/Low-code](#-no-codelow-code)
 13. [🧑‍💻 Development Tools](#-development-tools)
@@ -240,6 +241,12 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[OpenAPI (Swagger)](https://swagger.io/)** – API documentation and design tool.
 
 
+## 📬 Emailing
+
+- **[https://mjml.io/](https://mjml.io/)** - The Responsive Email Framework
+- **[https://github.com/resend/react-email](https://github.com/resend/react-email)** - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
+- **[https://github.com/mailhog/MailHog](https://github.com/mailhog/MailHog)** - Web and API based SMTP testing
+
 ## 🤖 Web Scraping & Automation
 
 -   **[Crawlee](https://crawlee.dev/)** – Web scraping and automation framework.
@@ -261,5 +268,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[Extentions Visual Studio Code](vscode-extensions.md)** List of extensions
 
 ---
+<br/>
 
 🛠️ *This list is always evolving! If you have any recommendations, feel free to contribute or reach out.* 😊
