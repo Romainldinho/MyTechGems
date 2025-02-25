@@ -6,7 +6,6 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 
 1.  [🎨 Frontend Development](#-frontend-development)
     -   [⚛️ React Ecosystem](#️-react-ecosystem)
-    -   [🟢 Vue Ecosystem](#-vue-ecosystem)
     -   [🎨 UI & Styling](#-ui--styling)
     -   [📦 Libraries](#-libraries)
 2.  [📱 Mobile Development](#-mobile-development)
