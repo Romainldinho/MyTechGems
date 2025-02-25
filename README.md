@@ -56,6 +56,7 @@ Welcome to **My Tech Gems**! 🚀 This repository is a curated collection of my 
 -   **[Bootstrap](https://getbootstrap.com/)** – Popular CSS framework for building responsive websites.
 -   **[Material UI](https://mui.com/)** – Beautiful React components.
 -   **[Framer Motion](https://www.framer.com/motion/)** – Smooth animations for React.
+-   **[Swiper](https://swiperjs.com/)** - The Most Modern Mobile Touch Slider
 -   **[Figma](https://www.figma.com/)** – Collaborative UI/UX design tool.
 -   **[canvas-confetti](https://github.com/catdad/canvas-confetti)** - Easily create highly customizable confetti, particles and fireworks animations
 
