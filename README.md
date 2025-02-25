@@ -1,5 +1,6 @@
 # 🌟 My Tech Gems 💎
 
+
 Welcome to My Tech Gems! 🚀
 
 This repository is a curated collection of my favorite technologies, frameworks, and tools. Whether you're a frontend, backend, mobile, or DevOps developer, you'll find a handpicked selection of the best resources to enhance your productivity and elevate your projects.
@@ -12,6 +13,11 @@ This repository is a curated collection of my favorite technologies, frameworks,
 - 🤝 Knowledge Sharing – An open resource for the community to explore and contribute.
 
 Feel free to browse through the sections and suggest your favorite tools! 😊
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Romainldinho/my-tech-gems)
+![GitHub last commit](https://img.shields.io/github/last-commit/Romainldinho/my-tech-gems)
+
 
 ## 📌 Table of Contents
 
@@ -244,7 +250,10 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 ## 📬 Emailing
 
 - **[https://mjml.io/](https://mjml.io/)** - The Responsive Email Framework
-- **[https://github.com/resend/react-email](https://github.com/resend/react-email)** - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
+- **[https://github.com/resend/react-email](https://github.com/resend/react-email)** - ![GitHub Repo stars](https://img.shields.io/github/stars/resend/react-email?style=flat)  -  A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
+
+
+
 - **[https://github.com/mailhog/MailHog](https://github.com/mailhog/MailHog)** - Web and API based SMTP testing
 
 ## 🤖 Web Scraping & Automation
