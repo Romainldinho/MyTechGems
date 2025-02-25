@@ -171,7 +171,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Crawlee](https://crawlee.dev/)** – Web scraping and automation framework for Node.js.
 -   **[Gitmoji](https://gitmoji.dev/)** – Guide to using Gitmoji for adding emojis to your Git commits.
 
-### 🧑‍💻 Productivity Tools
+## 🧑‍💻 Productivity Tools
 
 -   **[ClickUp](https://clickup.com/)** – Project management platform for organizing tasks, collaborating, and tracking productivity.
 -   **[Notion](https://www.notion.so/)** – Flexible and customizable project management and note-taking tool.
@@ -250,7 +250,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 ## 📬 Emailing
 
 - **[https://mjml.io/](https://mjml.io/)** - The Responsive Email Framework
-- **[https://github.com/resend/react-email](https://github.com/resend/react-email)** - ![GitHub Repo stars](https://img.shields.io/github/stars/resend/react-email?style=flat)  -  A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
+- **[https://github.com/resend/react-email](https://github.com/resend/react-email)** -  A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
 
 
 
