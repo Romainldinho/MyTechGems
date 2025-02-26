@@ -87,6 +87,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 ### 📦 Libraries
 
 -   **[Swiper](https://swiperjs.com/)** - The Most Modern Mobile Touch Slider
+-   **[Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components)** - This is a list of AWESOME components. 
 
 
 ## 📱 Mobile Development
