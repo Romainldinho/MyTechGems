@@ -178,6 +178,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Dribbble - Dashboard](https://dribbble.com/search/dashboard)** – Creative platform for UI/UX design inspiration.
 -   **[Crawlee](https://crawlee.dev/)** – Web scraping and automation framework for Node.js.
 -   **[Gitmoji](https://gitmoji.dev/)** – Guide to using Gitmoji for adding emojis to your Git commits.
+-   https://mermaid.live/
 
 ## 🧑‍💻 Productivity Tools
 
@@ -254,16 +255,12 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[API Platform](https://api-platform.com/)** – Full-stack API framework.
 -   **[tRPC](https://trpc.io/)** – TypeScript-first API framework for RPC.
 -   **[OpenAPI (Swagger)](https://swagger.io/)** – API documentation and design tool.
--   **[Swagger (OpenAPI)](https://swagger.io/)** – A powerful framework for API documentation and design. It enables you to easily define and document your APIs with OpenAPI specifications, and generates interactive API documentation for seamless testing and collaboration.
-
+-   **[Swagger (OpenAPI)](https://swagger.io/)** – A powerful framework for API documentation and design.
 
 ## 📬 Emailing
 
 - **[https://mjml.io/](https://mjml.io/)** - The Responsive Email Framework
 - **[https://github.com/resend/react-email](https://github.com/resend/react-email)** -  A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
-
-
-
 - **[https://github.com/mailhog/MailHog](https://github.com/mailhog/MailHog)** - Web and API based SMTP testing
 
 ## 🤖 Web Scraping & Automation
