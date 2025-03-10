@@ -144,12 +144,14 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 📝 CMS
 
--   **[Strapi](https://strapi.io/)** – Open-source headless CMS built with Node.js.
--   **[Directus](https://directus.io/)** – Headless CMS with an intuitive interface.
--   **[Contentful](https://www.contentful.com/)** – Headless CMS for delivering content via APIs.
--   **[Sanity](https://www.sanity.io/)** – Real-time headless CMS and structured content platform.
--   **[Ghost](https://ghost.org/)** – Publishing platform for blogs and online publications.
--   **[KeystoneJS](https://keystonejs.com/)** – Headless CMS and web application platform built with Node.js.
+- **[Strapi](https://strapi.io/)** – Open-source headless CMS built with Node.js.
+- **[Directus](https://directus.io/)** – Headless CMS with an intuitive interface.
+- **[Contentful](https://www.contentful.com/)** – Headless CMS for delivering content via APIs.
+- **[Sanity](https://www.sanity.io/)** – Real-time headless CMS and structured content platform.
+- **[Ghost](https://ghost.org/)** – Publishing platform for blogs and online publications.
+- **[KeystoneJS](https://keystonejs.com/)** – Headless CMS and web application platform built with Node.js.
+- **[Drupal](https://www.drupal.org/)** – A powerful open-source CMS for complex and scalable web applications.
+- **[WordPress](https://wordpress.org/)** – The most popular CMS for creating websites and blogs, with a vast ecosystem of plugins and themes.
 
 
 ## 🗄️ Databases & ORM
