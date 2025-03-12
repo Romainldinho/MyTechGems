@@ -23,24 +23,36 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 1.  [🎨 Frontend Development](#-frontend-development)
     -   [⚛️ React Ecosystem](#️-react-ecosystem)
+    -   [🟡 State Management](#-state-management)
+    -   [🧪 Testing Tools for React](#-testing-tools-for-react)
     -   [🎨 UI & Styling](#-ui--styling)
     -   [📦 Libraries](#-libraries)
 2.  [📱 Mobile Development](#-mobile-development)
+    -   [📱 React Native Ecosystem](#-react-native-ecosystem)
+    -   [🧪 Testing Tools for React Native](#-testing-tools-for-react-native)
 3.  [🛠️ Backend Development](#-backend-development)
     -   [🐘 PHP Ecosystem](#-php-ecosystem)
     -   [🟡 Node.js & JavaScript](#-nodejs--javascript)
     -   [📝 CMS](#-cms)
+    -   [🧪 Testing Tools for PHP](#-testing-tools-for-php)
+    -   [🧪 Testing Tools for Node.js & JavaScript](#-testing-tools-for-nodejs--javascript)
 4.  [🗄️ Databases & ORM](#-databases--orm)
 5.  [🌐 DevOps](#-devops)
 6.  [📚 Useful Resources](#-useful-resources)
-7.  [⚙️ Automation & CI/CD](#-automation--cicd)
-8.  [🔒 Security](#-security)
-9. [🌍 Cloud & Infrastructure](#-cloud--infrastructure)
-10. [🛠️ APIs](#-apis)
-11. [📬 Emailing](#-emailing)
-11. [🤖 Web Scraping & Automation](#-web-scraping--automation)
-12. [🔧 No-code/Low-code](#-no-codelow-code)
-13. [🧑‍💻 Development Tools](#-development-tools)
+7.  [🧑‍💻 Productivity Tools](#-productivity-tools)
+8.  [⚙️ Automation & CI/CD](#-automation--cicd)
+9.  [🔒 Security](#-security)
+10. [🌍 Cloud & Infrastructure](#-cloud--infrastructure)
+11. [🔄 ELT/ETL](#-eltetl)
+12. [📊 Monitoring & Observability](#-monitoring--observability)
+13. [📜 Documentation & Git](#-documentation--git)
+14. [🚀 Git Hooks & Code Quality](#-git-hooks--code-quality)
+15. [⚡ Scripting & Automation](#-scripting--automation)
+16. [🛠️ APIs](#-apis)
+17. [📬 Emailing](#-emailing)
+18. [🤖 Web Scraping & Automation](#-web-scraping--automation)
+19. [🔧 No-code/Low-code](#-no-codelow-code)
+20. [🧑‍💻 Development Tools](#-development-tools)
 
 ---
 
@@ -247,6 +259,14 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Bitbucket](https://bitbucket.org/)** – Git repository hosting.
 -   **[Gitmoji](https://gitmoji.dev/)** – Emoji guide for commit messages.
 -   **[Docusaurus](https://docusaurus.io/)** – Documentation framework for websites.
+
+## 🚀 Git Hooks & Code Quality  
+
+- [Husky](https://typicode.github.io/husky/#/) – Automate Git hooks to run scripts before commits, pushes, etc.  
+- [Lint-staged](https://github.com/okonet/lint-staged) – Run linters and formatters only on staged files.  
+- [Commitlint](https://commitlint.js.org/#/) – Enforce commit message conventions (e.g., Conventional Commits).  
+- [Standard Version](https://github.com/conventional-changelog/standard-version) – Automate versioning and changelogs following semantic versioning.  
+
 
 ## ⚡ Scripting & Automation
 
