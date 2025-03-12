@@ -248,6 +248,11 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Gitmoji](https://gitmoji.dev/)** – Emoji guide for commit messages.
 -   **[Docusaurus](https://docusaurus.io/)** – Documentation framework for websites.
 
+## ⚡ Scripting & Automation
+
+- **[zx](https://github.com/google/zx)** – A tool by Google that makes writing shell scripts in JavaScript easy and more readable.
+- **[Taskfile.dev](https://taskfile.dev/)** – A modern task runner and build automation tool.
+
 
 ## 🛠️ APIs
 
