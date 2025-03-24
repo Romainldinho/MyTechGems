@@ -53,6 +53,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 18. [🤖 Web Scraping & Automation](#-web-scraping--automation)
 19. [🔧 No-code/Low-code](#-no-codelow-code)
 20. [🧑‍💻 Development Tools](#-development-tools)
+21. [📊 Graph databases](#-graph-databases)
 
 ---
 
@@ -309,6 +310,12 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 - **[Visual Studio Code](https://code.visualstudio.com/)** – A powerful and versatile code editor for web and software development.
 - **[Extentions Visual Studio Code](vscode-extensions.md)** List of extensions
+
+## 📊 Graph Databases
+
+- [Memgraph](https://memgraph.com/) - A high-performance, in-memory graph database optimized for real-time analytics and complex queries using Cypher.
+- [Dgraph](https://github.com/hypermodeinc/dgraph) - An open-source, distributed graph database designed for high scalability and efficient query execution.
+- [Neo4j](https://neo4j.com/product/neo4j-graph-database/) - A powerful graph database with native graph storage and processing, widely used for deep relationship analysis and data-driven applications.
 
 ---
 <br/>
