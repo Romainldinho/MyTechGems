@@ -253,13 +253,18 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[OpenTelemetry](https://opentelemetry.io/)** – Framework for metrics, logs, and traces.  
 
 
-## 📜 Documentation & Git
+## 📜 Git & platform
 
 -   **[GitHub](https://github.com/)** – Version control platform.
 -   **[GitLab](https://gitlab.com/)** – DevOps and CI/CD platform.
 -   **[Bitbucket](https://bitbucket.org/)** – Git repository hosting.
 -   **[Gitmoji](https://gitmoji.dev/)** – Emoji guide for commit messages.
+-   **[Conventional Commits](https://www.conventionalcommits.org/)** - A specification for adding human and machine readable meaning to commit messages
+
+## 📚 Documentation 
+
 -   **[Docusaurus](https://docusaurus.io/)** – Documentation framework for websites.
+-   **[OpenAPI (Swagger)](https://swagger.io/)** – API documentation and design tool.
 
 ## 🚀 Git Hooks & Code Quality  
 
@@ -282,7 +287,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Restify](https://restify.com/)** – Node.js framework for REST APIs.
 -   **[API Platform](https://api-platform.com/)** – Full-stack API framework.
 -   **[tRPC](https://trpc.io/)** – TypeScript-first API framework for RPC.
--   **[OpenAPI (Swagger)](https://swagger.io/)** – API documentation and design tool.
 
 ## 📬 Emailing
 
