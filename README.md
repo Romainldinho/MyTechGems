@@ -302,9 +302,10 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Playwright](https://playwright.dev/)** – End-to-end testing and automation.
 
 
-## 🔧 No-code/Low-code
+## 🔧 Automation & Workflow Platforms
 
--   **[n8n](https://n8n.io/)** - n8n is a workflow automation platform that gives technical teams 
+-   **[n8n](https://n8n.io/)** - n8n is a workflow automation platform that gives technical teams
+-   **[Windmill](https://www.windmill.dev/)** - Open-source developer platform and workflow engine  
 
 
 ## 🧑‍💻 Development Tools
