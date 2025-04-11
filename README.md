@@ -36,7 +36,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
     - [📝 CMS](#-cms)
     - [🧪 Testing Tools for PHP](#-testing-tools-for-php)
     - [🧪 Testing Tools for Node.js & JavaScript](#-testing-tools-for-nodejs--javascript)
-4.  [🗄️ Databases & ORM](#-databases--orm)
+4.  [🗄️ Databases & Tools](#-databases--tools)
 5.  [🌐 DevOps](#-devops)
 6.  [📚 Useful Resources](#-useful-resources)
 7.  [🧑‍💻 Productivity Tools](#-productivity-tools)
@@ -170,13 +170,17 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[WordPress](https://wordpress.org/)** – The most popular CMS for creating websites and blogs, with a vast ecosystem of plugins and themes.
 
 
-## 🗄️ Databases & ORM
+## 🗄️ Databases & Tools
 
--   **[PostgreSQL](https://www.postgresql.org/)** – Powerful open-source relational database.
--   **[MySQL](https://www.mysql.com/)** – One of the most popular relational databases.
--   **[MongoDB](https://www.mongodb.com/)** – NoSQL document-based database.
--   **[Supabase](https://supabase.com/)** – Open-source Firebase alternative.
--   **[DBeaver](https://dbeaver.io/)** – Universal database management tool for SQL and NoSQL databases.
+- **[PostgreSQL](https://www.postgresql.org/)** – Powerful open-source relational database.
+- **[MySQL](https://www.mysql.com/)** – One of the most popular relational databases.
+- **[SQLite](https://www.sqlite.org/index.html)** – Lightweight, file-based relational database engine.
+- **[MongoDB](https://www.mongodb.com/)** – NoSQL document-based database.
+- **[Supabase](https://supabase.com/)** – Open-source Firebase alternative built on PostgreSQL.
+- **[DBeaver](https://dbeaver.io/)** – Universal database client for SQL and NoSQL.
+- **[MySQL Workbench](https://www.mysql.com/products/workbench/)** – Visual tool for MySQL database modeling, development, and administration.
+- **[pgAdmin](https://www.pgadmin.org/)** – Popular administration and development platform for PostgreSQL.
+- **[MongoDB Compass](https://www.mongodb.com/products/compass)** – GUI for MongoDB, allowing schema exploration and performance monitoring.
 
 
 ## 🌐 DevOps
@@ -229,8 +233,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Vercel](https://vercel.com/)** – Serverless deployment for frontend projects.
 -   **[Netlify](https://www.netlify.com/)** – Cloud hosting and automation for web projects.
 -   **[MinIO](https://min.io/)** – High-performance object storage.
-
-
 
 ### 🔄 **ETL/ELT & Data Integration**  
 - **[dbt (Data Build Tool)](https://www.getdbt.com/)** – SQL-based data transformation tool for modern data warehouses.  
