@@ -197,7 +197,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[The Net Ninja](https://www.youtube.com/c/TheNetNinja)** – Amazing YouTube tutorials.
 -   **[Crawl4AI](https://github.com/unclecode/crawl4ai)** – Web crawler for AI data collection and content extraction.
 -   **[Inngest](https://github.com/inngest/inngest)** – Serverless workflows and event-driven automation.
--   **[Dribbble - Dashboard](https://dribbble.com/search/dashboard)** – Creative platform for UI/UX design inspiration.
+-   **[Dribbble - Dashboard](https://dribbble.com/)** – Creative platform for UI/UX design inspiration.
 -   **[Crawlee](https://crawlee.dev/)** – Web scraping and automation framework for Node.js.
 -   **[Gitmoji](https://gitmoji.dev/)** – Guide to using Gitmoji for adding emojis to your Git commits.
 -   https://mermaid.live/
