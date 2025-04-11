@@ -22,20 +22,20 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 ## 📌 Table of Contents
 
 1.  [🎨 Frontend Development](#-frontend-development)
-    -   [⚛️ React Ecosystem](#️-react-ecosystem)
-    -   [🟡 State Management](#-state-management)
-    -   [🧪 Testing Tools for React](#-testing-tools-for-react)
-    -   [🎨 UI & Styling](#-ui--styling)
-    -   [📦 Libraries](#-libraries)
+    - [⚛️ React Ecosystem](#️-react-ecosystem)
+    - [🟡 State Management](#-state-management)
+    - [🧪 Testing Tools for React](#-testing-tools-for-react)
+    - [🎨 UI & Styling](#-ui--styling)
+    - [📦 Libraries](#-libraries)
 2.  [📱 Mobile Development](#-mobile-development)
-    -   [📱 React Native Ecosystem](#-react-native-ecosystem)
-    -   [🧪 Testing Tools for React Native](#-testing-tools-for-react-native)
+    - [📱 React Native Ecosystem](#-react-native-ecosystem)
+    - [🧪 Testing Tools for React Native](#-testing-tools-for-react-native)
 3.  [🛠️ Backend Development](#-backend-development)
-    -   [🐘 PHP Ecosystem](#-php-ecosystem)
-    -   [🟡 Node.js & JavaScript](#-nodejs--javascript)
-    -   [📝 CMS](#-cms)
-    -   [🧪 Testing Tools for PHP](#-testing-tools-for-php)
-    -   [🧪 Testing Tools for Node.js & JavaScript](#-testing-tools-for-nodejs--javascript)
+    - [🐘 PHP Ecosystem](#-php-ecosystem)
+    - [🟡 Node.js & JavaScript](#-nodejs--javascript)
+    - [📝 CMS](#-cms)
+    - [🧪 Testing Tools for PHP](#-testing-tools-for-php)
+    - [🧪 Testing Tools for Node.js & JavaScript](#-testing-tools-for-nodejs--javascript)
 4.  [🗄️ Databases & ORM](#-databases--orm)
 5.  [🌐 DevOps](#-devops)
 6.  [📚 Useful Resources](#-useful-resources)
@@ -43,18 +43,20 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 8.  [⚙️ Automation & CI/CD](#-automation--cicd)
 9.  [🔒 Security](#-security)
 10. [🌍 Cloud & Infrastructure](#-cloud--infrastructure)
-11. [🔄 ELT/ETL](#-eltetl)
+11. [🔄 ETL/ELT & Data Integration](#-etl-elt--data-integration)
 12. [📊 Monitoring & Observability](#-monitoring--observability)
 13. [📜 Git & platform](#-git--platform)
-14. [🚀 Git Hooks & Code Quality](#-git-hooks--code-quality)
-13. [📜 Documentation](#-documentation)
-15. [⚡ Scripting & Automation](#-scripting--automation)
-16. [🛠️ APIs](#-apis)
-17. [📬 Emailing](#-emailing)
-18. [🤖 Web Scraping & Automation](#-web-scraping--automation)
-19. [🔧 No-code/Low-code](#-no-codelow-code)
-20. [🧑‍💻 Development Tools](#-development-tools)
-21. [📊 Graph databases](#-graph-databases)
+14. [📚 Documentation](#-documentation)
+15. [🚀 Git Hooks & Code Quality](#-git-hooks--code-quality)
+16. [⚡ Scripting & Automation](#-scripting--automation)
+17. [🛠️ APIs](#-apis)
+18. [📬 Emailing](#-emailing)
+19. [🤖 Web Scraping & Automation](#-web-scraping--automation)
+20. [🔧 Automation & Workflow Platforms](#-automation--workflow-platforms)
+21. [🛠️ Terminal & CLI Productivity](#-terminal--cli-productivity)
+22. [🔧 No-code/Low-code](#-no-codelow-code)
+23. [📊 Graph Databases](#-graph-databases)
+
 
 ---
 
@@ -299,6 +301,15 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[n8n](https://n8n.io/)** - n8n is a workflow automation platform that gives technical teams
 -   **[Windmill](https://www.windmill.dev/)** - Open-source developer platform and workflow engine  
 
+
+## 🛠️ Terminal & CLI Productivity
+
+- **[Zsh](https://www.zsh.org/)** – A powerful, customizable shell that improves upon bash with better scripting and interactive features.
+- **[Oh My Zsh](https://ohmyz.sh/)** – A popular framework for managing Zsh configuration with themes and plugins.
+- **[Starship](https://starship.rs/)** – A fast, minimal, and customizable prompt for any shell, written in Rust.
+- **[bat](https://github.com/sharkdp/bat)** – A `cat` clone with syntax highlighting and Git integration.
+- **[ripgrep](https://github.com/BurntSushi/ripgrep)** – A fast search tool like `grep`, but optimized for large codebases.
+- **[tldr](https://tldr.sh/)** – Simplified and community-driven man pages.
 
 ## 🧑‍💻 Development Tools
 
