@@ -276,6 +276,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 🚀 Git Hooks & Code Quality  
 
+- [Prettier](https://prettier.io/) – An opinionated code formatter that supports JavaScript, TypeScript, HTML, CSS, JSON, and more.
 - [Husky](https://typicode.github.io/husky/#/) – Automate Git hooks to run scripts before commits, pushes, etc.  
 - [Lint-staged](https://github.com/okonet/lint-staged) – Run linters and formatters only on staged files.  
 - [Commitlint](https://commitlint.js.org/#/) – Enforce commit message conventions (e.g., Conventional Commits).  
