@@ -56,6 +56,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 21. [🛠️ Terminal & CLI Productivity](#-terminal--cli-productivity)
 22. [🔧 No-code/Low-code](#-no-codelow-code)
 23. [📊 Graph Databases](#-graph-databases)
+24. [🛠️ Developer Utilities](#-developer-utilities)
 
 
 ---
@@ -323,6 +324,16 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Memgraph](https://memgraph.com/) - A high-performance, in-memory graph database optimized for real-time analytics and complex queries using Cypher.
 - [Dgraph](https://github.com/hypermodeinc/dgraph) - An open-source, distributed graph database designed for high scalability and efficient query execution.
 - [Neo4j](https://neo4j.com/product/neo4j-graph-database/) - A powerful graph database with native graph storage and processing, widely used for deep relationship analysis and data-driven applications.
+
+## 🛠️ Developer Utilities
+
+- **[Postman](https://www.postman.com/)** – Platform for building and testing APIs with a user-friendly interface.
+- **[Insomnia](https://insomnia.rest/)** – Open-source API client with support for REST, GraphQL, and gRPC.
+- **[Hoppscotch](https://hoppscotch.io/)** – Lightweight and fast alternative to Postman, runs in-browser.
+- **[ngrok](https://ngrok.com/)** – Securely expose your local dev server to the internet.
+- **[httpie](https://httpie.io/)** – Command-line HTTP client with a human-friendly interface.
+- **[ReqBin](https://reqbin.com/)** – Online API testing tool to quickly test HTTP requests.
+- **[Mockoon](https://mockoon.com/)** – Easily create mock REST APIs for testing and development.
 
 ---
 <br/>
