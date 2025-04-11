@@ -37,7 +37,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
     - [🧪 Testing Tools for PHP](#-testing-tools-for-php)
     - [🧪 Testing Tools for Node.js & JavaScript](#-testing-tools-for-nodejs--javascript)
 4.  [🗄️ Databases & Tools](#-databases--tools)
-5.  [🌐 DevOps](#-devops)
+5.  [⚙️ DevOps & Infrastructure](#-devops--infrastructure)
 6.  [📚 Useful Resources](#-useful-resources)
 7.  [🧑‍💻 Productivity Tools](#-productivity-tools)
 8.  [⚙️ Automation & CI/CD](#-automation--cicd)
@@ -184,11 +184,20 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[MongoDB Compass](https://www.mongodb.com/products/compass)** – GUI for MongoDB, allowing schema exploration and performance monitoring.
 
 
-## 🌐 DevOps
+## ⚙️ DevOps & Infrastructure
 
--   **[Docker](https://www.docker.com/)** – Containerization for scalable applications.
--   **[Dokploy](https://github.com/Dokploy/dokploy)** – Deployment automation and cloud management with Docker.
--   **[Ansible](https://www.ansible.com/)** – Open-source automation tool for configuration management, application deployment, and task automation.
+- **[Docker](https://www.docker.com/)** – Container platform for building, shipping, and running applications.
+- **[Docker Compose](https://docs.docker.com/compose/)** – Tool for defining and running multi-container Docker applications.
+- **[Traefik](https://traefik.io/)** – Modern reverse proxy and load balancer for microservices.
+- **[Ansible](https://www.ansible.com/)** – Open-source automation tool for configuration management, application deployment, and task automation.
+- **[Podman](https://podman.io/)** – Daemonless container engine compatible with Docker CLI.
+- **[Portainer](https://www.portainer.io/)** – UI management for Docker and Kubernetes.
+- **[Nginx](https://www.nginx.com/)** – High-performance web server and reverse proxy.
+- **[Caddy](https://caddyserver.com/)** – Web server with automatic HTTPS and easy configuration.
+- **[Minikube](https://minikube.sigs.k8s.io/)** – Local Kubernetes cluster for development and testing.
+- **[k3s](https://k3s.io/)** – Lightweight Kubernetes distribution for IoT and edge computing.
+- **[DevContainer](https://containers.dev/)** – Portable development environments using Docker and VS Code.
+- **[Dokploy](https://github.com/Dokploy/dokploy)** – Deployment automation and cloud management with Docker.
 
 
 ## 📚 Useful Resources
@@ -236,6 +245,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[MinIO](https://min.io/)** – High-performance object storage.
 
 ### 🔄 **ETL/ELT & Data Integration**  
+
 - **[dbt (Data Build Tool)](https://www.getdbt.com/)** – SQL-based data transformation tool for modern data warehouses.  
 - **[Airbyte](https://airbyte.com/)** – Open-source data integration platform (alternative to Fivetran).  
 - **[Meltano](https://meltano.com/)** – Open-source alternative to Airbyte and Fivetran, built on Singer.  
