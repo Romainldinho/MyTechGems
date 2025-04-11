@@ -171,7 +171,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[WordPress](https://wordpress.org/)** – The most popular CMS for creating websites and blogs, with a vast ecosystem of plugins and themes.
 
 
-## 🗄️ Databases & Tools
+### 🗄️ Databases & Tools
 
 - **[PostgreSQL](https://www.postgresql.org/)** – Powerful open-source relational database.
 - **[MySQL](https://www.mysql.com/)** – One of the most popular relational databases.
@@ -184,7 +184,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[MongoDB Compass](https://www.mongodb.com/products/compass)** – GUI for MongoDB, allowing schema exploration and performance monitoring.
 
 
-## ⚙️ DevOps & Infrastructure
+### ⚙️ DevOps & Infrastructure
 
 - **[Docker](https://www.docker.com/)** – Container platform for building, shipping, and running applications.
 - **[Docker Compose](https://docs.docker.com/compose/)** – Tool for defining and running multi-container Docker applications.
@@ -200,7 +200,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[Dokploy](https://github.com/Dokploy/dokploy)** – Deployment automation and cloud management with Docker.
 
 
-## 📚 Useful Resources
+### 📚 Useful Resources
 
 -   **[MDN Web Docs](https://developer.mozilla.org/)** – The ultimate web reference.
 -   **[FreeCodeCamp](https://www.freecodecamp.org/)** – Learn coding interactively.
@@ -212,20 +212,20 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Gitmoji](https://gitmoji.dev/)** – Guide to using Gitmoji for adding emojis to your Git commits.
 -   https://mermaid.live/
 
-## 🧑‍💻 Productivity Tools
+### 🧑‍💻 Productivity Tools
 
 -   **[ClickUp](https://clickup.com/)** – Project management platform for organizing tasks, collaborating, and tracking productivity.
 -   **[Notion](https://www.notion.so/)** – Flexible and customizable project management and note-taking tool.
 
 
-## ⚙️ Automation & CI/CD
+### ⚙️ Automation & CI/CD
 
 -   **[GitHub Actions](https://github.com/features/actions)** – CI/CD tool for automating GitHub workflows.
 -   **[CircleCI](https://circleci.com/)** – Continuous integration and continuous deployment tool.
 -   **[Jenkins](https://www.jenkins.io/)** – Open-source automation server for building, deploying, and automating projects.
 
 
-## 🔐 Security
+### 🔐 Security
 
 -   **[OWASP](https://owasp.org/)** – Security best practices and guides.
 -   **[Helmet](https://helmetjs.github.io/)** – Security middleware for Express.js.
@@ -234,7 +234,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Keycloak](https://www.keycloak.org/)** – Open-source identity and access management.
 
 
-## 🌍 Cloud & Infrastructure
+### 🌍 Cloud & Infrastructure
 
 -   **[Docker](https://www.docker.com/)** – Containerization platform.
 -   **[Kubernetes](https://kubernetes.io/)** – Container orchestration system.
@@ -250,7 +250,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[Airbyte](https://airbyte.com/)** – Open-source data integration platform (alternative to Fivetran).  
 - **[Meltano](https://meltano.com/)** – Open-source alternative to Airbyte and Fivetran, built on Singer.  
 
-## 📊 Monitoring & Observability
+### 📊 Monitoring & Observability
 
 -   **[Grafana](https://grafana.com/)** – Visualization tool for monitoring data.
 -   **[Prometheus](https://prometheus.io/)** – Time-series monitoring and alerting.
@@ -261,7 +261,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[OpenTelemetry](https://opentelemetry.io/)** – Framework for metrics, logs, and traces.  
 
 
-## 📜 Git & platform
+### 📜 Git & platform
 
 -   **[GitHub](https://github.com/)** – Version control platform.
 -   **[GitLab](https://gitlab.com/)** – DevOps and CI/CD platform.
@@ -269,12 +269,12 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Gitmoji](https://gitmoji.dev/)** – Emoji guide for commit messages.
 -   **[Conventional Commits](https://www.conventionalcommits.org/)** - A specification for adding human and machine readable meaning to commit messages
 
-## 📚 Documentation 
+### 📚 Documentation 
 
 -   **[Docusaurus](https://docusaurus.io/)** – Documentation framework for websites.
 -   **[OpenAPI (Swagger)](https://swagger.io/)** – API documentation and design tool.
 
-## 🚀 Git Hooks & Code Quality  
+### 🚀 Git Hooks & Code Quality  
 
 - [Husky](https://typicode.github.io/husky/#/) – Automate Git hooks to run scripts before commits, pushes, etc.  
 - [Lint-staged](https://github.com/okonet/lint-staged) – Run linters and formatters only on staged files.  
@@ -282,13 +282,13 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Standard Version](https://github.com/conventional-changelog/standard-version) – Automate versioning and changelogs following semantic versioning.  
 
 
-## ⚡ Scripting & Automation
+### ⚡ Scripting & Automation
 
 - **[zx](https://github.com/google/zx)** – A tool by Google that makes writing shell scripts in JavaScript easy and more readable.
 - **[Taskfile.dev](https://taskfile.dev/)** – A modern task runner and build automation tool.
 
 
-## 🛠️ APIs
+### 🛠️ APIs
 
 -   **[GraphQL](https://graphql.org/)** – API query language.
 -   **[Apollo Client](https://www.apollographql.com/docs/react/)** – GraphQL state management for React.
@@ -296,26 +296,26 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[API Platform](https://api-platform.com/)** – Full-stack API framework.
 -   **[tRPC](https://trpc.io/)** – TypeScript-first API framework for RPC.
 
-## 📬 Emailing
+### 📬 Emailing
 
 - **[MJML](https://mjml.io/)** - The Responsive Email Framework
 - **[React Email](https://github.com/resend/react-email)** -  A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
 - **[MailHog](https://github.com/mailhog/MailHog)** - Web and API based SMTP testing
 
-## 🤖 Web Scraping & Automation
+### 🤖 Web Scraping & Automation
 
 -   **[Crawlee](https://crawlee.dev/)** – Web scraping and automation framework.
 -   **[Puppeteer](https://pptr.dev/)** – Headless browser automation for Chrome.
 -   **[Playwright](https://playwright.dev/)** – End-to-end testing and automation.
 
 
-## 🔧 Automation & Workflow Platforms
+### 🔧 Automation & Workflow Platforms
 
 -   **[n8n](https://n8n.io/)** - n8n is a workflow automation platform that gives technical teams
 -   **[Windmill](https://www.windmill.dev/)** - Open-source developer platform and workflow engine  
 
 
-## 🛠️ Terminal & CLI Productivity
+### 🛠️ Terminal & CLI Productivity
 
 - **[Zsh](https://www.zsh.org/)** – A powerful, customizable shell that improves upon bash with better scripting and interactive features.
 - **[Oh My Zsh](https://ohmyz.sh/)** – A popular framework for managing Zsh configuration with themes and plugins.
@@ -324,18 +324,18 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[ripgrep](https://github.com/BurntSushi/ripgrep)** – A fast search tool like `grep`, but optimized for large codebases.
 - **[tldr](https://tldr.sh/)** – Simplified and community-driven man pages.
 
-## 🧑‍💻 Development Tools
+### 🧑‍💻 Development Tools
 
 - **[Visual Studio Code](https://code.visualstudio.com/)** – A powerful and versatile code editor for web and software development.
 - **[Extentions Visual Studio Code](vscode-extensions.md)** List of extensions
 
-## 📊 Graph Databases
+### 📊 Graph Databases
 
 - [Memgraph](https://memgraph.com/) - A high-performance, in-memory graph database optimized for real-time analytics and complex queries using Cypher.
 - [Dgraph](https://github.com/hypermodeinc/dgraph) - An open-source, distributed graph database designed for high scalability and efficient query execution.
 - [Neo4j](https://neo4j.com/product/neo4j-graph-database/) - A powerful graph database with native graph storage and processing, widely used for deep relationship analysis and data-driven applications.
 
-## 🛠️ Developer Utilities
+### 🛠️ Developer Utilities
 
 - **[Postman](https://www.postman.com/)** – Platform for building and testing APIs with a user-friendly interface.
 - **[Insomnia](https://insomnia.rest/)** – Open-source API client with support for REST, GraphQL, and gRPC.
