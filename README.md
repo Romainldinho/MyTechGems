@@ -227,17 +227,15 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 🔐 Security
 
--   **[OWASP](https://owasp.org/)** – Security best practices and guides.
--   **[Helmet](https://helmetjs.github.io/)** – Security middleware for Express.js.
--   **[Auth0](https://auth0.com/)** – Authentication and authorization platform.
--   **[Firebase Authentication](https://firebase.google.com/products/auth/)** – Authentication for mobile and web apps.
--   **[Keycloak](https://www.keycloak.org/)** – Open-source identity and access management.
--   https://github.com/semgrep/semgrep
--   https://github.com/aquasecurity/trivy
--   https://www.keycloak.org/
--   https://github.com/gitleaks/gitleaks
-- [**Fail2Ban**](https://github.com/fail2ban/fail2ban) – Prevent brute-force attacks by banning IPs based on logs.
-
+- [**OWASP**](https://owasp.org/) – Security best practices and guides for web applications.
+- [**Helmet**](https://github.com/helmetjs/helmet) – Middleware for Express.js that helps secure apps by setting HTTP headers.
+- [**Auth0**](https://auth0.com/) – Authentication and authorization platform (non open-source).
+- [**Firebase Authentication**](https://firebase.google.com/products/auth) – Authentication service for mobile and web apps (non open-source).
+- [**Keycloak**](https://www.keycloak.org/) – Open-source identity and access management with support for OAuth2, OIDC, SAML, and more.
+- [**Semgrep**](https://github.com/semgrep/semgrep) – Fast, open-source static analysis tool for finding bugs and security issues.
+- [**Trivy**](https://github.com/aquasecurity/trivy) – Comprehensive vulnerability scanner for containers, filesystems, and Git repositories.
+- [**Gitleaks**](https://github.com/gitleaks/gitleaks) – Detects hardcoded secrets like passwords and API keys in Git repos.
+- [**Fail2Ban**](https://github.com/fail2ban/fail2ban) – Bans IPs with suspicious activity by monitoring system logs, preventing brute-force attacks.
 
 ### 🌍 Cloud & Infrastructure
 
