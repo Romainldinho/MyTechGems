@@ -196,7 +196,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[Caddy](https://caddyserver.com/)** – Web server with automatic HTTPS and easy configuration.
 - **[Minikube](https://minikube.sigs.k8s.io/)** – Local Kubernetes cluster for development and testing.
 - **[k3s](https://k3s.io/)** – Lightweight Kubernetes distribution for IoT and edge computing.
-- **[DevContainer](https://containers.dev/)** – Portable development environments using Docker and VS Code.
 - **[Dokploy](https://github.com/Dokploy/dokploy)** – Deployment automation and cloud management with Docker.
 
 
