@@ -210,7 +210,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Dribbble - Dashboard](https://dribbble.com/)** – Creative platform for UI/UX design inspiration.
 -   **[Crawlee](https://crawlee.dev/)** – Web scraping and automation framework for Node.js.
 -   **[Gitmoji](https://gitmoji.dev/)** – Guide to using Gitmoji for adding emojis to your Git commits.
--   https://mermaid.live/
+-   **[Mermaid Live Editor](https://mermaid.live/)** – Create diagrams and flowcharts with Markdown-like syntax.
 
 ### 🧑‍💻 Productivity Tools
 
