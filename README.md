@@ -233,6 +233,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Firebase Authentication](https://firebase.google.com/products/auth/)** – Authentication for mobile and web apps.
 -   **[Keycloak](https://www.keycloak.org/)** – Open-source identity and access management.
 -   https://github.com/semgrep/semgrep
+-   https://github.com/aquasecurity/trivy
 
 
 ### 🌍 Cloud & Infrastructure
