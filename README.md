@@ -235,6 +235,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   https://github.com/semgrep/semgrep
 -   https://github.com/aquasecurity/trivy
 -   https://www.keycloak.org/
+-   https://github.com/gitleaks/gitleaks
+- [**Fail2Ban**](https://github.com/fail2ban/fail2ban) – Prevent brute-force attacks by banning IPs based on logs.
 
 
 ### 🌍 Cloud & Infrastructure
