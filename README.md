@@ -234,6 +234,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Keycloak](https://www.keycloak.org/)** – Open-source identity and access management.
 -   https://github.com/semgrep/semgrep
 -   https://github.com/aquasecurity/trivy
+-   https://www.keycloak.org/
 
 
 ### 🌍 Cloud & Infrastructure
