@@ -77,6 +77,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Headless UI](https://headlessui.com/)** – UI components tailored for Tailwind CSS.  
 -   **[Gatsby](https://www.gatsbyjs.com/)** – A React-based open-source framework for building static websites with a focus on performance and scalability.
 -   **[React Scan](https://github.com/aidenybai/react-scan)** – React Scan automatically detects performance issues in your React app.
+-   **[tRPC](https://trpc.io/)** – Build fully typesafe APIs without schemas or code generation, ideal for full-stack TypeScript apps.
 
 
 #### 🟡 State Management
