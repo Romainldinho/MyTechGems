@@ -232,6 +232,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Auth0](https://auth0.com/)** – Authentication and authorization platform.
 -   **[Firebase Authentication](https://firebase.google.com/products/auth/)** – Authentication for mobile and web apps.
 -   **[Keycloak](https://www.keycloak.org/)** – Open-source identity and access management.
+-   https://github.com/semgrep/semgrep
 
 
 ### 🌍 Cloud & Infrastructure
