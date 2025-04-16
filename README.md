@@ -57,6 +57,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 22. [🔧 No-code/Low-code](#-no-codelow-code)
 23. [📊 Graph Databases](#-graph-databases)
 24. [🛠️ Developer Utilities](#-developer-utilities)
+25. [🌱 Green Website Carbon Footprint Tools]
 
 
 ---
@@ -370,6 +371,14 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[httpie](https://httpie.io/)** – Command-line HTTP client with a human-friendly interface.
 - **[ReqBin](https://reqbin.com/)** – Online API testing tool to quickly test HTTP requests.
 - **[Mockoon](https://mockoon.com/)** – Easily create mock REST APIs for testing and development.
+
+## 📬 Emailing
+
+-   **[Mailchimp](https://mailchimp.com/)** – Email marketing tool to create marketing campaigns, send newsletters, and analyze results.
+-   **[Mailgun](https://www.mailgun.com/)** – Email sending API for transactional and marketing emails aimed at developers.
+-   **[Mailjet](https://www.mailjet.com/)** – Email sending platform for transactional and marketing emails, with an API and segmentation tools.
+-   **[Sendgrid](https://sendgrid.com/)** – Email service for developers, ideal for transactional and marketing emails.
+
 
 ---
 <br/>
