@@ -184,6 +184,10 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - **[pgAdmin](https://www.pgadmin.org/)** – Popular administration and development platform for PostgreSQL.
 - **[MongoDB Compass](https://www.mongodb.com/products/compass)** – GUI for MongoDB, allowing schema exploration and performance monitoring.
 
+## 🧠 In-Memory Databases & Caching
+
+- **[Redis](https://redis.io/)** – Ultra-fast in-memory key-value store. Ideal for caching, session storage, pub/sub, and real-time analytics.  
+- **[Memcached](https://memcached.org/)** – High-performance, distributed memory object caching system.  
 
 ### ⚙️ DevOps & Infrastructure
 
