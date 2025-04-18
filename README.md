@@ -264,6 +264,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Kibana](https://www.elastic.co/kibana/) – Data visualization for Elasticsearch.
 - [OpenTelemetry](https://opentelemetry.io/) – Framework for metrics, logs, and traces.
 
+- https://github.com/louislam/uptime-kuma
+
 ### 📜 Git & platform
 
 - [GitHub](https://github.com/) – Version control platform.
@@ -426,6 +428,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Appsmith](https://www.appsmith.com/) – Build internal apps and admin panels with low-code logic.
 - [Retool (Free Plan)](https://retool.com/) – Fast builder for internal tools and data apps. Generous free tier.
 - [Polly](https://www.polly.ai/) – Polling and feedback tool for Slack & Teams, useful for lightweight reporting.
+
+https://sh.openbestof.com/tools/
 
 ---
 
