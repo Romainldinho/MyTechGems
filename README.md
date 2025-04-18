@@ -79,7 +79,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Gatsby](https://www.gatsbyjs.com/)** – A React-based open-source framework for building static websites with a focus on performance and scalability.
 -   **[React Scan](https://github.com/aidenybai/react-scan)** – React Scan automatically detects performance issues in your React app.
 -   **[tRPC](https://trpc.io/)** – Build fully typesafe APIs without schemas or code generation, ideal for full-stack TypeScript apps.
-
+-   **[Apollo Client](https://www.apollographql.com/docs/react/)** – GraphQL state management for React.
 
 #### 🟡 State Management
 
@@ -276,6 +276,16 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Bitbucket](https://bitbucket.org/)** – Git repository hosting.
 -   **[Gitmoji](https://gitmoji.dev/)** – Emoji guide for commit messages.
 -   **[Conventional Commits](https://www.conventionalcommits.org/)** - A specification for adding human and machine readable meaning to commit messages
+- [Standard Version](https://github.com/conventional-changelog/standard-version) – Automate versioning and changelogs following semantic versioning.  
+
+
+### 🚀 Git Hooks & Code Quality  
+
+- [Prettier](https://prettier.io/) – An opinionated code formatter that supports JavaScript, TypeScript, HTML, CSS, JSON, and more.
+- [Husky](https://typicode.github.io/husky/#/) – Automate Git hooks to run scripts before commits, pushes, etc.  
+- [Lint-staged](https://github.com/okonet/lint-staged) – Run linters and formatters only on staged files.  
+- [Commitlint](https://commitlint.js.org/#/) – Enforce commit message conventions (e.g., Conventional Commits).  
+
 
 ### 📚 Documentation 
 
@@ -297,16 +307,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 -   **[Sustainable Web Design](https://www.sustainablewebdesign.org/)** – Initiative and guide to creating more sustainable and eco-friendly websites.
 -   **[CleanFox](https://www.cleanfox.io/)** – Tool to clean up email inboxes, reducing the carbon footprint of email communications linked to websites.
 
-
-### 🚀 Git Hooks & Code Quality  
-
-- [Prettier](https://prettier.io/) – An opinionated code formatter that supports JavaScript, TypeScript, HTML, CSS, JSON, and more.
-- [Husky](https://typicode.github.io/husky/#/) – Automate Git hooks to run scripts before commits, pushes, etc.  
-- [Lint-staged](https://github.com/okonet/lint-staged) – Run linters and formatters only on staged files.  
-- [Commitlint](https://commitlint.js.org/#/) – Enforce commit message conventions (e.g., Conventional Commits).  
-- [Standard Version](https://github.com/conventional-changelog/standard-version) – Automate versioning and changelogs following semantic versioning.  
-
-
 ### ⚡ Scripting & Automation
 
 - **[zx](https://github.com/google/zx)** – A tool by Google that makes writing shell scripts in JavaScript easy and more readable.
@@ -316,7 +316,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 ### 🛠️ APIs
 
 -   **[GraphQL](https://graphql.org/)** – API query language.
--   **[Apollo Client](https://www.apollographql.com/docs/react/)** – GraphQL state management for React.
 -   **[Restify](https://restify.com/)** – Node.js framework for REST APIs.
 -   **[API Platform](https://api-platform.com/)** – Full-stack API framework.
 -   **[tRPC](https://trpc.io/)** – TypeScript-first API framework for RPC.
