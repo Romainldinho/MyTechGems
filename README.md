@@ -360,6 +360,48 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Mailjet](https://www.mailjet.com/) – Email sending platform for transactional and marketing emails, with an API and segmentation tools.
 - [Sendgrid](https://sendgrid.com/) – Email service for developers, ideal for transactional and marketing emails.
 
+### 🧠 Visual Thinking & Diagrams
+
+- **[Excalidraw](https://excalidraw.com/)** – Virtual whiteboard for sketching diagrams with a hand-drawn feel.
+- **[Draw.io (diagrams.net)](https://draw.io/)** – Versatile diagramming tool integrated with cloud storage.
+- **[tldraw](https://www.tldraw.com/)** – Collaborative digital whiteboard with minimalist design.
+- **[Whimsical](https://whimsical.com/)** – Wireframes, flowcharts, mind maps, and sticky notes. Great UX.
+- **[Miro](https://miro.com/)** – Online collaborative whiteboard with powerful integrations. Free team plan.
+- **[FigJam](https://figma.com/figjam/)** – Whiteboarding tool by Figma for brainstorming and diagramming.
+- **[Penpot](https://penpot.app/)** – Open-source design & prototyping tool for cross-functional teams.
+- **[Mindmup](https://www.mindmup.com/)** – Simple and fast mind mapping.
+- **[Coggle](https://coggle.it/)** – Collaborative mind maps with real-time updates.
+
+### 🎨 UI Kits, Wireframing & Mockups
+
+- **[Figma](https://figma.com/)** – Collaborative UI design tool with tons of free community kits and plugins.
+- **[Penpot](https://penpot.app/)** – Open-source design and prototyping platform for teams.
+- **[Framer](https://www.framer.com/)** – Design, prototype, and ship websites visually. Free plan available.
+- **[Mockflow](https://mockflow.com/)** – Wireframing and UI mockup tool with collaboration features.
+- **[Wireframe.cc](https://wireframe.cc/)** – Minimal wireframing tool focused on simplicity.
+- **[Balsamiq](https://balsamiq.com/)** – Low-fidelity wireframing for fast ideation. Offers free trials and discounts for students.
+- **[Storybook](https://storybook.js.org/)** – UI component explorer for frontend developers.
+- **[UI Design Daily](https://uidesigndaily.com/)** – Daily free UI resources for inspiration and download.
+- **[FreebiesUI](https://freebiesui.com/)** – Collection of free UI kits, templates, and mockups.
+- **[Mockup World](https://www.mockupworld.co/)** – High-quality free mockups for showcasing your designs.
+
+
+### 🖼️ Icons & Illustrations
+
+- **[Heroicons](https://heroicons.com/)** – Beautiful hand-crafted SVG icons by the creators of Tailwind CSS.
+- **[Lucide](https://lucide.dev/)** – Community-driven icon library forked from Feather Icons.
+- **[Tabler Icons](https://tabler.io/icons)** – A set of over 4,000 free, MIT-licensed high-quality SVG icons.
+- **[Phosphor Icons](https://phosphoricons.com/)** – Flexible icons for interfaces, diagrams, presentations.
+- **[Iconoir](https://iconoir.com/)** – A free and open-source icon library with 1300+ icons.
+- **[Feather Icons](https://feathericons.com/)** – Simple and minimalistic open source icons.
+- **[Undraw](https://undraw.co/illustrations)** – Open-source illustrations for any idea you can imagine.
+- **[Open Doodles](https://www.opendoodles.com/)** – Free sketchy illustrations to use on your website or app.
+- **[Humaaans](https://www.humaaans.com/)** – Mix-&-match illustrations of people for your projects.
+- **[Blush](https://blush.design/)** – Create, mix, and customize illustrations made by artists. Free plan available.
+- **[SVGRepo](https://www.svgrepo.com/)** – Huge collection of free SVGs, including icons and illustrations.
+
+
+
 ---
 
 <br/>
