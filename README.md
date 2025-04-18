@@ -54,7 +54,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 22. [🔧 No-code/Low-code](#-no-codelow-code)
 23. [📊 Graph Databases](#-graph-databases)
 24. [🛠️ Developer Utilities](#-developer-utilities)
-25. [🌱 Green Website Carbon Footprint Tools]
+25. [🌱 Green Website Carbon Footprint Tools](#-green-website-carbon-footprint-tools)
 
 ---
 
