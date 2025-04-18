@@ -184,7 +184,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [pgAdmin](https://www.pgadmin.org/) – Popular administration and development platform for PostgreSQL.
 - [MongoDB Compass](https://www.mongodb.com/products/compass) – GUI for MongoDB, allowing schema exploration and performance monitoring.
 
-## 🧠 In-Memory Databases & Caching
+### 🧠 In-Memory Databases & Caching
 
 - [Redis](https://redis.io/) – Ultra-fast in-memory key-value store. Ideal for caching, session storage, pub/sub, and real-time analytics.
 - [Memcached](https://memcached.org/) – High-performance, distributed memory object caching system.
@@ -359,7 +359,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [ReqBin](https://reqbin.com/) – Online API testing tool to quickly test HTTP requests.
 - [Mockoon](https://mockoon.com/) – Easily create mock REST APIs for testing and development.
 
-## 📬 Emailing
+### 📬 Emailing
 
 - [Mailchimp](https://mailchimp.com/) – Email marketing tool to create marketing campaigns, send newsletters, and analyze results.
 - [Mailgun](https://www.mailgun.com/) – Email sending API for transactional and marketing emails aimed at developers.
