@@ -34,28 +34,34 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
     - [🧪 Testing Tools for PHP](#-testing-tools-for-php)
     - [🧪 Testing Tools for Node.js & JavaScript](#-testing-tools-for-nodejs--javascript)
 4.  [🗄️ Databases & Tools](#-databases--tools)
-5.  [⚙️ DevOps & Infrastructure](#-devops--infrastructure)
-6.  [📚 Useful Resources](#-useful-resources)
-7.  [🧑‍💻 Productivity Tools](#-productivity-tools)
-8.  [⚙️ Automation & CI/CD](#-automation--cicd)
-9.  [🔒 Security](#-security)
-10. [🌍 Cloud & Infrastructure](#-cloud--infrastructure)
-11. [🔄 ETL/ELT & Data Integration](#-etl-elt--data-integration)
-12. [📊 Monitoring & Observability](#-monitoring--observability)
-13. [📜 Git & platform](#-git--platform)
-14. [📚 Documentation](#-documentation)
+5.  [🧠 In-Memory Databases & Caching](#-in-memory-databases--caching)
+6.  [⚙️ DevOps & Infrastructure](#-devops--infrastructure)
+7.  [📚 Useful Resources](#-useful-resources)
+8.  [🧑‍💻 Productivity Tools](#-productivity-tools)
+9.  [⚙️ Automation & CI/CD](#-automation--cicd)
+10. [🔒 Security](#-security)
+11. [🌍 Cloud & Infrastructure](#-cloud--infrastructure)
+12. [🔄 ETL/ELT & Data Integration](#-etl-elt--data-integration)
+13. [📊 Monitoring & Observability](#-monitoring--observability)
+14. [📜 Git & Platform](#-git--platform)
 15. [🚀 Git Hooks & Code Quality](#-git-hooks--code-quality)
-16. [⚡ Scripting & Automation](#-scripting--automation)
-17. [🛠️ APIs](#-apis)
-18. [📬 Emailing](#-emailing)
-19. [🤖 Web Scraping & Automation](#-web-scraping--automation)
-20. [🔧 Automation & Workflow Platforms](#-automation--workflow-platforms)
-21. [🛠️ Terminal & CLI Productivity](#-terminal--cli-productivity)
-22. [🔧 No-code/Low-code](#-no-codelow-code)
-23. [📊 Graph Databases](#-graph-databases)
-24. [🛠️ Developer Utilities](#-developer-utilities)
-25. [🌱 Green Website Carbon Footprint Tools](#-green-website-carbon-footprint-tools)
-
+16. [📚 Documentation](#-documentation)
+17. [🌱 Green Website Carbon Footprint Tools](#-green-website-carbon-footprint-tools)
+18. [⚡ Scripting & Automation](#-scripting--automation)
+19. [🛠️ APIs](#-apis)
+20. [📬 Emailing](#-emailing)
+21. [🤖 Web Scraping & Automation](#-web-scraping--automation)
+22. [🔧 Automation & Workflow Platforms](#-automation--workflow-platforms)
+23. [🛠️ Terminal & CLI Productivity](#-terminal--cli-productivity)
+24. [🔧 No-code/Low-code](#-no-codelow-code)
+25. [📊 Graph Databases](#-graph-databases)
+26. [🛠️ Developer Utilities](#-developer-utilities)
+27. [🧑‍💻 Development Tools](#-development-tools)
+28. [🧠 Visual Thinking & Diagrams](#-visual-thinking--diagrams)
+29. [🎨 UI Kits, Wireframing & Mockups](#-ui-kits-wireframing--mockups)
+30. [🖼️ Icons & Illustrations](#-icons--illustrations)
+31. [📈 Dashboards & BI Tools](#-dashboards--bi-tools)
+32. [🗂️ Reporting & Data Tools](#-reporting--data-tools)
 ---
 
 ## 🎨 Frontend Development
@@ -362,45 +368,64 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 🧠 Visual Thinking & Diagrams
 
-- **[Excalidraw](https://excalidraw.com/)** – Virtual whiteboard for sketching diagrams with a hand-drawn feel.
-- **[Draw.io (diagrams.net)](https://draw.io/)** – Versatile diagramming tool integrated with cloud storage.
-- **[tldraw](https://www.tldraw.com/)** – Collaborative digital whiteboard with minimalist design.
-- **[Whimsical](https://whimsical.com/)** – Wireframes, flowcharts, mind maps, and sticky notes. Great UX.
-- **[Miro](https://miro.com/)** – Online collaborative whiteboard with powerful integrations. Free team plan.
-- **[FigJam](https://figma.com/figjam/)** – Whiteboarding tool by Figma for brainstorming and diagramming.
-- **[Penpot](https://penpot.app/)** – Open-source design & prototyping tool for cross-functional teams.
-- **[Mindmup](https://www.mindmup.com/)** – Simple and fast mind mapping.
-- **[Coggle](https://coggle.it/)** – Collaborative mind maps with real-time updates.
+- [Excalidraw](https://excalidraw.com/) – Virtual whiteboard for sketching diagrams with a hand-drawn feel.
+- [Draw.io (diagrams.net)](https://draw.io/) – Versatile diagramming tool integrated with cloud storage.
+- [tldraw](https://www.tldraw.com/) – Collaborative digital whiteboard with minimalist design.
+- [Whimsical](https://whimsical.com/) – Wireframes, flowcharts, mind maps, and sticky notes. Great UX.
+- [Miro](https://miro.com/) – Online collaborative whiteboard with powerful integrations. Free team plan.
+- [FigJam](https://figma.com/figjam/) – Whiteboarding tool by Figma for brainstorming and diagramming.
+- [Penpot](https://penpot.app/) – Open-source design & prototyping tool for cross-functional teams.
+- [Mindmup](https://www.mindmup.com/) – Simple and fast mind mapping.
+- [Coggle](https://coggle.it/) – Collaborative mind maps with real-time updates.
 
 ### 🎨 UI Kits, Wireframing & Mockups
 
-- **[Figma](https://figma.com/)** – Collaborative UI design tool with tons of free community kits and plugins.
-- **[Penpot](https://penpot.app/)** – Open-source design and prototyping platform for teams.
-- **[Framer](https://www.framer.com/)** – Design, prototype, and ship websites visually. Free plan available.
-- **[Mockflow](https://mockflow.com/)** – Wireframing and UI mockup tool with collaboration features.
-- **[Wireframe.cc](https://wireframe.cc/)** – Minimal wireframing tool focused on simplicity.
-- **[Balsamiq](https://balsamiq.com/)** – Low-fidelity wireframing for fast ideation. Offers free trials and discounts for students.
-- **[Storybook](https://storybook.js.org/)** – UI component explorer for frontend developers.
-- **[UI Design Daily](https://uidesigndaily.com/)** – Daily free UI resources for inspiration and download.
-- **[FreebiesUI](https://freebiesui.com/)** – Collection of free UI kits, templates, and mockups.
-- **[Mockup World](https://www.mockupworld.co/)** – High-quality free mockups for showcasing your designs.
+- [Figma](https://figma.com/) – Collaborative UI design tool with tons of free community kits and plugins.
+- [Penpot](https://penpot.app/) – Open-source design and prototyping platform for teams.
+- [Framer](https://www.framer.com/) – Design, prototype, and ship websites visually. Free plan available.
+- [Mockflow](https://mockflow.com/) – Wireframing and UI mockup tool with collaboration features.
+- [Wireframe.cc](https://wireframe.cc/) – Minimal wireframing tool focused on simplicity.
+- [Balsamiq](https://balsamiq.com/) – Low-fidelity wireframing for fast ideation. Offers free trials and discounts for students.
+- [Storybook](https://storybook.js.org/) – UI component explorer for frontend developers.
+- [UI Design Daily](https://uidesigndaily.com/) – Daily free UI resources for inspiration and download.
+- [FreebiesUI](https://freebiesui.com/) – Collection of free UI kits, templates, and mockups.
+- [Mockup World](https://www.mockupworld.co/) – High-quality free mockups for showcasing your designs.
 
 
 ### 🖼️ Icons & Illustrations
 
-- **[Heroicons](https://heroicons.com/)** – Beautiful hand-crafted SVG icons by the creators of Tailwind CSS.
-- **[Lucide](https://lucide.dev/)** – Community-driven icon library forked from Feather Icons.
-- **[Tabler Icons](https://tabler.io/icons)** – A set of over 4,000 free, MIT-licensed high-quality SVG icons.
-- **[Phosphor Icons](https://phosphoricons.com/)** – Flexible icons for interfaces, diagrams, presentations.
-- **[Iconoir](https://iconoir.com/)** – A free and open-source icon library with 1300+ icons.
-- **[Feather Icons](https://feathericons.com/)** – Simple and minimalistic open source icons.
-- **[Undraw](https://undraw.co/illustrations)** – Open-source illustrations for any idea you can imagine.
-- **[Open Doodles](https://www.opendoodles.com/)** – Free sketchy illustrations to use on your website or app.
-- **[Humaaans](https://www.humaaans.com/)** – Mix-&-match illustrations of people for your projects.
-- **[Blush](https://blush.design/)** – Create, mix, and customize illustrations made by artists. Free plan available.
-- **[SVGRepo](https://www.svgrepo.com/)** – Huge collection of free SVGs, including icons and illustrations.
+- [Heroicons](https://heroicons.com/) – Beautiful hand-crafted SVG icons by the creators of Tailwind CSS.
+- [Lucide](https://lucide.dev/) – Community-driven icon library forked from Feather Icons.
+- [Tabler Icons](https://tabler.io/icons) – A set of over 4,000 free, MIT-licensed high-quality SVG icons.
+- [Phosphor Icons](https://phosphoricons.com/) – Flexible icons for interfaces, diagrams, presentations.
+- [Iconoir](https://iconoir.com/) – A free and open-source icon library with 1300+ icons.
+- [Feather Icons](https://feathericons.com/) – Simple and minimalistic open source icons.
+- [Undraw](https://undraw.co/illustrations) – Open-source illustrations for any idea you can imagine.
+- [Open Doodles](https://www.opendoodles.com/) – Free sketchy illustrations to use on your website or app.
+- [Humaaans](https://www.humaaans.com/) – Mix-&-match illustrations of people for your projects.
+- [Blush](https://blush.design/) – Create, mix, and customize illustrations made by artists. Free plan available.
+- [SVGRepo](https://www.svgrepo.com/) – Huge collection of free SVGs, including icons and illustrations.
 
+### 📈 Dashboards & BI Tools
 
+- [Metabase](https://www.metabase.com/) – Open-source BI platform for creating interactive dashboards with ease. Simple to self-host.
+- [Redash](https://redash.io/) – Open-source tool to visualize data using SQL queries.
+- [Superset](https://superset.apache.org/) – Full-featured BI and data exploration platform maintained by Apache.
+- [Grafana](https://grafana.com/) – Real-time metrics and monitoring dashboards. Often used with Prometheus.
+- [Kibana](https://www.elastic.co/kibana/) – Visualizes logs and data from Elasticsearch. Free basic tier available.
+- [Lightdash](https://www.lightdash.com/) – Open-source alternative to Looker, built on dbt. Modern BI interface.
+- [Budibase](https://budibase.com/) – Low-code platform to build internal tools and dashboards. Open-source and self-hostable.
+- [Baserow](https://baserow.io/) – Online database tool with table, Kanban and gallery views. Great for lightweight dashboards.
+- [Dune](https://dune.com/) – Analytics and dashboards for blockchain data. Free for public dashboards.
+
+### 🗂️ Reporting & Data Tools
+
+- [Google Data Studio (Looker Studio)](https://lookerstudio.google.com/) – Create dynamic, shareable reports using data from Sheets, BigQuery, and more. Completely free.
+- [Cluvio](https://www.cluvio.com/) – Modern BI for SQL analysts. Free for small projects.
+- [Grist](https://grist.org/) – Modern spreadsheet-meets-database. Great for building flexible reports.
+- [Appsmith](https://www.appsmith.com/) – Build internal apps and admin panels with low-code logic.
+- [Retool (Free Plan)](https://retool.com/) – Fast builder for internal tools and data apps. Generous free tier.
+- [Polly](https://www.polly.ai/) – Polling and feedback tool for Slack & Teams, useful for lightweight reporting.
 
 ---
 
