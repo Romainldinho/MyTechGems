@@ -238,6 +238,17 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [**Gitleaks**](https://github.com/gitleaks/gitleaks) – Detects hardcoded secrets like passwords and API keys in Git repos.
 - [**Fail2Ban**](https://github.com/fail2ban/fail2ban) – Bans IPs with suspicious activity by monitoring system logs, preventing brute-force attacks.
 
+### 🔐 Secrets Management
+
+- **[Vault by HashiCorp](https://github.com/hashicorp/vault)** – Secure, store and tightly control access to tokens, passwords, certificates, and encryption keys.
+- **[Infisical](https://github.com/infisical/infisical)** – Open-source secret management platform with a modern dashboard and syncing capabilities.
+- **[Sops by Mozilla](https://github.com/mozilla/sops)** – Encrypt, decrypt, and edit secrets using AWS KMS, GCP KMS, Azure Key Vault or PGP.
+- **[EnvKey (Free Dev Tier)](https://www.envkey.com/)** – Environment configuration management tool for teams and CI/CD pipelines.
+- **[Teller](https://github.com/tellerops/teller)** – Secrets management tool designed for dev workflows (dotenv, Vault, AWS, etc.).
+- **[Gopass](https://github.com/gopasspw/gopass)** – CLI password manager based on GPG and Git.
+- **[AWS Secrets Manager (Free Tier)](https://aws.amazon.com/secrets-manager/)** – Managed service for secrets, free within usage limits.
+
+
 ### 🌍 Cloud & Infrastructure
 
 - [Docker](https://www.docker.com/) – Containerization platform.
