@@ -341,6 +341,9 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 - [n8n](https://n8n.io/) - n8n is a workflow automation platform that gives technical teams
 - [Windmill](https://www.windmill.dev/) - Open-source developer platform and workflow engine
+- [Make](https://www.make.com/en) – Powerful no-code platform to visually automate workflows and connect apps. Free plan available.
+- [Pipedream](https://pipedream.com/) – Low-code integration and automation platform for developers. Generous free tier.
+- [Automa](https://github.com/AutomaApp/automa) – Chrome and Firefox extension for browser automation.
 
 ### 🛠️ Terminal & CLI Productivity
 
