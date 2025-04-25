@@ -214,6 +214,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Crawlee](https://crawlee.dev/) – Web scraping and automation framework for Node.js.
 - [Gitmoji](https://gitmoji.dev/) – Guide to using Gitmoji for adding emojis to your Git commits.
 - [Mermaid Live Editor](https://mermaid.live/) – Create diagrams and flowcharts with Markdown-like syntax.
+- https://sh.openbestof.com/tools/
 
 ### 🧑‍💻 Productivity Tools
 
@@ -437,15 +438,11 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 ### 🗂️ Reporting & Data Tools
 
 - [Google Data Studio (Looker Studio)](https://lookerstudio.google.com/) – Create dynamic, shareable reports using data from Sheets, BigQuery, and more. Completely free.
-- [Cluvio](https://www.cluvio.com/) – Modern BI for SQL analysts. Free for small projects.
-- [Grist](https://grist.org/) – Modern spreadsheet-meets-database. Great for building flexible reports.
 - [Appsmith](https://www.appsmith.com/) – Build internal apps and admin panels with low-code logic.
-- [Retool (Free Plan)](https://retool.com/) – Fast builder for internal tools and data apps. Generous free tier.
-- [Polly](https://www.polly.ai/) – Polling and feedback tool for Slack & Teams, useful for lightweight reporting.
 
-https://sh.openbestof.com/tools/
 
 ---
+
 
 <br/>
 
