@@ -215,6 +215,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Gitmoji](https://gitmoji.dev/) – Guide to using Gitmoji for adding emojis to your Git commits.
 - [Mermaid Live Editor](https://mermaid.live/) – Create diagrams and flowcharts with Markdown-like syntax.
 - https://sh.openbestof.com/tools/
+- https://github.com/is-a-dev/register
 
 ### 🧑‍💻 Productivity Tools
 
@@ -389,24 +390,15 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Draw.io (diagrams.net)](https://draw.io/) – Versatile diagramming tool integrated with cloud storage.
 - [tldraw](https://www.tldraw.com/) – Collaborative digital whiteboard with minimalist design.
 - [Whimsical](https://whimsical.com/) – Wireframes, flowcharts, mind maps, and sticky notes. Great UX.
-- [Miro](https://miro.com/) – Online collaborative whiteboard with powerful integrations. Free team plan.
-- [FigJam](https://figma.com/figjam/) – Whiteboarding tool by Figma for brainstorming and diagramming.
 - [Penpot](https://penpot.app/) – Open-source design & prototyping tool for cross-functional teams.
-- [Mindmup](https://www.mindmup.com/) – Simple and fast mind mapping.
-- [Coggle](https://coggle.it/) – Collaborative mind maps with real-time updates.
 
 ### 🎨 UI Kits, Wireframing & Mockups
 
 - [Figma](https://figma.com/) – Collaborative UI design tool with tons of free community kits and plugins.
-- [Penpot](https://penpot.app/) – Open-source design and prototyping platform for teams.
-- [Framer](https://www.framer.com/) – Design, prototype, and ship websites visually. Free plan available.
 - [Mockflow](https://mockflow.com/) – Wireframing and UI mockup tool with collaboration features.
 - [Wireframe.cc](https://wireframe.cc/) – Minimal wireframing tool focused on simplicity.
-- [Balsamiq](https://balsamiq.com/) – Low-fidelity wireframing for fast ideation. Offers free trials and discounts for students.
 - [Storybook](https://storybook.js.org/) – UI component explorer for frontend developers.
 - [UI Design Daily](https://uidesigndaily.com/) – Daily free UI resources for inspiration and download.
-- [FreebiesUI](https://freebiesui.com/) – Collection of free UI kits, templates, and mockups.
-- [Mockup World](https://www.mockupworld.co/) – High-quality free mockups for showcasing your designs.
 
 
 ### 🖼️ Icons & Illustrations
@@ -430,14 +422,10 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Superset](https://superset.apache.org/) – Full-featured BI and data exploration platform maintained by Apache.
 - [Grafana](https://grafana.com/) – Real-time metrics and monitoring dashboards. Often used with Prometheus.
 - [Kibana](https://www.elastic.co/kibana/) – Visualizes logs and data from Elasticsearch. Free basic tier available.
-- [Lightdash](https://www.lightdash.com/) – Open-source alternative to Looker, built on dbt. Modern BI interface.
+- [Lightdash](https://github.com/lightdash/lightdash) – Open-source alternative to Looker, built on dbt. Modern BI interface.
 - [Budibase](https://budibase.com/) – Low-code platform to build internal tools and dashboards. Open-source and self-hostable.
 - [Baserow](https://baserow.io/) – Online database tool with table, Kanban and gallery views. Great for lightweight dashboards.
-- [Dune](https://dune.com/) – Analytics and dashboards for blockchain data. Free for public dashboards.
-
-### 🗂️ Reporting & Data Tools
-
-- [Google Data Studio (Looker Studio)](https://lookerstudio.google.com/) – Create dynamic, shareable reports using data from Sheets, BigQuery, and more. Completely free.
+- [Google Data Studio (Looker Studio)](https://lookerstudio.google.com/) – Create dynamic, shareable reports using data from Sheets, BigQuery, and more.
 - [Appsmith](https://www.appsmith.com/) – Build internal apps and admin panels with low-code logic.
 
 
