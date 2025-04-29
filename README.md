@@ -91,10 +91,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 #### 🧪 Testing Tools for React
 
 - [Jest](https://jestjs.io/) – JavaScript testing framework for unit tests.
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/) – Utilities for testing React components.
 - [Cypress](https://www.cypress.io/) – End-to-end testing for web applications.
 - [Playwright](https://playwright.dev/) – End-to-end testing framework for web apps.
-- [Enzyme](https://enzymejs.github.io/enzyme/) – JavaScript testing utilities for React.
 
 ### 🎨 UI & Styling
 
@@ -157,8 +155,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 #### 🧪 Testing Tools for Node.js & JavaScript
 
 - [Mocha](https://mochajs.org/) – Flexible and simple testing framework for Node.js.
-- [Chai](https://www.chaijs.com/) – Assertion library for Mocha.
-- [Jest](https://jestjs.io/) – JavaScript testing framework.
 - [Supertest](https://www.npmjs.com/package/supertest) – HTTP assertions for testing REST APIs.
 
 ### 📝 CMS
@@ -167,7 +163,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Directus](https://directus.io/) – Headless CMS with an intuitive interface.
 - [Contentful](https://www.contentful.com/) – Headless CMS for delivering content via APIs.
 - [Sanity](https://www.sanity.io/) – Real-time headless CMS and structured content platform.
-- [Ghost](https://ghost.org/) – Publishing platform for blogs and online publications.
 - [KeystoneJS](https://keystonejs.com/) – Headless CMS and web application platform built with Node.js.
 - [Drupal](https://www.drupal.org/) – A powerful open-source CMS for complex and scalable web applications.
 - [WordPress](https://wordpress.org/) – The most popular CMS for creating websites and blogs, with a vast ecosystem of plugins and themes.
