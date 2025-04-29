@@ -269,7 +269,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Logstash](https://www.elastic.co/logstash/) – Data processing pipeline.
 - [Kibana](https://www.elastic.co/kibana/) – Data visualization for Elasticsearch.
 - [OpenTelemetry](https://opentelemetry.io/) – Framework for metrics, logs, and traces.
-
 - https://github.com/louislam/uptime-kuma
 
 ### 📜 Git & platform
