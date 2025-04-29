@@ -204,7 +204,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [FreeCodeCamp](https://www.freecodecamp.org/) – Learn coding interactively.
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) – Amazing YouTube tutorials.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) – Web crawler for AI data collection and content extraction.
-- [Inngest](https://github.com/inngest/inngest) – Serverless workflows and event-driven automation.
 - [Dribbble - Dashboard](https://dribbble.com/) – Creative platform for UI/UX design inspiration.
 - [Crawlee](https://crawlee.dev/) – Web scraping and automation framework for Node.js.
 - [Gitmoji](https://gitmoji.dev/) – Guide to using Gitmoji for adding emojis to your Git commits.
@@ -282,7 +281,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Gitmoji](https://gitmoji.dev/) – Emoji guide for commit messages.
 - [Conventional Commits](https://www.conventionalcommits.org/) - A specification for adding human and machine readable meaning to commit messages
 - [Standard Version](https://github.com/conventional-changelog/standard-version) – Automate versioning and changelogs following semantic versioning.
-- https://www.gitkraken.com/
+- [Gitkraken](https://www.gitkraken.com/) - 
 
 ### 🚀 Git Hooks & Code Quality
 
@@ -341,6 +340,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Make](https://www.make.com/en) – Powerful no-code platform to visually automate workflows and connect apps. Free plan available.
 - [Pipedream](https://pipedream.com/) – Low-code integration and automation platform for developers. Generous free tier.
 - [Automa](https://github.com/AutomaApp/automa) – Chrome and Firefox extension for browser automation.
+- [Inngest](https://github.com/inngest/inngest) – Serverless workflows and event-driven automation.
 
 ### 🛠️ Terminal & CLI Productivity
 
