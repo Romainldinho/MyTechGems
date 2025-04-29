@@ -223,25 +223,25 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 🔐 Security
 
-- [**OWASP**](https://owasp.org/) – Security best practices and guides for web applications.
-- [**Helmet**](https://github.com/helmetjs/helmet) – Middleware for Express.js that helps secure apps by setting HTTP headers.
-- [**Auth0**](https://auth0.com/) – Authentication and authorization platform (non open-source).
-- [**Firebase Authentication**](https://firebase.google.com/products/auth) – Authentication service for mobile and web apps (non open-source).
-- [**Keycloak**](https://www.keycloak.org/) – Open-source identity and access management with support for OAuth2, OIDC, SAML, and more.
-- [**Semgrep**](https://github.com/semgrep/semgrep) – Fast, open-source static analysis tool for finding bugs and security issues.
-- [**Trivy**](https://github.com/aquasecurity/trivy) – Comprehensive vulnerability scanner for containers, filesystems, and Git repositories.
-- [**Gitleaks**](https://github.com/gitleaks/gitleaks) – Detects hardcoded secrets like passwords and API keys in Git repos.
-- [**Fail2Ban**](https://github.com/fail2ban/fail2ban) – Bans IPs with suspicious activity by monitoring system logs, preventing brute-force attacks.
+- [OWASP](https://owasp.org/) – Security best practices and guides for web applications.
+- [Helmet](https://github.com/helmetjs/helmet) – Middleware for Express.js that helps secure apps by setting HTTP headers.
+- [Auth0](https://auth0.com/) – Authentication and authorization platform (non open-source).
+- [Firebase Authentication](https://firebase.google.com/products/auth) – Authentication service for mobile and web apps (non open-source).
+- [Keycloak](https://www.keycloak.org/) – Open-source identity and access management with support for OAuth2, OIDC, SAML, and more.
+- [Semgrep](https://github.com/semgrep/semgrep) – Fast, open-source static analysis tool for finding bugs and security issues.
+- [Trivy](https://github.com/aquasecurity/trivy) – Comprehensive vulnerability scanner for containers, filesystems, and Git repositories.
+- [Gitleaks](https://github.com/gitleaks/gitleaks) – Detects hardcoded secrets like passwords and API keys in Git repos.
+- [Fail2Ban](https://github.com/fail2ban/fail2ban) – Bans IPs with suspicious activity by monitoring system logs, preventing brute-force attacks.
 
 ### 🔐 Secrets Management
 
-- **[Vault by HashiCorp](https://github.com/hashicorp/vault)** – Secure, store and tightly control access to tokens, passwords, certificates, and encryption keys.
-- **[Infisical](https://github.com/infisical/infisical)** – Open-source secret management platform with a modern dashboard and syncing capabilities.
-- **[Sops by Mozilla](https://github.com/mozilla/sops)** – Encrypt, decrypt, and edit secrets using AWS KMS, GCP KMS, Azure Key Vault or PGP.
-- **[EnvKey (Free Dev Tier)](https://www.envkey.com/)** – Environment configuration management tool for teams and CI/CD pipelines.
-- **[Teller](https://github.com/tellerops/teller)** – Secrets management tool designed for dev workflows (dotenv, Vault, AWS, etc.).
-- **[Gopass](https://github.com/gopasspw/gopass)** – CLI password manager based on GPG and Git.
-- **[AWS Secrets Manager (Free Tier)](https://aws.amazon.com/secrets-manager/)** – Managed service for secrets, free within usage limits.
+- [Vault by HashiCorp](https://github.com/hashicorp/vault) – Secure, store and tightly control access to tokens, passwords, certificates, and encryption keys.
+- [Infisical](https://github.com/infisical/infisical) – Open-source secret management platform with a modern dashboard and syncing capabilities.
+- [Sops by Mozilla](https://github.com/mozilla/sops) – Encrypt, decrypt, and edit secrets using AWS KMS, GCP KMS, Azure Key Vault or PGP.
+- [EnvKey (Free Dev Tier)](https://www.envkey.com/) – Environment configuration management tool for teams and CI/CD pipelines.
+- [Teller](https://github.com/tellerops/teller) – Secrets management tool designed for dev workflows (dotenv, Vault, AWS, etc.).
+- [Gopass](https://github.com/gopasspw/gopass) – CLI password manager based on GPG and Git.
+- [AWS Secrets Manager (Free Tier)](https://aws.amazon.com/secrets-manager/) – Managed service for secrets, free within usage limits.
 
 
 ### 🌍 Cloud & Infrastructure
