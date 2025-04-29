@@ -131,18 +131,24 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 🐘 PHP Ecosystem
 
-- [Laravel](https://laravel.com/) – Elegant PHP framework for web applications.
-- [Livewire](https://livewire.laravel.com/) – Dynamic UI components for Laravel.
-- [Symfony](https://symfony.com/) – Robust PHP framework for complex applications.
-- [Doctrine](https://www.doctrine-project.org/) – ORM for Symfony.
-- [Composer](https://getcomposer.org/) – Dependency manager for PHP.
+- [Laravel](https://laravel.com/) – A modern, expressive PHP framework for building web applications with ease.
+- [Symfony](https://symfony.com/) – A mature and modular PHP framework for large-scale or complex projects.
+- [Doctrine](https://www.doctrine-project.org/) – A powerful ORM (Object-Relational Mapper) used primarily with Symfony.
+- [Composer](https://getcomposer.org/) – Dependency manager for PHP, essential for managing project packages.
+- [Monolog](https://seldaek.github.io/monolog/) – Flexible logging library for PHP applications.
 
-#### 🧪 Testing Tools for PHP
+#### 🧪 Testing & Static Analysis
 
-- [PHPUnit](https://phpunit.de/) – The testing framework for PHP.
-- [Pest](https://pestphp.com/) – A simpler testing framework for PHP.
-- [Mockery](https://mockery.github.io/) – Mock objects framework for PHP.
-- [PHPStan](https://phpstan.org/) – Static analysis tool for PHP.
+- [PHPUnit](https://phpunit.de/) – The de facto standard testing framework for PHP.
+- [Pest](https://pestphp.com/) – A delightful PHP testing framework with a focus on simplicity and readability.
+- [Mockery](https://mockery.github.io/) – Simple yet flexible mock object framework for use with PHPUnit or Pest.
+- [PHPStan](https://phpstan.org/) – Static analysis tool that finds bugs in your code without running it.
+- [Psalm](https://psalm.dev/) – Another advanced static analysis tool with a strong focus on type safety.
+
+#### 🧹 Code Quality & Standards
+
+- [Laravel Pint](https://laravel.com/docs/10.x/pint) – Opinionated code style fixer built specifically for Laravel projects.
+- [PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) – A tool to automatically fix coding standard issues in your PHP codebase.
 
 ### 🟡 Node.js & JavaScript
 
