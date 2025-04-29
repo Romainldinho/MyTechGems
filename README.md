@@ -206,7 +206,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) – Web crawler for AI data collection and content extraction.
 - [Dribbble - Dashboard](https://dribbble.com/) – Creative platform for UI/UX design inspiration.
 - [Crawlee](https://crawlee.dev/) – Web scraping and automation framework for Node.js.
-- [Gitmoji](https://gitmoji.dev/) – Guide to using Gitmoji for adding emojis to your Git commits.
 - [Mermaid Live Editor](https://mermaid.live/) – Create diagrams and flowcharts with Markdown-like syntax.
 - https://sh.openbestof.com/tools/
 - https://github.com/is-a-dev/register
