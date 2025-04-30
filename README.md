@@ -529,6 +529,10 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Bundlephobia](https://bundlephobia.com/) – Discover the cost (size, load time) of npm packages.
 - [Squoosh](https://squoosh.app/) – High-quality image compression tool by Google, directly in your browser.
 - [Responsinator](http://www.responsinator.com/) – Test how your site looks on various devices.
+- [BuiltWith](https://builtwith.com/) – Discover the technologies behind any website, including frameworks, analytics, hosting providers, and more.
+- [Aspect Ratio Tool](https://andrew.hedges.name/experiments/aspect_ratio/) – Tool for testing and adjusting the aspect ratio of images and elements in web design.
+- [MyDevice.io](https://www.mydevice.io/) – Test and simulate how your website looks on different devices, screen sizes, and resolutions.
+
 
 ### 😎 Developer Communities & Inspiration
 
