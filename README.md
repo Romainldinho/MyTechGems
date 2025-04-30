@@ -448,7 +448,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ## 📦 APIs & Integration
 
-### 🛠️ APIs
+### 🛠️ APIs & Services
 
 - [GraphQL](https://graphql.org/) – API query language.
 - [Restify](https://restify.com/) – Node.js framework for REST APIs.
