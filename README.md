@@ -29,7 +29,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [🛠️ Backend Development](#-backend-development)
   - [🐘 PHP & Ecosystem](#-php--ecosystem)
   - [🟢 Node.js & JavaScript](#-nodejs--javascript)
-  - [📝 CMS & Frameworks](#-cms--frameworks)
+  - [📝 CMS & Headless CMS](#-cms--headless-cms)
 - [🧪 Testing](#-testing)
   - [⚛️ Frontend Testing](#-frontend-testing)
   - [📱 Mobile Testing](#-mobile-testing)
@@ -192,7 +192,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Mocha](https://mochajs.org/) – Flexible and simple testing framework for Node.js.
 - [Supertest](https://www.npmjs.com/package/supertest) – HTTP assertions for testing REST APIs.
 
-### 📝 CMS
+### 📝 CMS & Headless CMS
 
 - [Strapi](https://strapi.io/) – Open-source headless CMS built with Node.js.
 - [Directus](https://directus.io/) – Headless CMS with an intuitive interface.
