@@ -84,9 +84,13 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [🚀 Code Quality & Git Hooks](#-code-quality--git-hooks)
 - [🗂️ Git & Version Control](#-git--version-control)
 
-### 🌿 Sustainability
-- [🌱 Green Web Development](#-green-web-development)
-- [⚡ Energy Optimization Tools](#-energy-optimization-tools)
+### 🌀 Miscellaneous
+- [🧩 Handy Tools](#-handy-tools)  
+- [😎 Developer Communities & Inspiration](#-developer-communities--inspiration)  
+- [🧘 Focus & Wellbeing](#-focus--wellbeing)  
+- [🌱 Green Web Development](#-green-web-development)  
+- [⚡ Energy Optimization Tools](#-energy-optimization-tools)  
+- [🧠 Personal Notes & Utilities](#-personal-notes--utilities)
 
 
 ---
@@ -516,7 +520,39 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Gitkraken](https://www.gitkraken.com/) 
 
 
-## 🌿 Divers
+## 🌀 Miscellaneous
+
+### 🧩 Handy Tools
+
+- [Carbon](https://carbon.now.sh/) – Create beautiful images of your code snippets.
+- [CodeSandbox](https://codesandbox.io/) – Online IDE for quick prototyping of React, Vue, and more.
+- [Regex101](https://regex101.com/) – Powerful tool to test and debug regular expressions.
+- [Boxy SVG](https://boxy-svg.com/) – Simple SVG editor for designing icons and vector graphics.
+- [Bundlephobia](https://bundlephobia.com/) – Discover the cost (size, load time) of npm packages.
+
+### 😎 Developer Communities & Inspiration
+
+- [Dev.to](https://dev.to/) – Developer blog platform and community.
+- [StackShare](https://stackshare.io/) – Explore tech stacks used by top companies and developers.
+- [WakaTime](https://wakatime.com/) – Automatic time tracking for developers.
+- [CommitStrip](https://www.commitstrip.com/) – Fun webcomics about life as a developer.
+
+### 🧘 Focus & Wellbeing
+
+- [Pomofocus](https://pomofocus.io/) – Pomodoro timer to help you stay focused.
+- [Noisli](https://www.noisli.com/) – Ambient background sounds to improve focus and relaxation.
+- [Stretchly](https://hovancik.net/stretchly/) – Break reminder app for healthy coding habits.
+
+### 🌱 Sustainable Web
+
+- [Website Carbon Calculator](https://www.websitecarbon.com/) – Estimate the carbon footprint of a web page.
+- [Ecoindex](https://ecoindex.fr/) – Environmental impact score for websites based on performance and weight.
+
+### 🧠 Personal Notes & Utilities
+
+- Your favorite shortcuts, custom scripts, or cheatsheets.
+- Bash/VSC aliases you want to keep handy.
+- Any resources that don’t fit elsewhere but are still useful.
 
 ### 🌱 Green Website Carbon Footprint Tools
 
