@@ -448,7 +448,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ## 📦 APIs & Integration
 
-
 ### 🛠️ APIs
 
 - [GraphQL](https://graphql.org/) – API query language.
@@ -457,15 +456,12 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [tRPC](https://trpc.io/) – TypeScript-first API framework for RPC.
 
 
-### 📬 Emailing
+### 📬 Email & Messaging
 
 - [Mailchimp](https://mailchimp.com/) – Email marketing tool to create marketing campaigns, send newsletters, and analyze results.
 - [Mailgun](https://www.mailgun.com/) – Email sending API for transactional and marketing emails aimed at developers.
 - [Mailjet](https://www.mailjet.com/) – Email sending platform for transactional and marketing emails, with an API and segmentation tools.
 - [Sendgrid](https://sendgrid.com/) – Email service for developers, ideal for transactional and marketing emails.
-
-### 📬 Emailing
-
 - [MJML](https://mjml.io/) - The Responsive Email Framework
 - [React Email](https://github.com/resend/react-email) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
