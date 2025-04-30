@@ -20,60 +20,70 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 💻 Development
 - [🎨 Frontend Development](#frontend-development)
-  - [⚛️ React Ecosystem](#react-ecosystem)
-  - [🟡 State Management](#state-management)
-  - [🧪 Testing Tools for React](#testing-tools-for-react)
+  - [⚛️ React & Ecosystem](#react--ecosystem)
+  - [🧠 State Management](#state-management)
   - [🎨 UI & Styling](#ui--styling)
-  - [📦 Libraries](#libraries)
+  - [📦 Libraries & Utilities](#libraries--utilities)
 - [📱 Mobile Development](#mobile-development)
-  - [📱 React Native Ecosystem](#react-native-ecosystem)
-  - [🧪 Testing Tools for React Native](#testing-tools-for-react-native)
+  - [⚛️ React Native & Ecosystem](#react-native--ecosystem)
 - [🛠️ Backend Development](#backend-development)
-  - [🐘 PHP Ecosystem](#php-ecosystem)
-  - [🟡 Node.js & JavaScript](#nodejs--javascript)
-  - [📝 CMS](#cms)
-  - [🧪 Testing Tools for PHP](#testing-tools-for-php)
-  - [🧪 Testing Tools for Node.js & JavaScript](#testing-tools-for-nodejs--javascript)
+  - [🐘 PHP & Ecosystem](#php--ecosystem)
+  - [🟢 Node.js & JavaScript](#nodejs--javascript)
+  - [📝 CMS & Frameworks](#cms--frameworks)
+- [🧪 Testing](#testing)
+  - [⚛️ Frontend Testing](#frontend-testing)
+  - [📱 Mobile Testing](#mobile-testing)
+  - [🛠️ Backend Testing](#backend-testing)
+  - [🔍 End-to-End Testing](#end-to-end-testing)
+- [🔐 Secure Coding Practices](#secure-coding-practices)
 
 ### 🗃️ Data & Storage
-- [🗄️ Databases & Tools](#databases--tools)
-- [📊 Graph Databases](#graph-databases)
+- [🗄️ Databases](#databases)
+- [📊 Graph & Specialized Databases](#graph--specialized-databases)
 - [🧠 In-Memory Databases & Caching](#in-memory-databases--caching)
-- [🔄 ETL/ELT & Data Integration](#etl-elt--data-integration)
+- [🔄 ETL/ELT & Data Pipelines](#etl-elt--data-pipelines)
 
 ### ☁️ Infrastructure & DevOps
-- [⚙️ DevOps & Infrastructure](#devops--infrastructure)
-- [🌍 Cloud & Infrastructure](#cloud--infrastructure)
+- [☁️ Cloud Infrastructure](#cloud-infrastructure)
 - [⚙️ CI/CD & Automation](#cicd--automation)
-- [🔒 Security](#security)
+- [🔒 Security & Compliance](#security--compliance)
 - [📊 Monitoring & Observability](#monitoring--observability)
 
-### 🧰 Tooling & Productivity
-- [🧑‍💻 Development Tools](#development-tools)
-- [🛠️ Developer Utilities](#developer-utilities)
-- [🛠️ Terminal & CLI Productivity](#terminal--cli-productivity)
-- [🧑‍💻 Productivity Tools](#productivity-tools)
-- [🔧 No-code/Low-code](#no-codelow-code)
+### 🤖 AI & Machine Learning
+- [🧠 Machine Learning Frameworks](#machine-learning-frameworks)
+- [📟 Generative AI Tools](#generative-ai-tools)
+- [🔗 AI API Integrations](#ai-api-integrations)
 
-### 🎨 Design & UI
-- [🎨 UI Kits, Wireframing & Mockups](#ui-kits-wireframing--mockups)
-- [🖼️ Icons & Illustrations](#icons--illustrations)
-- [🧠 Visual Thinking & Diagrams](#visual-thinking--diagrams)
+### 🧰 Tools & Productivity
+- [🧑‍💻 Development Environments](#development-environments)
+- [🛠️ CLI & Terminal Tools](#cli--terminal-tools)
+- [📈 Productivity & Collaboration](#productivity--collaboration)
+- [🤝 Project Management](#project-management)
+- [🔧 No-Code/Low-Code Platforms](#no-code-low-code-platforms)
 
-### 📦 APIs & Integration
-- [🛠️ APIs](#apis)
-- [📬 Email Services](#email-services)
+### 🎨 Design & UX
+- [🎨 UI Kits & Prototyping](#ui-kits--prototyping)
+- [🖼️ Icons & Visual Assets](#icons--visual-assets)
+- [🧠 Diagramming & Visual Thinking](#diagramming--visual-thinking)
+- [♿ Accessibility (a11y)](#accessibility-a11y)
+
+### 📦 APIs & Integrations
+- [🛠️ APIs & Services](#apis--services)
+- [📬 Email & Messaging](#email--messaging)
 - [🤖 Web Scraping & Automation](#web-scraping--automation)
-- [🔧 Automation & Workflow Platforms](#automation--workflow-platforms)
+- [🔄 Workflow Automation](#workflow-automation)
 
-### 📚 Documentation & Resources
-- [📚 Documentation](#documentation)
-- [📚 Useful Resources](#useful-resources)
-- [🚀 Git Hooks & Code Quality](#git-hooks--code-quality)
-- [📜 Git & Platforms](#git--platforms)
+### 📚 Documentation & Learning
+- [📜 Documentation Tools](#documentation-tools)
+- [📚 Learning Resources](#learning-resources)
+- [🚀 Code Quality & Git Hooks](#code-quality--git-hooks)
+- [🗂️ Git & Version Control](#git--version-control)
 
-### 🌿 Divers
-- [🌱 Green Website Tools](#green-website-tools)
+### 🌿 Sustainability
+- [🌱 Green Web Development](#green-web-development)
+- [⚡ Energy Optimization Tools](#energy-optimization-tools)
+
+
 ---
 
 ## 💻 Development
