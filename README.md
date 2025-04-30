@@ -18,55 +18,69 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ## 📌 Table of Contents
 
-1.  [🎨 Frontend Development](#-frontend-development)
-    - [⚛️ React Ecosystem](#️-react-ecosystem)
-    - [🟡 State Management](#-state-management)
-    - [🧪 Testing Tools for React](#-testing-tools-for-react)
-    - [🎨 UI & Styling](#-ui--styling)
-    - [📦 Libraries](#-libraries)
-2.  [📱 Mobile Development](#-mobile-development)
-    - [📱 React Native Ecosystem](#-react-native-ecosystem)
-    - [🧪 Testing Tools for React Native](#-testing-tools-for-react-native)
-3.  [🛠️ Backend Development](#-backend-development)
-    - [🐘 PHP Ecosystem](#-php-ecosystem)
-    - [🟡 Node.js & JavaScript](#-nodejs--javascript)
-    - [📝 CMS](#-cms)
-    - [🧪 Testing Tools for PHP](#-testing-tools-for-php)
-    - [🧪 Testing Tools for Node.js & JavaScript](#-testing-tools-for-nodejs--javascript)
-4.  [🗄️ Databases & Tools](#-databases--tools)
-5.  [🧠 In-Memory Databases & Caching](#-in-memory-databases--caching)
-6.  [⚙️ DevOps & Infrastructure](#-devops--infrastructure)
-7.  [📚 Useful Resources](#-useful-resources)
-8.  [🧑‍💻 Productivity Tools](#-productivity-tools)
-9.  [⚙️ Automation & CI/CD](#-automation--cicd)
-10. [🔒 Security](#-security)
-11. [🌍 Cloud & Infrastructure](#-cloud--infrastructure)
-12. [🔄 ETL/ELT & Data Integration](#-etl-elt--data-integration)
-13. [📊 Monitoring & Observability](#-monitoring--observability)
-14. [📜 Git & Platform](#-git--platform)
-15. [🚀 Git Hooks & Code Quality](#-git-hooks--code-quality)
-16. [📚 Documentation](#-documentation)
-17. [🌱 Green Website Carbon Footprint Tools](#-green-website-carbon-footprint-tools)
-18. [⚡ Scripting & Automation](#-scripting--automation)
-19. [🛠️ APIs](#-apis)
-20. [📬 Emailing](#-emailing)
-21. [🤖 Web Scraping & Automation](#-web-scraping--automation)
-22. [🔧 Automation & Workflow Platforms](#-automation--workflow-platforms)
-23. [🛠️ Terminal & CLI Productivity](#-terminal--cli-productivity)
-24. [🔧 No-code/Low-code](#-no-codelow-code)
-25. [📊 Graph Databases](#-graph-databases)
-26. [🛠️ Developer Utilities](#-developer-utilities)
-27. [🧑‍💻 Development Tools](#-development-tools)
-28. [🧠 Visual Thinking & Diagrams](#-visual-thinking--diagrams)
-29. [🎨 UI Kits, Wireframing & Mockups](#-ui-kits-wireframing--mockups)
-30. [🖼️ Icons & Illustrations](#-icons--illustrations)
-31. [📈 Dashboards & BI Tools](#-dashboards--bi-tools)
-32. [🗂️ Reporting & Data Tools](#-reporting--data-tools)
+### 💻 Development
+- [🎨 Frontend Development](#frontend-development)
+  - [⚛️ React Ecosystem](#react-ecosystem)
+  - [🟡 State Management](#state-management)
+  - [🧪 Testing Tools for React](#testing-tools-for-react)
+  - [🎨 UI & Styling](#ui--styling)
+  - [📦 Libraries](#libraries)
+- [📱 Mobile Development](#mobile-development)
+  - [📱 React Native Ecosystem](#react-native-ecosystem)
+  - [🧪 Testing Tools for React Native](#testing-tools-for-react-native)
+- [🛠️ Backend Development](#backend-development)
+  - [🐘 PHP Ecosystem](#php-ecosystem)
+  - [🟡 Node.js & JavaScript](#nodejs--javascript)
+  - [📝 CMS](#cms)
+  - [🧪 Testing Tools for PHP](#testing-tools-for-php)
+  - [🧪 Testing Tools for Node.js & JavaScript](#testing-tools-for-nodejs--javascript)
+
+### 🗃️ Data & Storage
+- [🗄️ Databases & Tools](#databases--tools)
+- [📊 Graph Databases](#graph-databases)
+- [🧠 In-Memory Databases & Caching](#in-memory-databases--caching)
+- [🔄 ETL/ELT & Data Integration](#etl-elt--data-integration)
+
+### ☁️ Infrastructure & DevOps
+- [⚙️ DevOps & Infrastructure](#devops--infrastructure)
+- [🌍 Cloud & Infrastructure](#cloud--infrastructure)
+- [⚙️ CI/CD & Automation](#cicd--automation)
+- [🔒 Security](#security)
+- [📊 Monitoring & Observability](#monitoring--observability)
+
+### 🧰 Tooling & Productivity
+- [🧑‍💻 Development Tools](#development-tools)
+- [🛠️ Developer Utilities](#developer-utilities)
+- [🛠️ Terminal & CLI Productivity](#terminal--cli-productivity)
+- [🧑‍💻 Productivity Tools](#productivity-tools)
+- [🔧 No-code/Low-code](#no-codelow-code)
+
+### 🎨 Design & UI
+- [🎨 UI Kits, Wireframing & Mockups](#ui-kits-wireframing--mockups)
+- [🖼️ Icons & Illustrations](#icons--illustrations)
+- [🧠 Visual Thinking & Diagrams](#visual-thinking--diagrams)
+
+### 📦 APIs & Integration
+- [🛠️ APIs](#apis)
+- [📬 Email Services](#email-services)
+- [🤖 Web Scraping & Automation](#web-scraping--automation)
+- [🔧 Automation & Workflow Platforms](#automation--workflow-platforms)
+
+### 📚 Documentation & Resources
+- [📚 Documentation](#documentation)
+- [📚 Useful Resources](#useful-resources)
+- [🚀 Git Hooks & Code Quality](#git-hooks--code-quality)
+- [📜 Git & Platforms](#git--platforms)
+
+### 🌿 Divers
+- [🌱 Green Website Tools](#green-website-tools)
 ---
 
-## 🎨 Frontend Development
+## 💻 Development
 
-### ⚛️ React Ecosystem
+### 🎨 Frontend Development
+
+#### ⚛️ React Ecosystem
 
 - [React](https://react.dev/) – The most popular frontend library.
 - [Next.js](https://nextjs.org/) – The React framework for production.
@@ -83,18 +97,18 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [tRPC](https://trpc.io/) – Build fully typesafe APIs without schemas or code generation, ideal for full-stack TypeScript apps.
 - [Apollo Client](https://www.apollographql.com/docs/react/) – GraphQL state management for React.
 
-#### 🟡 State Management
+##### 🟡 State Management
 
 - [Redux Toolkit](https://redux-toolkit.js.org/) – Official Redux library for efficient and standardized development.
 - [Zustand](https://github.com/pmndrs/zustand) – A small, fast, and scalable state management solution for React.
 
-#### 🧪 Testing Tools for React
+##### 🧪 Testing Tools for React
 
 - [Jest](https://jestjs.io/) – JavaScript testing framework for unit tests.
 - [Cypress](https://www.cypress.io/) – End-to-end testing for web applications.
 - [Playwright](https://playwright.dev/) – End-to-end testing framework for web apps.
 
-### 🎨 UI & Styling
+#### 🎨 UI & Styling
 
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework.
 - [Bootstrap](https://getbootstrap.com/) – Popular CSS framework for building responsive websites.
@@ -103,14 +117,14 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Figma](https://www.figma.com/) – Collaborative UI/UX design tool.
 - [canvas-confetti](https://github.com/catdad/canvas-confetti) - Easily create highly customizable confetti, particles and fireworks animations
 
-### 📦 Libraries
+#### 📦 Libraries
 
 - [Swiper](https://swiperjs.com/) - The Most Modern Mobile Touch Slider
 - [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) - This is a list of AWESOME components.
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 
-### 📱 React Native Ecosystem
+#### 📱 React Native Ecosystem
 
 - [React Native](https://reactnative.dev/) – Cross-platform mobile development with JavaScript.
 - [Expo](https://expo.dev/) – Simplifies React Native development.
@@ -127,9 +141,9 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [React Native Testing Library](https://testing-library.com/docs/react-native-testing-library/) – Testing React Native components.
 - [Detox](https://wix.github.io/Detox/) – End-to-end testing for React Native apps.
 
-## 🛠️ Backend Development
+### 🛠️ Backend Development
 
-### 🐘 PHP Ecosystem
+#### 🐘 PHP Ecosystem
 
 - [Laravel](https://laravel.com/) – A modern, expressive PHP framework for building web applications with ease.
 - [Symfony](https://symfony.com/) – A mature and modular PHP framework for large-scale or complex projects.
@@ -173,6 +187,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Drupal](https://www.drupal.org/) – A powerful open-source CMS for complex and scalable web applications.
 - [WordPress](https://wordpress.org/) – The most popular CMS for creating websites and blogs, with a vast ecosystem of plugins and themes.
 
+## 🗃️ Data & Storage
+
 ### 🗄️ Databases & Tools
 
 - [PostgreSQL](https://www.postgresql.org/) – Powerful open-source relational database.
@@ -185,10 +201,50 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [pgAdmin](https://www.pgadmin.org/) – Popular administration and development platform for PostgreSQL.
 - [MongoDB Compass](https://www.mongodb.com/products/compass) – GUI for MongoDB, allowing schema exploration and performance monitoring.
 
+### 📊 Graph Databases
+
+- [Memgraph](https://memgraph.com/) - A high-performance, in-memory graph database optimized for real-time analytics and complex queries using Cypher.
+- [Dgraph](https://github.com/hypermodeinc/dgraph) - An open-source, distributed graph database designed for high scalability and efficient query execution.
+- [Neo4j](https://neo4j.com/product/neo4j-graph-database/) - A powerful graph database with native graph storage and processing, widely used for deep relationship analysis and data-driven applications.
+
+
 ### 🧠 In-Memory Databases & Caching
 
 - [Redis](https://redis.io/) – Ultra-fast in-memory key-value store. Ideal for caching, session storage, pub/sub, and real-time analytics.
 - [Memcached](https://memcached.org/) – High-performance, distributed memory object caching system.
+
+### 🔄 **ETL/ELT & Data Integration**
+
+- [dbt (Data Build Tool)](https://www.getdbt.com/) – SQL-based data transformation tool for modern data warehouses.
+- [Airbyte](https://airbyte.com/) – Open-source data integration platform (alternative to Fivetran).
+- [Meltano](https://meltano.com/) – Open-source alternative to Airbyte and Fivetran, built on Singer.
+
+
+### 📈 Dashboards & BI Tools
+
+- [Metabase](https://www.metabase.com/) – Open-source BI platform for creating interactive dashboards with ease. Simple to self-host.
+- [Redash](https://redash.io/) – Open-source tool to visualize data using SQL queries.
+- [Superset](https://superset.apache.org/) – Full-featured BI and data exploration platform maintained by Apache.
+- [Grafana](https://grafana.com/) – Real-time metrics and monitoring dashboards. Often used with Prometheus.
+- [Kibana](https://www.elastic.co/kibana/) – Visualizes logs and data from Elasticsearch. Free basic tier available.
+- [Lightdash](https://github.com/lightdash/lightdash) – Open-source alternative to Looker, built on dbt. Modern BI interface.
+- [Budibase](https://budibase.com/) – Low-code platform to build internal tools and dashboards. Open-source and self-hostable.
+- [Baserow](https://baserow.io/) – Online database tool with table, Kanban and gallery views. Great for lightweight dashboards.
+- [Google Data Studio (Looker Studio)](https://lookerstudio.google.com/) – Create dynamic, shareable reports using data from Sheets, BigQuery, and more.
+- [Appsmith](https://www.appsmith.com/) – Build internal apps and admin panels with low-code logic.
+
+
+### 🧠 Visual Thinking & Diagrams
+
+- [Excalidraw](https://excalidraw.com/) – Virtual whiteboard for sketching diagrams with a hand-drawn feel.
+- [Draw.io (diagrams.net)](https://draw.io/) – Versatile diagramming tool integrated with cloud storage.
+- [tldraw](https://www.tldraw.com/) – Collaborative digital whiteboard with minimalist design.
+- [Whimsical](https://whimsical.com/) – Wireframes, flowcharts, mind maps, and sticky notes. Great UX.
+- [Penpot](https://penpot.app/) – Open-source design & prototyping tool for cross-functional teams.
+
+
+
+## ☁️ Infrastructure & DevOps
 
 ### ⚙️ DevOps & Infrastructure
 
@@ -204,22 +260,17 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [k3s](https://k3s.io/) – Lightweight Kubernetes distribution for IoT and edge computing.
 - [Dokploy](https://github.com/Dokploy/dokploy) – Deployment automation and cloud management with Docker.
 
-### 📚 Useful Resources
 
-- [MDN Web Docs](https://developer.mozilla.org/) – The ultimate web reference.
-- [FreeCodeCamp](https://www.freecodecamp.org/) – Learn coding interactively.
-- [The Net Ninja](https://www.youtube.com/c/TheNetNinja) – Amazing YouTube tutorials.
-- [Crawl4AI](https://github.com/unclecode/crawl4ai) – Web crawler for AI data collection and content extraction.
-- [Dribbble - Dashboard](https://dribbble.com/) – Creative platform for UI/UX design inspiration.
-- [Crawlee](https://crawlee.dev/) – Web scraping and automation framework for Node.js.
-- [Mermaid Live Editor](https://mermaid.live/) – Create diagrams and flowcharts with Markdown-like syntax.
-- https://sh.openbestof.com/tools/
-- https://github.com/is-a-dev/register
+### 🌍 Cloud & Infrastructure
 
-### 🧑‍💻 Productivity Tools
+- [Docker](https://www.docker.com/) – Containerization platform.
+- [Kubernetes](https://kubernetes.io/) – Container orchestration system.
+- [Terraform](https://www.terraform.io/) – Infrastructure as Code (IaC).
+- [AWS Lambda](https://aws.amazon.com/lambda/) – Serverless computing service.
+- [Vercel](https://vercel.com/) – Serverless deployment for frontend projects.
+- [Netlify](https://www.netlify.com/) – Cloud hosting and automation for web projects.
+- [MinIO](https://min.io/) – High-performance object storage.
 
-- [ClickUp](https://clickup.com/) – Project management platform for organizing tasks, collaborating, and tracking productivity.
-- [Notion](https://www.notion.so/) – Flexible and customizable project management and note-taking tool.
 
 ### ⚙️ Automation & CI/CD
 
@@ -250,22 +301,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [AWS Secrets Manager (Free Tier)](https://aws.amazon.com/secrets-manager/) – Managed service for secrets, free within usage limits.
 
 
-### 🌍 Cloud & Infrastructure
-
-- [Docker](https://www.docker.com/) – Containerization platform.
-- [Kubernetes](https://kubernetes.io/) – Container orchestration system.
-- [Terraform](https://www.terraform.io/) – Infrastructure as Code (IaC).
-- [AWS Lambda](https://aws.amazon.com/lambda/) – Serverless computing service.
-- [Vercel](https://vercel.com/) – Serverless deployment for frontend projects.
-- [Netlify](https://www.netlify.com/) – Cloud hosting and automation for web projects.
-- [MinIO](https://min.io/) – High-performance object storage.
-
-### 🔄 **ETL/ELT & Data Integration**
-
-- [dbt (Data Build Tool)](https://www.getdbt.com/) – SQL-based data transformation tool for modern data warehouses.
-- [Airbyte](https://airbyte.com/) – Open-source data integration platform (alternative to Fivetran).
-- [Meltano](https://meltano.com/) – Open-source alternative to Airbyte and Fivetran, built on Singer.
-
 ### 📊 Monitoring & Observability
 
 - [Grafana](https://grafana.com/) – Visualization tool for monitoring data.
@@ -277,74 +312,13 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [OpenTelemetry](https://opentelemetry.io/) – Framework for metrics, logs, and traces.
 - https://github.com/louislam/uptime-kuma
 
-### 📜 Git & platform
 
-- [GitHub](https://github.com/) – Version control platform.
-- [GitLab](https://gitlab.com/) – DevOps and CI/CD platform.
-- [Bitbucket](https://bitbucket.org/) – Git repository hosting.
-- [Gitmoji](https://gitmoji.dev/) – Emoji guide for commit messages.
-- [Conventional Commits](https://www.conventionalcommits.org/) - A specification for adding human and machine readable meaning to commit messages
-- [Standard Version](https://github.com/conventional-changelog/standard-version) – Automate versioning and changelogs following semantic versioning.
-- [Gitkraken](https://www.gitkraken.com/) - 
-
-### 🚀 Git Hooks & Code Quality
-
-- [Prettier](https://prettier.io/) – An opinionated code formatter that supports JavaScript, TypeScript, HTML, CSS, JSON, and more.
-- [Husky](https://typicode.github.io/husky/#/) – Automate Git hooks to run scripts before commits, pushes, etc.
-- [Lint-staged](https://github.com/okonet/lint-staged) – Run linters and formatters only on staged files.
-- [Commitlint](https://commitlint.js.org/#/) – Enforce commit message conventions (e.g., Conventional Commits).
-
-### 📚 Documentation
-
-- [Docusaurus](https://docusaurus.io/) – Documentation framework for websites.
-- [OpenAPI (Swagger)](https://swagger.io/) – API documentation and design tool.
-- [Starlight](https://starlight.astro.build/) – A modern static site generator specifically for building and maintaining documentation sites.
-
-### 🌱 Green Website Carbon Footprint Tools
-
-- [Website Carbon](https://www.websitecarbon.com/) – Tool to analyze and calculate the carbon footprint of a website.
-- [EcoGrader](https://www.ecograder.com/) – Tool to assess the environmental impact of a website and provide tips for energy reduction.
-- [Green Web Foundation](https://www.thegreenwebfoundation.org/) – Identifies whether a website is hosted on servers powered by renewable energy.
-- [Website Carbon Calculator](https://www.websitecarbon.com/calculator/) – Calculates the CO2 emissions generated by a website.
-- [Sustainable Web Design Calculator](https://www.sustainablewebdesign.org/calculator/) – Carbon footprint calculator for websites, with tips for improving sustainability.
-- [Carbon Footprint Calculator by GHG Protocol](https://ghgprotocol.org/calculation-tools) – General tool to calculate the carbon footprint of an organization, including website and digital services.
-- [Carbonalyser](https://www.co2nsensus.com/carbonalyser/) – Browser extension to measure a website’s energy consumption and its environmental impact.
-- [WebPageTest](https://www.webpagetest.org/) – Performance testing tool that also measures the energy efficiency of websites.
-- [Sustainable Web Design](https://www.sustainablewebdesign.org/) – Initiative and guide to creating more sustainable and eco-friendly websites.
-- [CleanFox](https://www.cleanfox.io/) – Tool to clean up email inboxes, reducing the carbon footprint of email communications linked to websites.
+## 🧰 Tooling & Productivity
 
 ### ⚡ Scripting & Automation
 
 - [zx](https://github.com/google/zx) – A tool by Google that makes writing shell scripts in JavaScript easy and more readable.
 - [Taskfile.dev](https://taskfile.dev/) – A modern task runner and build automation tool.
-
-### 🛠️ APIs
-
-- [GraphQL](https://graphql.org/) – API query language.
-- [Restify](https://restify.com/) – Node.js framework for REST APIs.
-- [API Platform](https://api-platform.com/) – Full-stack API framework.
-- [tRPC](https://trpc.io/) – TypeScript-first API framework for RPC.
-
-### 📬 Emailing
-
-- [MJML](https://mjml.io/) - The Responsive Email Framework
-- [React Email](https://github.com/resend/react-email) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
-- [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-
-### 🤖 Web Scraping & Automation
-
-- [Crawlee](https://crawlee.dev/) – Web scraping and automation framework.
-- [Puppeteer](https://pptr.dev/) – Headless browser automation for Chrome.
-- [Playwright](https://playwright.dev/) – End-to-end testing and automation.
-
-### 🔧 Automation & Workflow Platforms
-
-- [n8n](https://n8n.io/) - n8n is a workflow automation platform that gives technical teams
-- [Windmill](https://www.windmill.dev/) - Open-source developer platform and workflow engine
-- [Make](https://www.make.com/en) – Powerful no-code platform to visually automate workflows and connect apps. Free plan available.
-- [Pipedream](https://pipedream.com/) – Low-code integration and automation platform for developers. Generous free tier.
-- [Automa](https://github.com/AutomaApp/automa) – Chrome and Firefox extension for browser automation.
-- [Inngest](https://github.com/inngest/inngest) – Serverless workflows and event-driven automation.
 
 ### 🛠️ Terminal & CLI Productivity
 
@@ -360,11 +334,12 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Visual Studio Code](https://code.visualstudio.com/) – A powerful and versatile code editor for web and software development.
 - [Extentions Visual Studio Code](vscode-extensions.md) List of extensions
 
-### 📊 Graph Databases
 
-- [Memgraph](https://memgraph.com/) - A high-performance, in-memory graph database optimized for real-time analytics and complex queries using Cypher.
-- [Dgraph](https://github.com/hypermodeinc/dgraph) - An open-source, distributed graph database designed for high scalability and efficient query execution.
-- [Neo4j](https://neo4j.com/product/neo4j-graph-database/) - A powerful graph database with native graph storage and processing, widely used for deep relationship analysis and data-driven applications.
+### 🧑‍💻 Productivity Tools
+
+- [ClickUp](https://clickup.com/) – Project management platform for organizing tasks, collaborating, and tracking productivity.
+- [Notion](https://www.notion.so/) – Flexible and customizable project management and note-taking tool.
+
 
 ### 🛠️ Developer Utilities
 
@@ -376,20 +351,9 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [ReqBin](https://reqbin.com/) – Online API testing tool to quickly test HTTP requests.
 - [Mockoon](https://mockoon.com/) – Easily create mock REST APIs for testing and development.
 
-### 📬 Emailing
 
-- [Mailchimp](https://mailchimp.com/) – Email marketing tool to create marketing campaigns, send newsletters, and analyze results.
-- [Mailgun](https://www.mailgun.com/) – Email sending API for transactional and marketing emails aimed at developers.
-- [Mailjet](https://www.mailjet.com/) – Email sending platform for transactional and marketing emails, with an API and segmentation tools.
-- [Sendgrid](https://sendgrid.com/) – Email service for developers, ideal for transactional and marketing emails.
 
-### 🧠 Visual Thinking & Diagrams
-
-- [Excalidraw](https://excalidraw.com/) – Virtual whiteboard for sketching diagrams with a hand-drawn feel.
-- [Draw.io (diagrams.net)](https://draw.io/) – Versatile diagramming tool integrated with cloud storage.
-- [tldraw](https://www.tldraw.com/) – Collaborative digital whiteboard with minimalist design.
-- [Whimsical](https://whimsical.com/) – Wireframes, flowcharts, mind maps, and sticky notes. Great UX.
-- [Penpot](https://penpot.app/) – Open-source design & prototyping tool for cross-functional teams.
+## 🎨 Design & UI
 
 ### 🎨 UI Kits, Wireframing & Mockups
 
@@ -414,19 +378,101 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Blush](https://blush.design/) – Create, mix, and customize illustrations made by artists. Free plan available.
 - [SVGRepo](https://www.svgrepo.com/) – Huge collection of free SVGs, including icons and illustrations.
 
-### 📈 Dashboards & BI Tools
 
-- [Metabase](https://www.metabase.com/) – Open-source BI platform for creating interactive dashboards with ease. Simple to self-host.
-- [Redash](https://redash.io/) – Open-source tool to visualize data using SQL queries.
-- [Superset](https://superset.apache.org/) – Full-featured BI and data exploration platform maintained by Apache.
-- [Grafana](https://grafana.com/) – Real-time metrics and monitoring dashboards. Often used with Prometheus.
-- [Kibana](https://www.elastic.co/kibana/) – Visualizes logs and data from Elasticsearch. Free basic tier available.
-- [Lightdash](https://github.com/lightdash/lightdash) – Open-source alternative to Looker, built on dbt. Modern BI interface.
-- [Budibase](https://budibase.com/) – Low-code platform to build internal tools and dashboards. Open-source and self-hostable.
-- [Baserow](https://baserow.io/) – Online database tool with table, Kanban and gallery views. Great for lightweight dashboards.
-- [Google Data Studio (Looker Studio)](https://lookerstudio.google.com/) – Create dynamic, shareable reports using data from Sheets, BigQuery, and more.
-- [Appsmith](https://www.appsmith.com/) – Build internal apps and admin panels with low-code logic.
 
+## 📦 APIs & Integration
+
+
+### 🛠️ APIs
+
+- [GraphQL](https://graphql.org/) – API query language.
+- [Restify](https://restify.com/) – Node.js framework for REST APIs.
+- [API Platform](https://api-platform.com/) – Full-stack API framework.
+- [tRPC](https://trpc.io/) – TypeScript-first API framework for RPC.
+
+
+### 📬 Emailing
+
+- [Mailchimp](https://mailchimp.com/) – Email marketing tool to create marketing campaigns, send newsletters, and analyze results.
+- [Mailgun](https://www.mailgun.com/) – Email sending API for transactional and marketing emails aimed at developers.
+- [Mailjet](https://www.mailjet.com/) – Email sending platform for transactional and marketing emails, with an API and segmentation tools.
+- [Sendgrid](https://sendgrid.com/) – Email service for developers, ideal for transactional and marketing emails.
+
+### 📬 Emailing
+
+- [MJML](https://mjml.io/) - The Responsive Email Framework
+- [React Email](https://github.com/resend/react-email) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
+- [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
+
+### 🤖 Web Scraping & Automation
+
+- [Crawlee](https://crawlee.dev/) – Web scraping and automation framework.
+- [Puppeteer](https://pptr.dev/) – Headless browser automation for Chrome.
+- [Playwright](https://playwright.dev/) – End-to-end testing and automation.
+
+### 🔧 Automation & Workflow Platforms
+
+- [n8n](https://n8n.io/) - n8n is a workflow automation platform that gives technical teams
+- [Windmill](https://www.windmill.dev/) - Open-source developer platform and workflow engine
+- [Make](https://www.make.com/en) – Powerful no-code platform to visually automate workflows and connect apps. Free plan available.
+- [Pipedream](https://pipedream.com/) – Low-code integration and automation platform for developers. Generous free tier.
+- [Automa](https://github.com/AutomaApp/automa) – Chrome and Firefox extension for browser automation.
+- [Inngest](https://github.com/inngest/inngest) – Serverless workflows and event-driven automation.
+
+
+## 📚 Documentation & Resources
+
+### 📚 Documentation
+
+- [Docusaurus](https://docusaurus.io/) – Documentation framework for websites.
+- [OpenAPI (Swagger)](https://swagger.io/) – API documentation and design tool.
+- [Starlight](https://starlight.astro.build/) – A modern static site generator specifically for building and maintaining documentation sites.
+
+### 📚 Useful Resources
+
+- [MDN Web Docs](https://developer.mozilla.org/) – The ultimate web reference.
+- [FreeCodeCamp](https://www.freecodecamp.org/) – Learn coding interactively.
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja) – Amazing YouTube tutorials.
+- [Crawl4AI](https://github.com/unclecode/crawl4ai) – Web crawler for AI data collection and content extraction.
+- [Dribbble - Dashboard](https://dribbble.com/) – Creative platform for UI/UX design inspiration.
+- [Crawlee](https://crawlee.dev/) – Web scraping and automation framework for Node.js.
+- [Mermaid Live Editor](https://mermaid.live/) – Create diagrams and flowcharts with Markdown-like syntax.
+- https://sh.openbestof.com/tools/
+- https://github.com/is-a-dev/register
+
+
+### 🚀 Git Hooks & Code Quality
+
+- [Prettier](https://prettier.io/) – An opinionated code formatter that supports JavaScript, TypeScript, HTML, CSS, JSON, and more.
+- [Husky](https://typicode.github.io/husky/#/) – Automate Git hooks to run scripts before commits, pushes, etc.
+- [Lint-staged](https://github.com/okonet/lint-staged) – Run linters and formatters only on staged files.
+- [Commitlint](https://commitlint.js.org/#/) – Enforce commit message conventions (e.g., Conventional Commits).
+
+### 📜 Git & platform
+
+- [GitHub](https://github.com/) – Version control platform.
+- [GitLab](https://gitlab.com/) – DevOps and CI/CD platform.
+- [Bitbucket](https://bitbucket.org/) – Git repository hosting.
+- [Gitmoji](https://gitmoji.dev/) – Emoji guide for commit messages.
+- [Conventional Commits](https://www.conventionalcommits.org/) - A specification for adding human and machine readable meaning to commit messages
+- [Standard Version](https://github.com/conventional-changelog/standard-version) – Automate versioning and changelogs following semantic versioning.
+- [Gitkraken](https://www.gitkraken.com/) 
+
+
+## 🌿 Divers
+
+### 🌱 Green Website Carbon Footprint Tools
+
+- [Website Carbon](https://www.websitecarbon.com/) – Tool to analyze and calculate the carbon footprint of a website.
+- [EcoGrader](https://www.ecograder.com/) – Tool to assess the environmental impact of a website and provide tips for energy reduction.
+- [Green Web Foundation](https://www.thegreenwebfoundation.org/) – Identifies whether a website is hosted on servers powered by renewable energy.
+- [Website Carbon Calculator](https://www.websitecarbon.com/calculator/) – Calculates the CO2 emissions generated by a website.
+- [Sustainable Web Design Calculator](https://www.sustainablewebdesign.org/calculator/) – Carbon footprint calculator for websites, with tips for improving sustainability.
+- [Carbon Footprint Calculator by GHG Protocol](https://ghgprotocol.org/calculation-tools) – General tool to calculate the carbon footprint of an organization, including website and digital services.
+- [Carbonalyser](https://www.co2nsensus.com/carbonalyser/) – Browser extension to measure a website’s energy consumption and its environmental impact.
+- [WebPageTest](https://www.webpagetest.org/) – Performance testing tool that also measures the energy efficiency of websites.
+- [Sustainable Web Design](https://www.sustainablewebdesign.org/) – Initiative and guide to creating more sustainable and eco-friendly websites.
+- [CleanFox](https://www.cleanfox.io/) – Tool to clean up email inboxes, reducing the carbon footprint of email communications linked to websites.
 
 ---
 
