@@ -54,6 +54,11 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [📟 Generative AI Tools](#generative-ai-tools)
 - [🔗 AI API Integrations](#ai-api-integrations)
 
+### ⚡ Performance & Optimization
+- [📈 Web Performance Tools](#web-performance-tools)
+- [🖼️ Asset Optimization](#asset-optimization)
+- [🚀 Runtime Optimization](#runtime-optimization)
+
 ### 🧰 Tools & Productivity
 - [🧑‍💻 Development Environments](#development-environments)
 - [🛠️ CLI & Terminal Tools](#cli--terminal-tools)
@@ -197,6 +202,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Drupal](https://www.drupal.org/) – A powerful open-source CMS for complex and scalable web applications.
 - [WordPress](https://wordpress.org/) – The most popular CMS for creating websites and blogs, with a vast ecosystem of plugins and themes.
 
+
 ## 🗃️ Data & Storage
 
 ### 🗄️ Databases & Tools
@@ -323,6 +329,17 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - https://github.com/louislam/uptime-kuma
 
 
+## 🤖 AI & Machine Learning
+- [TensorFlow](https://www.tensorflow.org/) – Open-source framework for building and deploying machine learning models, ideal for deep learning.
+- [PyTorch](https://pytorch.org/) – Flexible ML framework for research and production, widely used in academia and industry.
+- [Scikit-learn](https://scikit-learn.org/) – Python library for classic machine learning tasks like classification, regression, and clustering.
+- [Grok](https://grok.com/) – xAI’s conversational AI for generating code, answering technical queries, and task automation.
+- [GitHub Copilot](https://github.com/features/copilot) – AI-powered code completion tool integrated into IDEs for faster development.
+- [Stable Diffusion](https://stability.ai/) – Open-source model for generating high-quality images and visual assets.
+- [OpenAI API](https://platform.openai.com/) – API for integrating advanced natural language processing into applications.
+- [Hugging Face](https://huggingface.co/) – Platform for pre-trained models and APIs in NLP, computer vision, and more.
+- [xAI API](https://x.ai/api) – API for embedding conversational AI capabilities into apps, powered by xAI.
+
 ## 🧰 Tooling & Productivity
 
 ### ⚡ Scripting & Automation
@@ -345,12 +362,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Extentions Visual Studio Code](vscode-extensions.md) List of extensions
 
 
-### 🧑‍💻 Productivity Tools
-
-- [ClickUp](https://clickup.com/) – Project management platform for organizing tasks, collaborating, and tracking productivity.
-- [Notion](https://www.notion.so/) – Flexible and customizable project management and note-taking tool.
-
-
 ### 🛠️ Developer Utilities
 
 - [Postman](https://www.postman.com/) – Platform for building and testing APIs with a user-friendly interface.
@@ -361,6 +372,22 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [ReqBin](https://reqbin.com/) – Online API testing tool to quickly test HTTP requests.
 - [Mockoon](https://mockoon.com/) – Easily create mock REST APIs for testing and development.
 
+
+## 🧑‍🤝‍🧑 Project Management & Collaboration
+
+### 📋 Project Management Tools
+
+- [ClickUp](https://clickup.com/) – Plateforme tout-en-un pour gérer tâches, docs, et sprints.
+- [Notion](https://www.notion.so/) – Gestion de projets, bases de données, documentation… tout dans un même outil.
+- [Jira](https://www.atlassian.com/software/jira) – Outil de gestion de projet agile (Scrum, Kanban), très utilisé en entreprise.
+- [Trello](https://trello.com/) – Tableaux Kanban simples et efficaces, avec intégrations multiples.
+
+### 💬 Team Collaboration
+
+- [Slack](https://slack.com/) – Messagerie d’équipe avec intégrations (GitHub, Trello, etc.).
+- [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software) – Communication et collaboration en entreprise avec intégration Microsoft 365.
+- [Discord](https://discord.com/) – Outil de discussion communautaire ou en équipe, pratique pour devs indépendants.
+- [Mattermost](https://mattermost.com/) – Alternative open-source à Slack pour les entreprises.
 
 
 ## 🎨 Design & UI
@@ -388,6 +415,35 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Blush](https://blush.design/) – Create, mix, and customize illustrations made by artists. Free plan available.
 - [SVGRepo](https://www.svgrepo.com/) – Huge collection of free SVGs, including icons and illustrations.
 
+
+## ♿ Accessibility (a11y)
+
+### 🔍 Auditing & Testing Tools
+
+- [axe DevTools](https://www.deque.com/axe/devtools/) – Browser extension to automatically detect accessibility issues on web pages.
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) – Chrome DevTools tool that includes an accessibility audit.
+- [Pa11y](https://pa11y.org/) – Command-line accessibility testing tools, great for CI/CD pipelines.
+- [Wave](https://wave.webaim.org/) – Online tool to visually highlight accessibility errors and alerts.
+- [Accessibility Insights](https://accessibilityinsights.io/) – Microsoft tool for fast manual and automated accessibility testing.
+
+### 🧰 Libraries & Frameworks
+
+- [React Aria](https://react-spectrum.adobe.com/react-aria/) – Adobe’s low-level library for building accessible React components.
+- [Reach UI](https://reach.tech/) – Accessible React components built with usability in mind.
+
+### 📚 Learning & Guidelines
+
+- [WCAG (Web Content Accessibility Guidelines)](https://www.w3.org/WAI/standards-guidelines/wcag/) – The official guidelines from the W3C for building accessible web content.
+- [The A11Y Project](https://www.a11yproject.com/) – Community-driven knowledge base and accessibility resource hub.
+- [Inclusive Components](https://inclusive-components.design/) – Deep dives into accessible UI patterns and custom components.
+- [MDN – Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) – Mozilla’s comprehensive accessibility learning section.
+- [WebAIM](https://webaim.org/) – Widely respected source for a11y research, tools, and articles.
+
+### 🧪 CI/CD Integration
+
+- [axe-core](https://github.com/dequelabs/axe-core) – The accessibility testing engine used by many tools like Pa11y and Cypress.
+- [jest-axe](https://github.com/nickcolley/jest-axe) – Jest matcher to perform accessibility assertions in unit tests.
+- [cypress-axe](https://www.npmjs.com/package/cypress-axe) – Adds axe accessibility testing to Cypress E2E tests.
 
 
 ## 📦 APIs & Integration
