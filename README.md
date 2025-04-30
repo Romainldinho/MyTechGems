@@ -19,74 +19,74 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 ## 📌 Table of Contents
 
 ### 💻 Development
-- [🎨 Frontend Development](#frontend-development)
-  - [⚛️ React & Ecosystem](#react--ecosystem)
-  - [🧠 State Management](#state-management)
-  - [🎨 UI & Styling](#ui--styling)
-  - [📦 Libraries & Utilities](#libraries--utilities)
-- [📱 Mobile Development](#mobile-development)
-  - [⚛️ React Native & Ecosystem](#react-native--ecosystem)
-- [🛠️ Backend Development](#backend-development)
-  - [🐘 PHP & Ecosystem](#php--ecosystem)
-  - [🟢 Node.js & JavaScript](#nodejs--javascript)
-  - [📝 CMS & Frameworks](#cms--frameworks)
-- [🧪 Testing](#testing)
-  - [⚛️ Frontend Testing](#frontend-testing)
-  - [📱 Mobile Testing](#mobile-testing)
-  - [🛠️ Backend Testing](#backend-testing)
-  - [🔍 End-to-End Testing](#end-to-end-testing)
-- [🔐 Secure Coding Practices](#secure-coding-practices)
+- [🎨 Frontend Development](#-frontend-development)
+  - [⚛️ React & Ecosystem](#-react--ecosystem)
+  - [🧠 State Management](#-state-management)
+  - [🎨 UI & Styling](#-ui--styling)
+  - [📦 Libraries & Utilities](#-libraries--utilities)
+- [📱 Mobile Development](#-mobile-development)
+  - [⚛️ React Native & Ecosystem](#-react-native--ecosystem)
+- [🛠️ Backend Development](#-backend-development)
+  - [🐘 PHP & Ecosystem](#-php--ecosystem)
+  - [🟢 Node.js & JavaScript](#-nodejs--javascript)
+  - [📝 CMS & Frameworks](#-cms--frameworks)
+- [🧪 Testing](#-testing)
+  - [⚛️ Frontend Testing](#-frontend-testing)
+  - [📱 Mobile Testing](#-mobile-testing)
+  - [🛠️ Backend Testing](#-backend-testing)
+  - [🔍 End-to-End Testing](#-end-to-end-testing)
+- [🔐 Secure Coding Practices](#-secure-coding-practices)
 
 ### 🗃️ Data & Storage
-- [🗄️ Databases](#databases)
-- [📊 Graph & Specialized Databases](#graph--specialized-databases)
-- [🧠 In-Memory Databases & Caching](#in-memory-databases--caching)
-- [🔄 ETL/ELT & Data Pipelines](#etl-elt--data-pipelines)
+- [🗄️ Databases](#-databases)
+- [📊 Graph & Specialized Databases](#-graph--specialized-databases)
+- [🧠 In-Memory Databases & Caching](#-in-memory-databases--caching)
+- [🔄 ETL/ELT & Data Pipelines](#-etl-elt--data-pipelines)
 
 ### ☁️ Infrastructure & DevOps
-- [☁️ Cloud Infrastructure](#cloud-infrastructure)
-- [⚙️ CI/CD & Automation](#cicd--automation)
-- [🔒 Security & Compliance](#security--compliance)
-- [📊 Monitoring & Observability](#monitoring--observability)
+- [☁️ Cloud Infrastructure](#-cloud-infrastructure)
+- [⚙️ CI/CD & Automation](#-cicd--automation)
+- [🔒 Security & Compliance](#-security--compliance)
+- [📊 Monitoring & Observability](#-monitoring--observability)
 
 ### 🤖 AI & Machine Learning
-- [🧠 Machine Learning Frameworks](#machine-learning-frameworks)
-- [📟 Generative AI Tools](#generative-ai-tools)
-- [🔗 AI API Integrations](#ai-api-integrations)
+- [🧠 Machine Learning Frameworks](#-machine-learning-frameworks)
+- [📟 Generative AI Tools](#-generative-ai-tools)
+- [🔗 AI API Integrations](#-ai-api-integrations)
 
 ### ⚡ Performance & Optimization
-- [📈 Web Performance Tools](#web-performance-tools)
-- [🖼️ Asset Optimization](#asset-optimization)
-- [🚀 Runtime Optimization](#runtime-optimization)
+- [📈 Web Performance Tools](#-web-performance-tools)
+- [🖼️ Asset Optimization](#-asset-optimization)
+- [🚀 Runtime Optimization](#-runtime-optimization)
 
 ### 🧰 Tools & Productivity
-- [🧑‍💻 Development Environments](#development-environments)
-- [🛠️ CLI & Terminal Tools](#cli--terminal-tools)
-- [📈 Productivity & Collaboration](#productivity--collaboration)
-- [🤝 Project Management](#project-management)
-- [🔧 No-Code/Low-Code Platforms](#no-code-low-code-platforms)
+- [🧑‍💻 Development Environments](#-development-environments)
+- [🛠️ CLI & Terminal Tools](#-cli--terminal-tools)
+- [📈 Productivity & Collaboration](#-productivity--collaboration)
+- [🤝 Project Management](#-project-management)
+- [🔧 No-Code/Low-Code Platforms](#-no-code-low-code-platforms)
 
 ### 🎨 Design & UX
-- [🎨 UI Kits & Prototyping](#ui-kits--prototyping)
-- [🖼️ Icons & Visual Assets](#icons--visual-assets)
-- [🧠 Diagramming & Visual Thinking](#diagramming--visual-thinking)
-- [♿ Accessibility (a11y)](#accessibility-a11y)
+- [🎨 UI Kits & Prototyping](#-ui-kits--prototyping)
+- [🖼️ Icons & Visual Assets](#-icons--visual-assets)
+- [🧠 Diagramming & Visual Thinking](#-diagramming--visual-thinking)
+- [♿ Accessibility (a11y)](#-accessibility-a11y)
 
 ### 📦 APIs & Integrations
-- [🛠️ APIs & Services](#apis--services)
+- [🛠️ APIs & Services](#-apis--services)
 - [📬 Email & Messaging](#-email--messaging)
-- [🤖 Web Scraping & Automation](#web-scraping--automation)
-- [🔄 Workflow Automation](#workflow-automation)
+- [🤖 Web Scraping & Automation](#-web-scraping--automation)
+- [🔄 Workflow Automation](#-workflow-automation)
 
 ### 📚 Documentation & Learning
-- [📜 Documentation Tools](#documentation-tools)
-- [📚 Learning Resources](#learning-resources)
-- [🚀 Code Quality & Git Hooks](#code-quality--git-hooks)
-- [🗂️ Git & Version Control](#git--version-control)
+- [📜 Documentation Tools](#-documentation-tools)
+- [📚 Learning Resources](#-learning-resources)
+- [🚀 Code Quality & Git Hooks](#-code-quality--git-hooks)
+- [🗂️ Git & Version Control](#-git--version-control)
 
 ### 🌿 Sustainability
-- [🌱 Green Web Development](#green-web-development)
-- [⚡ Energy Optimization Tools](#energy-optimization-tools)
+- [🌱 Green Web Development](#-green-web-development)
+- [⚡ Energy Optimization Tools](#-energy-optimization-tools)
 
 
 ---
