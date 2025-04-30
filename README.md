@@ -74,7 +74,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 📦 APIs & Integrations
 - [🛠️ APIs & Services](#apis--services)
-- [📬 Email & Messaging](#email--messaging)
+- [📬 Email & Messaging](#-email--messaging)
 - [🤖 Web Scraping & Automation](#web-scraping--automation)
 - [🔄 Workflow Automation](#workflow-automation)
 
