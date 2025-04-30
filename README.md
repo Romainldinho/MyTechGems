@@ -202,7 +202,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Drupal](https://www.drupal.org/) – A powerful open-source CMS for complex and scalable web applications.
 - [WordPress](https://wordpress.org/) – The most popular CMS for creating websites and blogs, with a vast ecosystem of plugins and themes.
 
-
 ## 🗃️ Data & Storage
 
 ### 🗄️ Databases & Tools
@@ -223,7 +222,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Dgraph](https://github.com/hypermodeinc/dgraph) - An open-source, distributed graph database designed for high scalability and efficient query execution.
 - [Neo4j](https://neo4j.com/product/neo4j-graph-database/) - A powerful graph database with native graph storage and processing, widely used for deep relationship analysis and data-driven applications.
 
-
 ### 🧠 In-Memory Databases & Caching
 
 - [Redis](https://redis.io/) – Ultra-fast in-memory key-value store. Ideal for caching, session storage, pub/sub, and real-time analytics.
@@ -234,7 +232,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [dbt (Data Build Tool)](https://www.getdbt.com/) – SQL-based data transformation tool for modern data warehouses.
 - [Airbyte](https://airbyte.com/) – Open-source data integration platform (alternative to Fivetran).
 - [Meltano](https://meltano.com/) – Open-source alternative to Airbyte and Fivetran, built on Singer.
-
 
 ### 📈 Dashboards & BI Tools
 
@@ -249,7 +246,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Google Data Studio (Looker Studio)](https://lookerstudio.google.com/) – Create dynamic, shareable reports using data from Sheets, BigQuery, and more.
 - [Appsmith](https://www.appsmith.com/) – Build internal apps and admin panels with low-code logic.
 
-
 ### 🧠 Visual Thinking & Diagrams
 
 - [Excalidraw](https://excalidraw.com/) – Virtual whiteboard for sketching diagrams with a hand-drawn feel.
@@ -257,7 +253,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [tldraw](https://www.tldraw.com/) – Collaborative digital whiteboard with minimalist design.
 - [Whimsical](https://whimsical.com/) – Wireframes, flowcharts, mind maps, and sticky notes. Great UX.
 - [Penpot](https://penpot.app/) – Open-source design & prototyping tool for cross-functional teams.
-
 
 
 ## ☁️ Infrastructure & DevOps
@@ -390,7 +385,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Mattermost](https://mattermost.com/) – Alternative open-source à Slack pour les entreprises.
 
 
-## 🎨 Design & UI
+## 🎨 Design & UX
 
 ### 🎨 UI Kits, Wireframing & Mockups
 
@@ -484,7 +479,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ## 📚 Documentation & Resources
 
-### 📚 Documentation
+### 📜 Documentation Tools
 
 - [Docusaurus](https://docusaurus.io/) – Documentation framework for websites.
 - [OpenAPI (Swagger)](https://swagger.io/) – API documentation and design tool.
