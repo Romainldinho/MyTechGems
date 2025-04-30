@@ -229,7 +229,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Redis](https://redis.io/) – Ultra-fast in-memory key-value store. Ideal for caching, session storage, pub/sub, and real-time analytics.
 - [Memcached](https://memcached.org/) – High-performance, distributed memory object caching system.
 
-### 🔄 **ETL/ELT & Data Integration**
+### 🔄 **ETL/ELT & Data Pipelines**
 
 - [dbt (Data Build Tool)](https://www.getdbt.com/) – SQL-based data transformation tool for modern data warehouses.
 - [Airbyte](https://airbyte.com/) – Open-source data integration platform (alternative to Fivetran).
@@ -539,6 +539,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [WebPageTest](https://www.webpagetest.org/) – Performance testing tool that also measures the energy efficiency of websites.
 - [Sustainable Web Design](https://www.sustainablewebdesign.org/) – Initiative and guide to creating more sustainable and eco-friendly websites.
 - [CleanFox](https://www.cleanfox.io/) – Tool to clean up email inboxes, reducing the carbon footprint of email communications linked to websites.
+- https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/
+- https://github.com/YellowLabTools/YellowLabTools
 
 ---
 
