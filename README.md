@@ -515,7 +515,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Gitmoji](https://gitmoji.dev/) – Emoji guide for commit messages.
 - [Conventional Commits](https://www.conventionalcommits.org/) - A specification for adding human and machine readable meaning to commit messages
 - [Standard Version](https://github.com/conventional-changelog/standard-version) – Automate versioning and changelogs following semantic versioning.
-- [Gitkraken](https://www.gitkraken.com/) 
+- [GitKraken](https://www.gitkraken.com/) – A powerful and beautiful Git client that helps you manage your repositories with ease.
 
 
 ## 🌀 Miscellaneous
