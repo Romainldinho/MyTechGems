@@ -89,8 +89,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [😎 Developer Communities & Inspiration](#-developer-communities--inspiration)  
 - [🧘 Focus & Wellbeing](#-focus--wellbeing)  
 - [🌱 Green Web Development](#-green-web-development)  
-- [⚡ Energy Optimization Tools](#-energy-optimization-tools)  
-- [🧠 Personal Notes & Utilities](#-personal-notes--utilities)
 
 
 ---
@@ -529,6 +527,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Regex101](https://regex101.com/) – Powerful tool to test and debug regular expressions.
 - [Boxy SVG](https://boxy-svg.com/) – Simple SVG editor for designing icons and vector graphics.
 - [Bundlephobia](https://bundlephobia.com/) – Discover the cost (size, load time) of npm packages.
+- [Squoosh](https://squoosh.app/) – High-quality image compression tool by Google, directly in your browser.
+- [Responsinator](http://www.responsinator.com/) – Test how your site looks on various devices.
 
 ### 😎 Developer Communities & Inspiration
 
@@ -543,19 +543,9 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Noisli](https://www.noisli.com/) – Ambient background sounds to improve focus and relaxation.
 - [Stretchly](https://hovancik.net/stretchly/) – Break reminder app for healthy coding habits.
 
-### 🌱 Sustainable Web
-
-- [Website Carbon Calculator](https://www.websitecarbon.com/) – Estimate the carbon footprint of a web page.
-- [Ecoindex](https://ecoindex.fr/) – Environmental impact score for websites based on performance and weight.
-
-### 🧠 Personal Notes & Utilities
-
-- Your favorite shortcuts, custom scripts, or cheatsheets.
-- Bash/VSC aliases you want to keep handy.
-- Any resources that don’t fit elsewhere but are still useful.
-
 ### 🌱 Green Website Carbon Footprint Tools
 
+- [Ecoindex](https://ecoindex.fr/) – Environmental impact score for websites based on performance and weight.
 - [Website Carbon](https://www.websitecarbon.com/) – Tool to analyze and calculate the carbon footprint of a website.
 - [EcoGrader](https://www.ecograder.com/) – Tool to assess the environmental impact of a website and provide tips for energy reduction.
 - [Green Web Foundation](https://www.thegreenwebfoundation.org/) – Identifies whether a website is hosted on servers powered by renewable energy.
