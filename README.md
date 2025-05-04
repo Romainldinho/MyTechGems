@@ -19,6 +19,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 ## 📌 Table of Contents
 
 ### 💻 Development
+
 - [🎨 Frontend Development](#-frontend-development)
   - [⚛️ React & Ecosystem](#-react--ecosystem)
   - [🧠 State Management](#-state-management)
@@ -38,28 +39,33 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [🔐 Secure Coding Practices](#-secure-coding-practices)
 
 ### 🗃️ Data & Storage
+
 - [🗄️ Databases](#-databases)
 - [📊 Graph & Specialized Databases](#-graph--specialized-databases)
 - [🧠 In-Memory Databases & Caching](#-in-memory-databases--caching)
 - [🔄 ETL/ELT & Data Pipelines](#-etl-elt--data-pipelines)
 
 ### ☁️ Infrastructure & DevOps
+
 - [☁️ Cloud Infrastructure](#-cloud-infrastructure)
 - [⚙️ CI/CD & Automation](#-cicd--automation)
 - [🔒 Security & Compliance](#-security--compliance)
 - [📊 Monitoring & Observability](#-monitoring--observability)
 
 ### 🤖 AI & Machine Learning
+
 - [🧠 Machine Learning Frameworks](#-machine-learning-frameworks)
 - [📟 Generative AI Tools](#-generative-ai-tools)
 - [🔗 AI API Integrations](#-ai-api-integrations)
 
 ### ⚡ Performance & Optimization
+
 - [📈 Web Performance Tools](#-web-performance-tools)
 - [🖼️ Asset Optimization](#-asset-optimization)
 - [🚀 Runtime Optimization](#-runtime-optimization)
 
 ### 🧰 Tools & Productivity
+
 - [🧑‍💻 Development Environments](#-development-environments)
 - [🛠️ CLI & Terminal Tools](#-cli--terminal-tools)
 - [📈 Productivity & Collaboration](#-productivity--collaboration)
@@ -67,29 +73,45 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [🔧 No-Code/Low-Code Platforms](#-no-code-low-code-platforms)
 
 ### 🎨 Design & UX
+
 - [🎨 UI Kits & Prototyping](#-ui-kits--prototyping)
 - [🖼️ Icons & Visual Assets](#-icons--visual-assets)
 - [🧠 Diagramming & Visual Thinking](#-diagramming--visual-thinking)
 - [♿ Accessibility (a11y)](#-accessibility-a11y)
 
 ### 📦 APIs & Integrations
+
 - [🛠️ APIs & Services](#-apis--services)
 - [📬 Email & Messaging](#-email--messaging)
 - [🤖 Web Scraping & Automation](#-web-scraping--automation)
 - [🔄 Workflow Automation](#-workflow-automation)
 
 ### 📚 Documentation & Learning
+
 - [📜 Documentation Tools](#-documentation-tools)
 - [📚 Learning Resources](#-learning-resources)
 - [🚀 Code Quality & Git Hooks](#-code-quality--git-hooks)
 - [🗂️ Git & Version Control](#-git--version-control)
 
-### 🌀 Miscellaneous
-- [🧩 Handy Tools](#-handy-tools)  
-- [😎 Developer Communities & Inspiration](#-developer-communities--inspiration)  
-- [🧘 Focus & Wellbeing](#-focus--wellbeing)  
-- [🌱 Green Web Development](#-green-web-development)  
+### 🌐 i18n (Internationalization)
 
+- [🛠️ Tools & Platforms](#-tools--platforms)
+- [📚 Libraries](#-libraries)
+
+### 🔍 SEO (Search Engine Optimization)
+
+- [🔧 On-Page SEO Utilities](#-on-page-seo-utilities)
+- [🗺️ Sitemap & Robots.txt Generation](#-sitemap--robotstxt-generation)
+- [📊 SEO Analytics & Monitoring](#-seo-analytics--monitoring)
+- [🧠 Structured Data & Open Graph](#-structured-data--open-graph)
+- [💡 Extras](#-extras)
+
+### 🌀 Miscellaneous
+
+- [🧩 Handy Tools](#-handy-tools)
+- [😎 Developer Communities & Inspiration](#-developer-communities--inspiration)
+- [🧘 Focus & Wellbeing](#-focus--wellbeing)
+- [🌱 Green Web Development](#-green-web-development)
 
 ---
 
@@ -256,7 +278,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Whimsical](https://whimsical.com/) – Wireframes, flowcharts, mind maps, and sticky notes. Great UX.
 - [Penpot](https://penpot.app/) – Open-source design & prototyping tool for cross-functional teams.
 
-
 ## ☁️ Infrastructure & DevOps
 
 ### ⚙️ DevOps & Infrastructure
@@ -273,7 +294,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [k3s](https://k3s.io/) – Lightweight Kubernetes distribution for IoT and edge computing.
 - [Dokploy](https://github.com/Dokploy/dokploy) – Deployment automation and cloud management with Docker.
 
-
 ### 🌍 Cloud & Infrastructure
 
 - [Docker](https://www.docker.com/) – Containerization platform.
@@ -283,7 +303,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Vercel](https://vercel.com/) – Serverless deployment for frontend projects.
 - [Netlify](https://www.netlify.com/) – Cloud hosting and automation for web projects.
 - [MinIO](https://min.io/) – High-performance object storage.
-
 
 ### ⚙️ Automation & CI/CD
 
@@ -313,7 +332,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Gopass](https://github.com/gopasspw/gopass) – CLI password manager based on GPG and Git.
 - [AWS Secrets Manager (Free Tier)](https://aws.amazon.com/secrets-manager/) – Managed service for secrets, free within usage limits.
 
-
 ### 📊 Monitoring & Observability
 
 - [Grafana](https://grafana.com/) – Visualization tool for monitoring data.
@@ -325,8 +343,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [OpenTelemetry](https://opentelemetry.io/) – Framework for metrics, logs, and traces.
 - https://github.com/louislam/uptime-kuma
 
-
 ## 🤖 AI & Machine Learning
+
 - [TensorFlow](https://www.tensorflow.org/) – Open-source framework for building and deploying machine learning models, ideal for deep learning.
 - [PyTorch](https://pytorch.org/) – Flexible ML framework for research and production, widely used in academia and industry.
 - [Scikit-learn](https://scikit-learn.org/) – Python library for classic machine learning tasks like classification, regression, and clustering.
@@ -358,7 +376,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Visual Studio Code](https://code.visualstudio.com/) – A powerful and versatile code editor for web and software development.
 - [Extentions Visual Studio Code](vscode-extensions.md) List of extensions
 
-
 ### 🛠️ Developer Utilities
 
 - [Postman](https://www.postman.com/) – Platform for building and testing APIs with a user-friendly interface.
@@ -368,7 +385,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [httpie](https://httpie.io/) – Command-line HTTP client with a human-friendly interface.
 - [ReqBin](https://reqbin.com/) – Online API testing tool to quickly test HTTP requests.
 - [Mockoon](https://mockoon.com/) – Easily create mock REST APIs for testing and development.
-
 
 ## 🧑‍🤝‍🧑 Project Management & Collaboration
 
@@ -386,7 +402,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Discord](https://discord.com/) – Outil de discussion communautaire ou en équipe, pratique pour devs indépendants.
 - [Mattermost](https://mattermost.com/) – Alternative open-source à Slack pour les entreprises.
 
-
 ## 🎨 Design & UX
 
 ### 🎨 UI Kits, Wireframing & Mockups
@@ -396,7 +411,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Wireframe.cc](https://wireframe.cc/) – Minimal wireframing tool focused on simplicity.
 - [Storybook](https://storybook.js.org/) – UI component explorer for frontend developers.
 - [UI Design Daily](https://uidesigndaily.com/) – Daily free UI resources for inspiration and download.
-
 
 ### 🖼️ Icons & Illustrations
 
@@ -411,7 +425,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Humaaans](https://www.humaaans.com/) – Mix-&-match illustrations of people for your projects.
 - [Blush](https://blush.design/) – Create, mix, and customize illustrations made by artists. Free plan available.
 - [SVGRepo](https://www.svgrepo.com/) – Huge collection of free SVGs, including icons and illustrations.
-
 
 ## ♿ Accessibility (a11y)
 
@@ -442,7 +455,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [jest-axe](https://github.com/nickcolley/jest-axe) – Jest matcher to perform accessibility assertions in unit tests.
 - [cypress-axe](https://www.npmjs.com/package/cypress-axe) – Adds axe accessibility testing to Cypress E2E tests.
 
-
 ## 📦 APIs & Integration
 
 ### 🛠️ APIs & Services
@@ -451,7 +463,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Restify](https://restify.com/) – Node.js framework for REST APIs.
 - [API Platform](https://api-platform.com/) – Full-stack API framework.
 - [tRPC](https://trpc.io/) – TypeScript-first API framework for RPC.
-
 
 ### 📬 Email & Messaging
 
@@ -478,7 +489,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Automa](https://github.com/AutomaApp/automa) – Chrome and Firefox extension for browser automation.
 - [Inngest](https://github.com/inngest/inngest) – Serverless workflows and event-driven automation.
 
-
 ## 📚 Documentation & Resources
 
 ### 📜 Documentation Tools
@@ -499,7 +509,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - https://sh.openbestof.com/tools/
 - https://github.com/is-a-dev/register
 
-
 ### 🚀 Git Hooks & Code Quality
 
 - [Prettier](https://prettier.io/) – An opinionated code formatter that supports JavaScript, TypeScript, HTML, CSS, JSON, and more.
@@ -517,6 +526,63 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Standard Version](https://github.com/conventional-changelog/standard-version) – Automate versioning and changelogs following semantic versioning.
 - [GitKraken](https://www.gitkraken.com/) – A powerful and beautiful Git client that helps you manage your repositories with ease.
 
+## 🌐 i18n (Internationalization)
+
+### 🛠️ Tools & Platforms
+
+- [**Weblate**](https://weblate.org/) – Open source translation platform with Git integration and support for various formats (PO, JSON, XLIFF…).
+- [**Pootle**](https://github.com/translate/pootle) – Web-based translation management tool built with Django for collaborative workflows.
+- [**Tolgee**](https://tolgee.io/) – Modern open source localization platform with SDKs for React, Angular, Vue, and more.
+- [**Tolk**](https://github.com/tolk/tolk) – Web interface for managing translations in Ruby on Rails (YAML-based).
+- [**Babel**](https://babel.pocoo.org/) – Python library for extracting and managing message catalogs, pluralization, and formatting.
+- [**GNU Gettext**](https://www.gnu.org/software/gettext/) – Classic localization toolchain using `.po`/`.mo` files, widely used across languages.
+- [**Translate Toolkit**](https://toolkit.translatehouse.org/) – Command-line tools for converting, validating, and manipulating localization files.
+
+### 📚 Libraries
+
+- [**Fluent**](https://projectfluent.org/) – Localization system by Mozilla with expressive syntax and multi-language support.
+- [**i18next**](https://www.i18next.com/) – Full-featured i18n framework for JavaScript, React, Vue, Node.js, etc.
+- [**LinguiJS**](https://lingui.dev/) – Lightweight and modern i18n library for JavaScript/React with CLI support.
+- [**FormatJS**](https://formatjs.io/) – Set of i18n tools implementing ICU message formatting (includes React Intl).
+- [**vue-i18n**](https://vue-i18n.intlify.dev/) – Official internationalization library for Vue 2 and 3.
+- [**gettext.js**](https://github.com/guillaumepotier/gettext.js) – JavaScript implementation of the GNU Gettext format.
+- [**Rosetta**](https://github.com/lukeed/rosetta) – Minimalist i18n library for Node.js and the browser.
+
+## 🔍 SEO (Search Engine Optimization)
+
+### 🔧 On-Page SEO Utilities
+
+- [**React Helmet**](https://github.com/nfl/react-helmet) – Manage HTML `<head>` in React apps (meta, title, canonical, etc.).
+- [**Next SEO**](https://github.com/garmeeh/next-seo) – Declarative SEO configuration for Next.js (Open Graph, JSON-LD, Twitter cards…).
+- [**Vue Meta**](https://vue-meta.nuxtjs.org/) – Manage meta tags in Vue apps (including SSR).
+- [**Nuxt SEO Module**](https://seo.nuxt.com/) – Full-featured SEO support for Nuxt 3: meta, sitemap, robots.txt, and schema.org.
+- [**Astro SEO**](https://github.com/johnsoncodehk/astro-seo) – Automatically injects SEO meta tags into your Astro pages.
+
+### 🗺️ Sitemap & Robots.txt Generation
+
+- [**sitemap.js**](https://github.com/ekalinin/sitemap.js) – Generate XML sitemaps with Node.js.
+- [**astro-sitemap**](https://github.com/JonasKruckenberg/astro-sitemap) – Sitemap generator for Astro projects.
+- [**robots-txt-parse**](https://github.com/samclarke/robots-txt-parse) – Parser for robots.txt files in Node.js.
+- [**simple-robots**](https://github.com/garmeeh/simple-robots) – Control robots meta tags, canonical URLs, and more (used by Next SEO).
+
+### 📊 SEO Analytics & Monitoring
+
+- [**SEO Panel**](https://www.seopanel.org/) – Open source SEO dashboard with keyword tracking, site audits, and reporting.
+- [**Serposcope**](https://serposcope.serphacker.com/) – Self-hosted Google rank tracker.
+- [**Plausible Analytics**](https://plausible.io/) – Lightweight, open source alternative to Google Analytics (SEO-friendly, privacy-focused).
+- [**Umami**](https://umami.is/) – Simple, self-hosted web analytics focused on privacy and clarity.
+- [**Ackee**](https://ackee.electerious.com/) – Node.js-based self-hosted analytics with a slick UI and real-time data.
+
+### 🧠 Structured Data & Open Graph
+
+- [**Open Graph Scraper (OGS)**](https://github.com/jshemas/open-graph-scraper) – Scrapes Open Graph, Twitter cards, and other meta tags.
+- [**schema-dts**](https://github.com/google/schema-dts) – TypeScript types and helpers for working with schema.org structured data.
+- [**jsonld.js**](https://github.com/digitalbazaar/jsonld.js) – JavaScript library for working with JSON-LD (linked data & SEO rich snippets).
+
+### 💡 Extras
+
+- [**Lighthouse CI**](https://github.com/GoogleChrome/lighthouse-ci) – Automate Lighthouse performance & SEO audits in CI/CD pipelines.
+- [**Zustand SEO Middleware**](https://github.com/BoMarconiHenriksen/zustand-next-seo) – Zustand middleware to sync state-driven SEO data with Next SEO.
 
 ## 🌀 Miscellaneous
 
@@ -532,7 +598,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [BuiltWith](https://builtwith.com/) – Discover the technologies behind any website, including frameworks, analytics, hosting providers, and more.
 - [Aspect Ratio Tool](https://andrew.hedges.name/experiments/aspect_ratio/) – Tool for testing and adjusting the aspect ratio of images and elements in web design.
 - [MyDevice.io](https://www.mydevice.io/) – Test and simulate how your website looks on different devices, screen sizes, and resolutions.
-
 
 ### 😎 Developer Communities & Inspiration
 
@@ -564,7 +629,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - https://github.com/YellowLabTools/YellowLabTools
 
 ---
-
 
 <br/>
 
