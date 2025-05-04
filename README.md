@@ -573,6 +573,13 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Umami](https://umami.is/) – Simple, self-hosted web analytics focused on privacy and clarity.
 - [Ackee](https://ackee.electerious.com/) – Node.js-based self-hosted analytics with a slick UI and real-time data.
 
+### 🎥 Session Replay & Heatmaps
+
+- [Microsoft Clarity](https://clarity.microsoft.com/) – Free and open-source behavioral analytics tool offering session replays, heatmaps, and AI-driven insights. No traffic limits. [Source on GitHub](https://github.com/microsoft/clarity)
+- [PostHog](https://posthog.com/) – Open-source product analytics platform with session recording, feature flags, funnels, and more. Can be self-hosted. [GitHub](https://github.com/PostHog/posthog)
+- [OpenReplay](https://openreplay.com/) – Self-hosted open-source session replay suite. Useful for debugging and UX optimization. [GitHub](https://github.com/openreplay/openreplay)
+- [Matomo](https://matomo.org/) – Privacy-focused open-source web analytics platform with heatmaps and session recordings (via plugins). [GitHub](https://github.com/matomo-org/matomo)
+
 ### 🧠 Structured Data & Open Graph
 
 - [Open Graph Scraper (OGS)](https://github.com/jshemas/open-graph-scraper) – Scrapes Open Graph, Twitter cards, and other meta tags.
