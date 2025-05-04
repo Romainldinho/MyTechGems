@@ -530,59 +530,59 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 🛠️ Tools & Platforms
 
-- [**Weblate**](https://weblate.org/) – Open source translation platform with Git integration and support for various formats (PO, JSON, XLIFF…).
-- [**Pootle**](https://github.com/translate/pootle) – Web-based translation management tool built with Django for collaborative workflows.
-- [**Tolgee**](https://tolgee.io/) – Modern open source localization platform with SDKs for React, Angular, Vue, and more.
-- [**Tolk**](https://github.com/tolk/tolk) – Web interface for managing translations in Ruby on Rails (YAML-based).
-- [**Babel**](https://babel.pocoo.org/) – Python library for extracting and managing message catalogs, pluralization, and formatting.
-- [**GNU Gettext**](https://www.gnu.org/software/gettext/) – Classic localization toolchain using `.po`/`.mo` files, widely used across languages.
-- [**Translate Toolkit**](https://toolkit.translatehouse.org/) – Command-line tools for converting, validating, and manipulating localization files.
+- [Weblate](https://weblate.org/) – Open source translation platform with Git integration and support for various formats (PO, JSON, XLIFF…).
+- [Pootle](https://github.com/translate/pootle) – Web-based translation management tool built with Django for collaborative workflows.
+- [Tolgee](https://tolgee.io/) – Modern open source localization platform with SDKs for React, Angular, Vue, and more.
+- [Tolk](https://github.com/tolk/tolk) – Web interface for managing translations in Ruby on Rails (YAML-based).
+- [Babel](https://babel.pocoo.org/) – Python library for extracting and managing message catalogs, pluralization, and formatting.
+- [GNU Gettext](https://www.gnu.org/software/gettext/) – Classic localization toolchain using `.po`/`.mo` files, widely used across languages.
+- [Translate Toolkit](https://toolkit.translatehouse.org/) – Command-line tools for converting, validating, and manipulating localization files.
 
 ### 📚 Libraries
 
-- [**Fluent**](https://projectfluent.org/) – Localization system by Mozilla with expressive syntax and multi-language support.
-- [**i18next**](https://www.i18next.com/) – Full-featured i18n framework for JavaScript, React, Vue, Node.js, etc.
-- [**LinguiJS**](https://lingui.dev/) – Lightweight and modern i18n library for JavaScript/React with CLI support.
-- [**FormatJS**](https://formatjs.io/) – Set of i18n tools implementing ICU message formatting (includes React Intl).
-- [**vue-i18n**](https://vue-i18n.intlify.dev/) – Official internationalization library for Vue 2 and 3.
-- [**gettext.js**](https://github.com/guillaumepotier/gettext.js) – JavaScript implementation of the GNU Gettext format.
-- [**Rosetta**](https://github.com/lukeed/rosetta) – Minimalist i18n library for Node.js and the browser.
+- [Fluent](https://projectfluent.org/) – Localization system by Mozilla with expressive syntax and multi-language support.
+- [i18next](https://www.i18next.com/) – Full-featured i18n framework for JavaScript, React, Vue, Node.js, etc.
+- [LinguiJS](https://lingui.dev/) – Lightweight and modern i18n library for JavaScript/React with CLI support.
+- [FormatJS](https://formatjs.io/) – Set of i18n tools implementing ICU message formatting (includes React Intl).
+- [vue-i18n](https://vue-i18n.intlify.dev/) – Official internationalization library for Vue 2 and 3.
+- [gettext.js](https://github.com/guillaumepotier/gettext.js) – JavaScript implementation of the GNU Gettext format.
+- [Rosetta](https://github.com/lukeed/rosetta) – Minimalist i18n library for Node.js and the browser.
 
 ## 🔍 SEO (Search Engine Optimization)
 
 ### 🔧 On-Page SEO Utilities
 
-- [**React Helmet**](https://github.com/nfl/react-helmet) – Manage HTML `<head>` in React apps (meta, title, canonical, etc.).
-- [**Next SEO**](https://github.com/garmeeh/next-seo) – Declarative SEO configuration for Next.js (Open Graph, JSON-LD, Twitter cards…).
-- [**Vue Meta**](https://vue-meta.nuxtjs.org/) – Manage meta tags in Vue apps (including SSR).
-- [**Nuxt SEO Module**](https://seo.nuxt.com/) – Full-featured SEO support for Nuxt 3: meta, sitemap, robots.txt, and schema.org.
-- [**Astro SEO**](https://github.com/johnsoncodehk/astro-seo) – Automatically injects SEO meta tags into your Astro pages.
+- [React Helmet](https://github.com/nfl/react-helmet) – Manage HTML `<head>` in React apps (meta, title, canonical, etc.).
+- [Next SEO](https://github.com/garmeeh/next-seo) – Declarative SEO configuration for Next.js (Open Graph, JSON-LD, Twitter cards…).
+- [Vue Meta](https://vue-meta.nuxtjs.org/) – Manage meta tags in Vue apps (including SSR).
+- [Nuxt SEO Module](https://seo.nuxt.com/) – Full-featured SEO support for Nuxt 3: meta, sitemap, robots.txt, and schema.org.
+- [Astro SEO](https://github.com/johnsoncodehk/astro-seo) – Automatically injects SEO meta tags into your Astro pages.
 
 ### 🗺️ Sitemap & Robots.txt Generation
 
-- [**sitemap.js**](https://github.com/ekalinin/sitemap.js) – Generate XML sitemaps with Node.js.
-- [**astro-sitemap**](https://github.com/JonasKruckenberg/astro-sitemap) – Sitemap generator for Astro projects.
-- [**robots-txt-parse**](https://github.com/samclarke/robots-txt-parse) – Parser for robots.txt files in Node.js.
-- [**simple-robots**](https://github.com/garmeeh/simple-robots) – Control robots meta tags, canonical URLs, and more (used by Next SEO).
+- [sitemap.js](https://github.com/ekalinin/sitemap.js) – Generate XML sitemaps with Node.js.
+- [astro-sitemap](https://github.com/JonasKruckenberg/astro-sitemap) – Sitemap generator for Astro projects.
+- [robots-txt-parse](https://github.com/samclarke/robots-txt-parse) – Parser for robots.txt files in Node.js.
+- [simple-robots](https://github.com/garmeeh/simple-robots) – Control robots meta tags, canonical URLs, and more (used by Next SEO).
 
 ### 📊 SEO Analytics & Monitoring
 
-- [**SEO Panel**](https://www.seopanel.org/) – Open source SEO dashboard with keyword tracking, site audits, and reporting.
-- [**Serposcope**](https://serposcope.serphacker.com/) – Self-hosted Google rank tracker.
-- [**Plausible Analytics**](https://plausible.io/) – Lightweight, open source alternative to Google Analytics (SEO-friendly, privacy-focused).
-- [**Umami**](https://umami.is/) – Simple, self-hosted web analytics focused on privacy and clarity.
-- [**Ackee**](https://ackee.electerious.com/) – Node.js-based self-hosted analytics with a slick UI and real-time data.
+- [SEO Panel](https://www.seopanel.org/) – Open source SEO dashboard with keyword tracking, site audits, and reporting.
+- [Serposcope](https://serposcope.serphacker.com/) – Self-hosted Google rank tracker.
+- [Plausible Analytics](https://plausible.io/) – Lightweight, open source alternative to Google Analytics (SEO-friendly, privacy-focused).
+- [Umami](https://umami.is/) – Simple, self-hosted web analytics focused on privacy and clarity.
+- [Ackee](https://ackee.electerious.com/) – Node.js-based self-hosted analytics with a slick UI and real-time data.
 
 ### 🧠 Structured Data & Open Graph
 
-- [**Open Graph Scraper (OGS)**](https://github.com/jshemas/open-graph-scraper) – Scrapes Open Graph, Twitter cards, and other meta tags.
-- [**schema-dts**](https://github.com/google/schema-dts) – TypeScript types and helpers for working with schema.org structured data.
-- [**jsonld.js**](https://github.com/digitalbazaar/jsonld.js) – JavaScript library for working with JSON-LD (linked data & SEO rich snippets).
+- [Open Graph Scraper (OGS)](https://github.com/jshemas/open-graph-scraper) – Scrapes Open Graph, Twitter cards, and other meta tags.
+- [schema-dts](https://github.com/google/schema-dts) – TypeScript types and helpers for working with schema.org structured data.
+- [jsonld.js](https://github.com/digitalbazaar/jsonld.js) – JavaScript library for working with JSON-LD (linked data & SEO rich snippets).
 
 ### 💡 Extras
 
-- [**Lighthouse CI**](https://github.com/GoogleChrome/lighthouse-ci) – Automate Lighthouse performance & SEO audits in CI/CD pipelines.
-- [**Zustand SEO Middleware**](https://github.com/BoMarconiHenriksen/zustand-next-seo) – Zustand middleware to sync state-driven SEO data with Next SEO.
+- [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) – Automate Lighthouse performance & SEO audits in CI/CD pipelines.
+- [Zustand SEO Middleware](https://github.com/BoMarconiHenriksen/zustand-next-seo) – Zustand middleware to sync state-driven SEO data with Next SEO.
 
 ## 🌀 Miscellaneous
 
