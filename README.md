@@ -239,6 +239,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [MySQL Workbench](https://www.mysql.com/products/workbench/) – Visual tool for MySQL database modeling, development, and administration.
 - [pgAdmin](https://www.pgadmin.org/) – Popular administration and development platform for PostgreSQL.
 - [MongoDB Compass](https://www.mongodb.com/products/compass) – GUI for MongoDB, allowing schema exploration and performance monitoring.
+- https://github.com/bytebase/bytebase
 
 ### 📊 Graph Databases
 
