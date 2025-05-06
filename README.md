@@ -38,6 +38,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
   - [🔍 End-to-End Testing](#-end-to-end-testing)
 - [🔐 Secure Coding Practices](#-secure-coding-practices)
 
+
 ### 🗃️ Data & Storage
 
 - [🗄️ Databases](#-databases)
@@ -230,6 +231,36 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [KeystoneJS](https://keystonejs.com/) – Headless CMS and web application platform built with Node.js.
 - [Drupal](https://www.drupal.org/) – A powerful open-source CMS for complex and scalable web applications.
 - [WordPress](https://wordpress.org/) – The most popular CMS for creating websites and blogs, with a vast ecosystem of plugins and themes.
+
+
+## 🛍️ eCommerce
+
+### 🧱 eCommerce Platforms
+
+- [**Medusa**](https://medusajs.com/) – Headless eCommerce platform built with Node.js. API-first and easily extendable. [GitHub](https://github.com/medusajs/medusa)
+- [**Saleor**](https://saleor.io/) – GraphQL-first, high-performance eCommerce platform written in Python/Django. Headless and PWA-ready. [GitHub](https://github.com/saleor/saleor)
+- [**Shopware**](https://www.shopware.com/) – Modern, open source PHP-based eCommerce platform with API-first architecture. [GitHub](https://github.com/shopware/platform)
+- [**Sylius**](https://sylius.com/) – Symfony-based headless eCommerce framework tailored for custom solutions. [GitHub](https://github.com/Sylius/Sylius)
+- [**Bagisto**](https://bagisto.com/) – Laravel-based open source eCommerce platform. Great for small to mid-sized businesses. [GitHub](https://github.com/bagisto/bagisto)
+
+### ⚙️ Headless / Jamstack Integration
+
+- [**Vendure**](https://www.vendure.io/) – Modern headless eCommerce framework built with TypeScript and GraphQL. Designed for custom storefronts. [GitHub](https://github.com/vendure-ecommerce/vendure)
+- [**Commerce.js (Chec)**](https://commercejs.com/) – JavaScript SDK for headless eCommerce. Open core model with generous free tier.
+- [**Shopify Hydrogen**](https://hydrogen.shopify.dev/) – React-based framework for building custom Shopify storefronts. Not fully open source but popular in headless setups.
+
+### 📦 Shopping Cart Libraries
+
+- [**Vue Storefront**](https://vuestorefront.io/) – Headless frontend framework for eCommerce. Works with Magento, Shopware, BigCommerce, etc.
+- [**React Storefront**](https://github.com/storefront-foundation/react-storefront) – React framework for building fast, PWA eCommerce frontends.
+- [**Snipcart (legacy OSS widget)**](https://github.com/snipcart/snipcart-laravel) – Easy to embed shopping cart with minimal backend setup. (Legacy version open source)
+
+### 💳 Payments & Checkout
+
+- [**Solidus**](https://solidus.io/) – Flexible Ruby on Rails eCommerce platform with deep customization, including payment and tax logic. [GitHub](https://github.com/solidusio/solidus)
+- [**Stripe Checkout**](https://github.com/stripe/stripe-checkout) – Not an eCommerce platform per se, but a ready-to-use embeddable checkout flow. Good for minimal setups.
+- [**Payum**](https://github.com/Payum/Payum) – PHP payment processing library supporting multiple gateways.
+
 
 ## 🗃️ Data & Storage
 
