@@ -38,6 +38,12 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
   - [🔍 End-to-End Testing](#-end-to-end-testing)
 - [🔐 Secure Coding Practices](#-secure-coding-practices)
 
+### 🛍️ eCommerce
+
+- 🧱 eCommerce Platforms
+- ⚙️ Headless / Jamstack Integration
+- 📦 Shopping Cart Libraries
+- 💳 Payments & Checkout
 
 ### 🗃️ Data & Storage
 
