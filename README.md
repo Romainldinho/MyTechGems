@@ -40,10 +40,10 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 🛍️ eCommerce
 
-- 🧱 eCommerce Platforms
-- ⚙️ Headless / Jamstack Integration
-- 📦 Shopping Cart Libraries
-- 💳 Payments & Checkout
+- [🧱 eCommerce Platforms](#-ecommerce-platforms)
+- [📦 Shopping Cart Libraries](#-shopping-cart-libraries)
+- [💳 Payments & Checkout](#-payments--checkout)
+- [⚙️ Headless / Jamstack Integration](#headless--jamstack-integration)
 
 ### 🗃️ Data & Storage
 
@@ -243,29 +243,29 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 🧱 eCommerce Platforms
 
-- [**Medusa**](https://medusajs.com/) – Headless eCommerce platform built with Node.js. API-first and easily extendable. [GitHub](https://github.com/medusajs/medusa)
-- [**Saleor**](https://saleor.io/) – GraphQL-first, high-performance eCommerce platform written in Python/Django. Headless and PWA-ready. [GitHub](https://github.com/saleor/saleor)
-- [**Shopware**](https://www.shopware.com/) – Modern, open source PHP-based eCommerce platform with API-first architecture. [GitHub](https://github.com/shopware/platform)
-- [**Sylius**](https://sylius.com/) – Symfony-based headless eCommerce framework tailored for custom solutions. [GitHub](https://github.com/Sylius/Sylius)
-- [**Bagisto**](https://bagisto.com/) – Laravel-based open source eCommerce platform. Great for small to mid-sized businesses. [GitHub](https://github.com/bagisto/bagisto)
+- [Medusa](https://medusajs.com/) – Headless eCommerce platform built with Node.js. API-first and easily extendable. [GitHub](https://github.com/medusajs/medusa)
+- [Saleor](https://saleor.io/) – GraphQL-first, high-performance eCommerce platform written in Python/Django. Headless and PWA-ready. [GitHub](https://github.com/saleor/saleor)
+- [Shopware](https://www.shopware.com/) – Modern, open source PHP-based eCommerce platform with API-first architecture. [GitHub](https://github.com/shopware/platform)
+- [Sylius](https://sylius.com/) – Symfony-based headless eCommerce framework tailored for custom solutions. [GitHub](https://github.com/Sylius/Sylius)
+- [Bagisto](https://bagisto.com/) – Laravel-based open source eCommerce platform. Great for small to mid-sized businesses. [GitHub](https://github.com/bagisto/bagisto)
 
 ### ⚙️ Headless / Jamstack Integration
 
-- [**Vendure**](https://www.vendure.io/) – Modern headless eCommerce framework built with TypeScript and GraphQL. Designed for custom storefronts. [GitHub](https://github.com/vendure-ecommerce/vendure)
-- [**Commerce.js (Chec)**](https://commercejs.com/) – JavaScript SDK for headless eCommerce. Open core model with generous free tier.
-- [**Shopify Hydrogen**](https://hydrogen.shopify.dev/) – React-based framework for building custom Shopify storefronts. Not fully open source but popular in headless setups.
+- [Vendure](https://www.vendure.io/) – Modern headless eCommerce framework built with TypeScript and GraphQL. Designed for custom storefronts. [GitHub](https://github.com/vendure-ecommerce/vendure)
+- [Shopify Hydrogen](https://hydrogen.shopify.dev/) – React-based framework for building custom Shopify storefronts. Not fully open source but popular in headless setups.
+- [Mockshop](https://github.com/mockshop/mockshop) – Mockshop is a headless eCommerce platform for developers.
 
 ### 📦 Shopping Cart Libraries
 
-- [**Vue Storefront**](https://vuestorefront.io/) – Headless frontend framework for eCommerce. Works with Magento, Shopware, BigCommerce, etc.
-- [**React Storefront**](https://github.com/storefront-foundation/react-storefront) – React framework for building fast, PWA eCommerce frontends.
-- [**Snipcart (legacy OSS widget)**](https://github.com/snipcart/snipcart-laravel) – Easy to embed shopping cart with minimal backend setup. (Legacy version open source)
+- [Vue Storefront](https://vuestorefront.io/) – Headless frontend framework for eCommerce. Works with Magento, Shopware, BigCommerce, etc.
+- [React Storefront](https://github.com/storefront-foundation/react-storefront) – React framework for building fast, PWA eCommerce frontends.
+- [Snipcart (legacy OSS widget)](https://github.com/snipcart/snipcart-laravel) – Easy to embed shopping cart with minimal backend setup. (Legacy version open source)
 
 ### 💳 Payments & Checkout
 
-- [**Solidus**](https://solidus.io/) – Flexible Ruby on Rails eCommerce platform with deep customization, including payment and tax logic. [GitHub](https://github.com/solidusio/solidus)
-- [**Stripe Checkout**](https://github.com/stripe/stripe-checkout) – Not an eCommerce platform per se, but a ready-to-use embeddable checkout flow. Good for minimal setups.
-- [**Payum**](https://github.com/Payum/Payum) – PHP payment processing library supporting multiple gateways.
+- [Solidus](https://solidus.io/) – Flexible Ruby on Rails eCommerce platform with deep customization, including payment and tax logic. [GitHub](https://github.com/solidusio/solidus)
+- [Stripe Checkout](https://github.com/stripe/stripe-checkout) – Not an eCommerce platform per se, but a ready-to-use embeddable checkout flow. Good for minimal setups.
+- [Payum](https://github.com/Payum/Payum) – PHP payment processing library supporting multiple gateways.
 
 
 ## 🗃️ Data & Storage
@@ -404,8 +404,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 - [zx](https://github.com/google/zx) – A tool by Google that makes writing shell scripts in JavaScript easy and more readable.
 - [Taskfile.dev](https://taskfile.dev/) – A modern task runner and build automation tool.
-- https://github.com/charmbracelet/gum
-- 
+- [Gum](https://github.com/charmbracelet/gum) – A simple, cross-platform, and easy-to-use terminal emulator.
 
 ### 🛠️ Terminal & CLI Productivity
 
@@ -538,22 +537,22 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ### 🍪 Cookie Consent & Banners
 
-- [**Cookie Consent by Osano (open source)**](https://github.com/osano/cookieconsent) – Lightweight JavaScript plugin to display GDPR-compliant cookie banners. Customizable and easy to integrate.
-- [**Klaro!**](https://github.com/KIProtect/klaro) – Declarative, open source consent manager with multilingual support and analytics integrations.
-- [**TarteAuCitron.js**](https://github.com/AmauriC/tarteaucitron.js) – French open source cookie manager used by many public institutions. Automatically blocks third-party services until consent is given.
-- [**CookieYes**](https://www.cookieyes.com/open-source/) – Free version available for cookie consent with open-source embed script (hybrid model).
+- [Cookie Consent by Osano (open source)](https://github.com/osano/cookieconsent) – Lightweight JavaScript plugin to display GDPR-compliant cookie banners. Customizable and easy to integrate.
+- [Klaro!](https://github.com/KIProtect/klaro) – Declarative, open source consent manager with multilingual support and analytics integrations.
+- [TarteAuCitron.js](https://github.com/AmauriC/tarteaucitron.js) – French open source cookie manager used by many public institutions. Automatically blocks third-party services until consent is given.
+- [CookieYes](https://www.cookieyes.com/open-source/) – Free version available for cookie consent with open-source embed script (hybrid model).
 
 ### 🧑‍⚖️ Data Privacy & Control
 
-- [**Plausible Analytics**](https://plausible.io/) – Privacy-first web analytics (no cookies, fully compliant out of the box). [GitHub](https://github.com/plausible/analytics)
-- [**Umami**](https://umami.is/) – Cookie-less, open source web analytics tool. Self-hosted and GDPR-friendly. [GitHub](https://github.com/umami-software/umami)
-- [**Matomo**](https://matomo.org/) – Open source web analytics with strong GDPR compliance tools (data anonymization, consent logs, opt-outs). [GitHub](https://github.com/matomo-org/matomo)
+- [Plausible Analytics](https://plausible.io/) – Privacy-first web analytics (no cookies, fully compliant out of the box). [GitHub](https://github.com/plausible/analytics)
+- [Umami](https://umami.is/) – Cookie-less, open source web analytics tool. Self-hosted and GDPR-friendly. [GitHub](https://github.com/umami-software/umami)
+- [Matomo](https://matomo.org/) – Open source web analytics with strong GDPR compliance tools (data anonymization, consent logs, opt-outs). [GitHub](https://github.com/matomo-org/matomo)
 
 ### 🗄️ Data Management & Auditing
 
-- [**Apache Ranger**](https://ranger.apache.org/) – Data access control framework for big data environments (Hadoop, Hive, etc.) with auditing capabilities.
-- [**Nextcloud**](https://nextcloud.com/) – Self-hosted file platform with audit logs, data retention, and compliance features for GDPR.
-- [**CryptPad**](https://cryptpad.org/) – Privacy-respecting collaboration suite with end-to-end encryption and no personal data collection.
+- [Apache Ranger](https://ranger.apache.org/) – Data access control framework for big data environments (Hadoop, Hive, etc.) with auditing capabilities.
+- [Nextcloud](https://nextcloud.com/) – Self-hosted file platform with audit logs, data retention, and compliance features for GDPR.
+- [CryptPad](https://cryptpad.org/) – Privacy-respecting collaboration suite with end-to-end encryption and no personal data collection.
 
 
 ## 📚 Documentation & Resources
