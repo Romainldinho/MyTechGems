@@ -346,7 +346,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Vercel](https://vercel.com/) – Serverless deployment for frontend projects.
 - [Netlify](https://www.netlify.com/) – Cloud hosting and automation for web projects.
 - [MinIO](https://min.io/) – High-performance object storage.
-- https://www.koyeb.com
+- [Koyeb](https://www.koyeb.com) – Cloud-based database for PostgreSQL, MySQL, MongoDB, Redis, and more.
 
 ### ⚙️ Automation & CI/CD
 
