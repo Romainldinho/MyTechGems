@@ -385,7 +385,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Logstash](https://www.elastic.co/logstash/) – Data processing pipeline.
 - [Kibana](https://www.elastic.co/kibana/) – Data visualization for Elasticsearch.
 - [OpenTelemetry](https://opentelemetry.io/) – Framework for metrics, logs, and traces.
-- https://github.com/louislam/uptime-kuma
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) – Monitor your websites and applications with a beautiful UI
+- [Google Tag Manager](https://tagmanager.google.com/) – Deploy and manage tracking scripts and analytics tags without modifying code.
 
 ## 🤖 AI & Machine Learning
 
@@ -573,8 +574,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Dribbble - Dashboard](https://dribbble.com/) – Creative platform for UI/UX design inspiration.
 - [Crawlee](https://crawlee.dev/) – Web scraping and automation framework for Node.js.
 - [Mermaid Live Editor](https://mermaid.live/) – Create diagrams and flowcharts with Markdown-like syntax.
-- https://sh.openbestof.com/tools/
-- https://github.com/is-a-dev/register
+- [OpenBestof](https://sh.openbestof.com/tools/) – Discover curated opensource self-hosted apps, softwares and resources.
+- [is-a.dev](https://github.com/is-a-dev/register) – is-a.dev is a service that allows developers to get a sweet-looking .is-a.dev subdomain for their personal websites.
 
 ### 🚀 Git Hooks & Code Quality
 
