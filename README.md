@@ -94,9 +94,8 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [🔄 Workflow Automation](#-workflow-automation)
 
 ### 🛡️ GDPR & Privacy Compliance
-- 🍪 Cookie Consent & Banners
-- 🧑‍⚖️ Data Privacy & Control
-- 🗄️ Data Management & Auditing
+
+- [🍪 Cookie Consent & Banners](#-cookie-consent--banners)
 
 ### 📚 Documentation & Learning
 
@@ -542,19 +541,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Cookie Consent by Osano (open source)](https://github.com/osano/cookieconsent) – Lightweight JavaScript plugin to display GDPR-compliant cookie banners. Customizable and easy to integrate.
 - [Klaro!](https://github.com/KIProtect/klaro) – Declarative, open source consent manager with multilingual support and analytics integrations.
 - [TarteAuCitron.js](https://github.com/AmauriC/tarteaucitron.js) – French open source cookie manager used by many public institutions. Automatically blocks third-party services until consent is given.
-- [CookieYes](https://www.cookieyes.com/open-source/) – Free version available for cookie consent with open-source embed script (hybrid model).
-
-### 🧑‍⚖️ Data Privacy & Control
-
-- [Plausible Analytics](https://plausible.io/) – Privacy-first web analytics (no cookies, fully compliant out of the box). [GitHub](https://github.com/plausible/analytics)
-- [Umami](https://umami.is/) – Cookie-less, open source web analytics tool. Self-hosted and GDPR-friendly. [GitHub](https://github.com/umami-software/umami)
-- [Matomo](https://matomo.org/) – Open source web analytics with strong GDPR compliance tools (data anonymization, consent logs, opt-outs). [GitHub](https://github.com/matomo-org/matomo)
-
-### 🗄️ Data Management & Auditing
-
-- [Apache Ranger](https://ranger.apache.org/) – Data access control framework for big data environments (Hadoop, Hive, etc.) with auditing capabilities.
-- [Nextcloud](https://nextcloud.com/) – Self-hosted file platform with audit logs, data retention, and compliance features for GDPR.
-- [CryptPad](https://cryptpad.org/) – Privacy-respecting collaboration suite with end-to-end encryption and no personal data collection.
 
 
 ## 📚 Documentation & Resources
