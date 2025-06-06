@@ -668,9 +668,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [jsDelivr](https://www.jsdelivr.com/) – Free CDN for npm, GitHub, and WordPress.
 - [UNPKG](https://unpkg.com/) – Fast, global content delivery for everything on npm.
 - [Bunny.net](https://bunny.net/) – Simple, performant CDN with pay-as-you-go pricing and a free tier for small projects.
-- [Fastly](https://www.fastly.com/) – Real-time CDN with generous free developer plan.
-- [ImageEngine](https://imageengine.io/) – Image CDN with device-aware optimization. Free tier available.
-
 
 ## 🌀 Miscellaneous
 
