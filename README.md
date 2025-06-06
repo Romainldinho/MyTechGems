@@ -716,6 +716,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [EcoResponsible](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/) – A French website that provides tools and resources for eco-friendly websites.
 - [YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) – A collection of tools for analyzing the carbon footprint of websites. 
 
+
 ---
 
 <br/>
