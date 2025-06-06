@@ -117,6 +117,11 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [🧠 Structured Data & Open Graph](#-structured-data--open-graph)
 - [💡 Extras](#-extras)
 
+### 📦 Media & Asset Delivery
+
+- [🖼️ Image Optimization & Transformation](#-image-optimization--transformation)
+- [🌐 CDN & Performance](#-cdn--performance)
+
 ### 🌀 Miscellaneous
 
 - [🧩 Handy Tools](#-handy-tools)
@@ -646,6 +651,26 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 - [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) – Automate Lighthouse performance & SEO audits in CI/CD pipelines.
 - [Zustand SEO Middleware](https://github.com/BoMarconiHenriksen/zustand-next-seo) – Zustand middleware to sync state-driven SEO data with Next SEO.
+
+## 📦 Media & Asset Delivery
+
+### 🖼️ Image Optimization & Transformation
+
+- [imgproxy](https://imgproxy.net/) – Fast and secure on-the-fly image processing server. Open-source and self-hostable.
+- [ImageKit](https://imagekit.io/) – Real-time image CDN, optimization, and transformation. Generous free tier.
+- [Cloudinary](https://cloudinary.com/) – Complete image and video management platform. Free plan available.
+- [TinyPNG](https://tinypng.com/) – Smart lossy compression for PNG and JPEG images.
+- [Squoosh](https://squoosh.app/) – Browser-based image compression and format conversion by Google.
+
+### 🌐 CDN & Performance
+
+- [Cloudflare](https://www.cloudflare.com/) – Global CDN and security suite with free tier.
+- [jsDelivr](https://www.jsdelivr.com/) – Free CDN for npm, GitHub, and WordPress.
+- [UNPKG](https://unpkg.com/) – Fast, global content delivery for everything on npm.
+- [Bunny.net](https://bunny.net/) – Simple, performant CDN with pay-as-you-go pricing and a free tier for small projects.
+- [Fastly](https://www.fastly.com/) – Real-time CDN with generous free developer plan.
+- [ImageEngine](https://imageengine.io/) – Image CDN with device-aware optimization. Free tier available.
+
 
 ## 🌀 Miscellaneous
 
