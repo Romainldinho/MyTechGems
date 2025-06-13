@@ -378,7 +378,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Infisical](https://github.com/infisical/infisical) – Open-source secret management platform with a modern dashboard and syncing capabilities.
 - [Sops by Mozilla](https://github.com/mozilla/sops) – Encrypt, decrypt, and edit secrets using AWS KMS, GCP KMS, Azure Key Vault or PGP.
 - [EnvKey (Free Dev Tier)](https://www.envkey.com/) – Environment configuration management tool for teams and CI/CD pipelines.
-- [Teller](https://github.com/tellerops/teller) – Secrets management tool designed for dev workflows (dotenv, Vault, AWS, etc.).
 - [Gopass](https://github.com/gopasspw/gopass) – CLI password manager based on GPG and Git.
 - [AWS Secrets Manager (Free Tier)](https://aws.amazon.com/secrets-manager/) – Managed service for secrets, free within usage limits.
 
