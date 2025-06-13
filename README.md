@@ -363,6 +363,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 ### 🔐 Security
 
 - [OWASP](https://owasp.org/) – Security best practices and guides for web applications.
+- https://developer.mozilla.org/fr/observatory
 - [Helmet](https://github.com/helmetjs/helmet) – Middleware for Express.js that helps secure apps by setting HTTP headers.
 - [Auth0](https://auth0.com/) – Authentication and authorization platform (non open-source).
 - [Firebase Authentication](https://firebase.google.com/products/auth) – Authentication service for mobile and web apps (non open-source).
