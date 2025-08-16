@@ -228,6 +228,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [NestJS](https://nestjs.com/) – Scalable TypeScript framework for Node.js.
 - [Prisma](https://www.prisma.io/) – Modern ORM for Node.js and TypeScript.
 - [Drizzle](https://orm.drizzle.team/) - Modern ORM for Node.js and TypeScript.
+- https://github.com/nvm-sh/nvm
 
 #### 🧪 Testing Tools for Node.js & JavaScript
 
