@@ -399,15 +399,60 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 ## 🤖 AI & Machine Learning
 
-- [TensorFlow](https://www.tensorflow.org/) – Open-source framework for building and deploying machine learning models, ideal for deep learning.
-- [PyTorch](https://pytorch.org/) – Flexible ML framework for research and production, widely used in academia and industry.
-- [Scikit-learn](https://scikit-learn.org/) – Python library for classic machine learning tasks like classification, regression, and clustering.
-- [Grok](https://grok.com/) – xAI’s conversational AI for generating code, answering technical queries, and task automation.
-- [GitHub Copilot](https://github.com/features/copilot) – AI-powered code completion tool integrated into IDEs for faster development.
-- [Stable Diffusion](https://stability.ai/) – Open-source model for generating high-quality images and visual assets.
-- [OpenAI API](https://platform.openai.com/) – API for integrating advanced natural language processing into applications.
-- [Hugging Face](https://huggingface.co/) – Platform for pre-trained models and APIs in NLP, computer vision, and more.
-- [xAI API](https://x.ai/api) – API for embedding conversational AI capabilities into apps, powered by xAI.
+Artificial Intelligence and Machine Learning are transforming how developers build, optimize, and automate applications.  
+This section lists tools and frameworks for model training, inference, and integration with modern web ecosystems.
+
+---
+
+### 🧠 Machine Learning Frameworks
+
+- [Scikit-learn](https://scikit-learn.org/) – Python library for traditional machine learning tasks such as classification, regression, and clustering.
+- [TensorFlow](https://www.tensorflow.org/) – Open-source framework for building, training, and deploying machine learning and deep learning models.
+- [PyTorch](https://pytorch.org/) – Flexible deep learning framework popular in research and production environments.
+- [Keras](https://keras.io/) – High-level API running on top of TensorFlow, simplifying the creation of deep learning models.
+- [XGBoost](https://xgboost.ai/) – Optimized gradient boosting framework for high-performance and scalable ML tasks.
+- [LightGBM](https://lightgbm.readthedocs.io/) – Fast and efficient gradient boosting framework developed by Microsoft.
+- [CatBoost](https://catboost.ai/) – Gradient boosting library by Yandex, designed to handle categorical data automatically.
+
+---
+
+### 📟 Generative AI Tools
+
+- [OpenAI API](https://platform.openai.com/) – API for integrating advanced language models (e.g., GPT, DALL·E, Whisper) into applications for text, image, and speech generation.
+- [Hugging Face](https://huggingface.co/) – Community-driven platform for pretrained models in NLP, vision, and audio with APIs and model hosting.
+- [Stability AI / Stable Diffusion](https://stability.ai/) – Open-source diffusion models for generating high-quality, realistic images.
+- [Midjourney](https://www.midjourney.com/) – AI art generation platform for creative image synthesis.
+- [Runway ML](https://runwayml.com/) – No-code platform for generative video, image, and AI-powered creative workflows.
+- [Grok](https://grok.com/) – Conversational AI by xAI for technical Q&A, code generation, and reasoning tasks.
+- [GitHub Copilot](https://github.com/features/copilot) – AI-powered code assistant for autocompletion and code generation in real time.
+- [xAI API](https://x.ai/api) – API for integrating conversational AI capabilities powered by xAI’s large language models.
+
+---
+
+### 🔗 AI API Integrations
+
+- [LangChain](https://www.langchain.com/) – Framework for building LLM-powered applications that connect to external data sources and tools.
+- [LlamaIndex](https://www.llamaindex.ai/) – Data framework for connecting large language models to structured and unstructured data.
+- [Vercel AI SDK](https://sdk.vercel.ai/) – Developer toolkit for integrating AI chat and streaming text responses in modern web apps.
+- [Pinecone](https://www.pinecone.io/) – Managed vector database for similarity search and retrieval-augmented generation (RAG).
+- [Weaviate](https://weaviate.io/) – Open-source vector database for semantic search and AI-driven data retrieval.
+- [Chroma](https://www.trychroma.com/) – Simple and fast open-source embedding database for LLM applications.
+- [Replicate](https://replicate.com/) – API platform for running open-source AI models (image, text, audio) in production environments.
+
+---
+
+### 🧩 AI Utilities & Tooling
+
+- [Ollama](https://ollama.ai/) – Run large language models locally on your machine with minimal setup.
+- [LM Studio](https://lmstudio.ai/) – Desktop app for running and testing local LLMs with an intuitive interface.
+- [Comet ML](https://www.comet.com/) – Experiment tracking and model management for machine learning workflows.
+- [Weights & Biases](https://wandb.ai/) – Tools for experiment tracking, model monitoring, and collaboration.
+- [Gradio](https://www.gradio.app/) – Library for creating quick and shareable web UIs for ML models.
+- [Streamlit](https://streamlit.io/) – Python framework for building data and ML web apps effortlessly.
+
+---
+
+💡 **Tip:** Combine tools like **LangChain + OpenAI + Chroma** for building full-stack AI assistants and **Hugging Face Spaces** for deploying quick prototypes.
 
 ## 🧰 Tooling & Productivity
 
