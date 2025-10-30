@@ -21,21 +21,23 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 ### 💻 Development
 
 - [🎨 Frontend Development](#-frontend-development)
-  - [⚛️ React & Ecosystem](#-react--ecosystem)
-  - [🧠 State Management](#-state-management)
+
+  - [⚛️ React Ecosystem](#-react-ecosystem)
+  - [🟡 State Management](#-state-management)
   - [🎨 UI & Styling](#-ui--styling)
   - [📦 Libraries & Utilities](#-libraries--utilities)
+
 - [📱 Mobile Development](#-mobile-development)
-  - [⚛️ React Native & Ecosystem](#-react-native--ecosystem)
+
+  - [⚛️ React Native Ecosystem](#-react-native-ecosystem)
+
 - [🛠️ Backend Development](#-backend-development)
-  - [🐘 PHP & Ecosystem](#-php--ecosystem)
+
+  - [🐘 PHP Ecosystem](#-php-ecosystem)
   - [🟢 Node.js & JavaScript](#-nodejs--javascript)
   - [📝 CMS & Headless CMS](#-cms--headless-cms)
+
 - [🧪 Testing](#-testing)
-  - [⚛️ Frontend Testing](#-frontend-testing)
-  - [📱 Mobile Testing](#-mobile-testing)
-  - [🛠️ Backend Testing](#-backend-testing)
-  - [🔍 End-to-End Testing](#-end-to-end-testing)
 - [🔐 Secure Coding Practices](#-secure-coding-practices)
 
 ### 🛍️ eCommerce
@@ -43,20 +45,24 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [🧱 eCommerce Platforms](#-ecommerce-platforms)
 - [📦 Shopping Cart Libraries](#-shopping-cart-libraries)
 - [💳 Payments & Checkout](#-payments--checkout)
-- [⚙️ Headless / Jamstack Integration](#headless--jamstack-integration)
+- [⚙️ Headless / Jamstack Integration](#-headless--jamstack-integration)
 
 ### 🗃️ Data & Storage
 
-- [🗄️ Databases](#-databases)
-- [📊 Graph & Specialized Databases](#-graph--specialized-databases)
+- [🗄️ Databases & Tools](#-databases--tools)
+- [📊 Graph Databases](#-graph-databases)
 - [🧠 In-Memory Databases & Caching](#-in-memory-databases--caching)
-- [🔄 ETL/ELT & Data Pipelines](#-etl-elt--data-pipelines)
+- [🔄 ETL/ELT & Data Pipelines](#-etlelt--data-pipelines)
+- [📈 Dashboards & BI Tools](#-dashboards--bi-tools)
+- [🧠 Visual Thinking & Diagrams](#-visual-thinking--diagrams)
 
 ### ☁️ Infrastructure & DevOps
 
-- [☁️ Cloud Infrastructure](#-cloud-infrastructure)
-- [⚙️ CI/CD & Automation](#-cicd--automation)
-- [🔒 Security & Compliance](#-security--compliance)
+- [⚙️ DevOps & Infrastructure](#-devops--infrastructure)
+- [🌍 Cloud & Infrastructure](#-cloud--infrastructure)
+- [⚙️ Automation & CI/CD](#-automation--cicd)
+- [🔐 Security](#-security)
+- [🔐 Secrets Management](#-secrets-management)
 - [📊 Monitoring & Observability](#-monitoring--observability)
 
 ### 🤖 AI & Machine Learning
@@ -65,33 +71,45 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [📟 Generative AI Tools](#-generative-ai-tools)
 - [🔗 AI API Integrations](#-ai-api-integrations)
 
-### ⚡ Performance & Optimization
-
-- [📈 Web Performance Tools](#-web-performance-tools)
-- [🖼️ Asset Optimization](#-asset-optimization)
-- [🚀 Runtime Optimization](#-runtime-optimization)
-
 ### 🧰 Tools & Productivity
 
-- [🧑‍💻 Development Environments](#-development-environments)
-- [🛠️ CLI & Terminal Tools](#-cli--terminal-tools)
-- [📈 Productivity & Collaboration](#-productivity--collaboration)
-- [🤝 Project Management](#-project-management)
-- [🔧 No-Code/Low-Code Platforms](#-no-code-low-code-platforms)
+- [⚡ Scripting & Automation](#-scripting--automation)
+- [🛠️ Terminal & CLI Productivity](#-terminal--cli-productivity)
+- [🧑‍💻 Development Tools](#-development-tools)
+- [🛠️ Developer Utilities](#-developer-utilities)
+
+### 🧑‍🤝‍🧑 Project Management & Collaboration
+
+- [📋 Project Management Tools](#-project-management-tools)
+- [💬 Team Collaboration](#-team-collaboration)
 
 ### 🎨 Design & UX
 
-- [🎨 UI Kits & Prototyping](#-ui-kits--prototyping)
-- [🖼️ Icons & Visual Assets](#-icons--visual-assets)
-- [🧠 Diagramming & Visual Thinking](#-diagramming--visual-thinking)
+- [🎨 UI Kits, Wireframing & Mockups](#-ui-kits-wireframing--mockups)
+- [🖼️ Icons & Illustrations](#-icons--illustrations)
 - [♿ Accessibility (a11y)](#-accessibility-a11y)
 
-### 📦 APIs & Integrations
+### 📦 APIs & Integration
 
 - [🛠️ APIs & Services](#-apis--services)
 - [📬 Email & Messaging](#-email--messaging)
 - [🤖 Web Scraping & Automation](#-web-scraping--automation)
-- [🔄 Workflow Automation](#-workflow-automation)
+- [🔧 Automation & Workflow Platforms](#-automation--workflow-platforms)
+
+---
+
+### 🔍 SEO (Search Engine Optimization)
+
+- [🔧 On-Page SEO Utilities](#-on-page-seo-utilities)
+- [🗺️ Sitemap & Robots.txt Generation](#-sitemap--robotstxt-generation)
+- [📊 SEO Analytics & Monitoring](#-seo-analytics--monitoring)
+- [🧠 Structured Data & Open Graph](#-structured-data--open-graph)
+- [💡 Extras](#-extras)
+
+### 📦 Media & Asset Delivery
+
+- [🖼️ Image Optimization & Transformation](#-image-optimization--transformation)
+- [🌐 CDN & Performance](#-cdn--performance)
 
 ### 🛡️ GDPR & Privacy Compliance
 
@@ -108,19 +126,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 
 - [🛠️ Tools & Platforms](#-tools--platforms)
 - [📚 Libraries](#-libraries)
-
-### 🔍 SEO (Search Engine Optimization)
-
-- [🔧 On-Page SEO Utilities](#-on-page-seo-utilities)
-- [🗺️ Sitemap & Robots.txt Generation](#-sitemap--robotstxt-generation)
-- [📊 SEO Analytics & Monitoring](#-seo-analytics--monitoring)
-- [🧠 Structured Data & Open Graph](#-structured-data--open-graph)
-- [💡 Extras](#-extras)
-
-### 📦 Media & Asset Delivery
-
-- [🖼️ Image Optimization & Transformation](#-image-optimization--transformation)
-- [🌐 CDN & Performance](#-cdn--performance)
 
 ### 🌀 Miscellaneous
 
@@ -152,7 +157,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [tRPC](https://trpc.io/) – Build fully typesafe APIs without schemas or code generation, ideal for full-stack TypeScript apps.
 - [Apollo Client](https://www.apollographql.com/docs/react/) – GraphQL state management for React.
 - [V0](https://v0.dev/) – A React framework for building UI components and data visualizations.
-
 
 ##### 🟡 State Management
 
@@ -245,7 +249,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Drupal](https://www.drupal.org/) – A powerful open-source CMS for complex and scalable web applications.
 - [WordPress](https://wordpress.org/) – The most popular CMS for creating websites and blogs, with a vast ecosystem of plugins and themes.
 
-
 ## 🛍️ eCommerce
 
 ### 🧱 eCommerce Platforms
@@ -273,7 +276,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Solidus](https://solidus.io/) – Flexible Ruby on Rails eCommerce platform with deep customization, including payment and tax logic. [GitHub](https://github.com/solidusio/solidus)
 - [Stripe Checkout](https://github.com/stripe/stripe-checkout) – Not an eCommerce platform per se, but a ready-to-use embeddable checkout flow. Good for minimal setups.
 - [Payum](https://github.com/Payum/Payum) – PHP payment processing library supporting multiple gateways.
-
 
 ## 🗃️ Data & Storage
 
@@ -550,7 +552,6 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Klaro!](https://github.com/KIProtect/klaro) – Declarative, open source consent manager with multilingual support and analytics integrations.
 - [TarteAuCitron.js](https://github.com/AmauriC/tarteaucitron.js) – French open source cookie manager used by many public institutions. Automatically blocks third-party services until consent is given.
 
-
 ## 📚 Documentation & Resources
 
 ### 📜 Documentation Tools
@@ -712,8 +713,7 @@ Feel free to browse through the sections and suggest your favorite tools! 😊
 - [Sustainable Web Design](https://www.sustainablewebdesign.org/) – Initiative and guide to creating more sustainable and eco-friendly websites.
 - [CleanFox](https://www.cleanfox.io/) – Tool to clean up email inboxes, reducing the carbon footprint of email communications linked to websites.
 - [EcoResponsible](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/) – A French website that provides tools and resources for eco-friendly websites.
-- [YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) – A collection of tools for analyzing the carbon footprint of websites. 
-
+- [YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) – A collection of tools for analyzing the carbon footprint of websites.
 
 ---
 
